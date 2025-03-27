@@ -4,7 +4,7 @@ import { useEffect, useRef, useState, useCallback } from "react"
 
 export default function Services5() {
   const isotope = useRef<Isotope | null>(null)
-  const [filterKey, setFilterKey] = useState<string>("*")
+  const [filterKey, setFilterKey] = useState<string>("aibot")
 
   useEffect(() => {
     // Initialize Isotope with a slight delay to ensure DOM is ready
@@ -17,11 +17,16 @@ export default function Services5() {
             columnWidth: ".filter-item",
           },
         })
+
+        // Apply the initial filter after initialization
+        if (isotope.current) {
+          isotope.current.arrange({ filter: `.${filterKey}` })
+        }
       }
     }, 100)
 
     return () => clearTimeout(timer)
-  }, [])
+  }, [filterKey])
 
   useEffect(() => {
     if (isotope.current) {
@@ -62,9 +67,9 @@ export default function Services5() {
           </div>
           <div className="text-center mt-6">
             <div className="button-group filter-button-group filter-menu-active">
-              <button className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>
+              {/* <button className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>
                 All
-              </button>
+              </button> */}
               <button className={activeBtn("aibot")} onClick={handleFilterKeyChange("aibot")}>
                 MY AIBot
               </button>
@@ -86,11 +91,11 @@ export default function Services5() {
             </div>
           </div>
         </div>
-        <div className="container mt-6">
-          <div className="masonary-active">
+        <div className="container mt-6" >
+          <div className="masonary-active" >
             {/* =====================CRM=========================== */}
             {/* Each filter-item now contains a row with image and text side by side */}
-            <div className="filter-item w-100 mb-4 crm">
+            <div className="filter-item w-100 mb-4 crm" style={{color: "white"}}>
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-2 fix position-relative h-100">
@@ -115,6 +120,7 @@ export default function Services5() {
             </div>
 
             {/* =====================My Ai Bot=========================== */}
+            
             <div className="filter-item w-100 mb-4 aibot">
               <div className="row g-0">
                 <div className="col-md-8">
@@ -141,6 +147,81 @@ export default function Services5() {
 
             {/* =====================Web Design=========================== */}
             <div className="filter-item w-100 mb-4 webdesign">
+              <div className="row g-0">
+                <div className="col-md-8">
+                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                    <img
+                      className="rounded-2 w-100 h-100 object-fit-cover"
+                      src="assets/imgs/project-1/img-6.png"
+                      alt="infinia"
+                    />
+                  </div>
+                </div>
+                <div className="col-md-4">
+                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
+                    <h5 className="text-700">Responsive Web Design Portfolio</h5>
+                    <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
+                    <div className="d-flex gap-2">
+                      <button className="btn btn-primary">View</button>
+                      <button className="btn btn-secondary">Contact</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* =====================Marketing=========================== */}
+            <div className="filter-item w-100 mb-4 marketing">
+              <div className="row g-0">
+                <div className="col-md-8">
+                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                    <img
+                      className="rounded-2 w-100 h-100 object-fit-cover"
+                      src="assets/imgs/project-1/img-6.png"
+                      alt="infinia"
+                    />
+                  </div>
+                </div>
+                <div className="col-md-4">
+                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
+                    <h5 className="text-700">Responsive Web Design Portfolio</h5>
+                    <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
+                    <div className="d-flex gap-2">
+                      <button className="btn btn-primary">View</button>
+                      <button className="btn btn-secondary">Contact</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* =====================App=========================== */}
+            <div className="filter-item w-100 mb-4 app">
+              <div className="row g-0">
+                <div className="col-md-8">
+                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                    <img
+                      className="rounded-2 w-100 h-100 object-fit-cover"
+                      src="assets/imgs/project-1/img-6.png"
+                      alt="infinia"
+                    />
+                  </div>
+                </div>
+                <div className="col-md-4">
+                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
+                    <h5 className="text-700">Responsive Web Design Portfolio</h5>
+                    <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
+                    <div className="d-flex gap-2">
+                      <button className="btn btn-primary">View</button>
+                      <button className="btn btn-secondary">Contact</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* =====================Data Analysis=========================== */}
+            <div className="filter-item w-100 mb-4 dataanalysis">
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-2 fix position-relative h-100">

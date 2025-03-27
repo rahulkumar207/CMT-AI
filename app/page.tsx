@@ -10,18 +10,19 @@ import Pricing1 from "@/components/sections/Pricing1"
 import Services1 from "@/components/sections/Services1"
 import Team1 from "@/components/sections/Team1"
 import Testimonial1 from "@/components/sections/Testimonial1"
+import Testimonial2 from "@/components/sections/Testimonial2"
 import Services from "@/components/sections/Services3"
 import Trusted from "@/components/sections/Static3"
 import CTA from "@/components/sections/Cta2"
 import CTA2 from "@/components/sections/Cta6"
 import Project11 from "@/components/sections/Project1"
-import Testimonial from "@/components/sections/Testimonial4"
+import Testimonial from "@/components/sections/Testimonial3"
+import Testimonial4 from "@/components/sections/Testimonial4"
 import Trusted1 from "@/components/sections/LogoCloud3"
 import dynamic from 'next/dynamic'
 const Services5 = dynamic(() => import('@/components/sections/Services5'), {
 	ssr: false,
 }); 
-import Testimonial2 from "@/components/sections/Testimonial2"
 
 
 export default function Home() {
@@ -29,7 +30,7 @@ export default function Home() {
 	return (
 		<>
 
-			<Layout headerStyle={1} footerStyle={1}>
+			<Layout headerStyle={1} footerStyle={4}>
 				<Hero1 />
 				<LogoCloud1 />
 				<Services />
@@ -40,7 +41,8 @@ export default function Home() {
 				<CTA2 />
 				<Services5 />
 				<Trusted1 />
-				<Testimonial/>
+				{/* <Testimonial/> */}
+				<Testimonial4/>
 				{/* <Testimonial2/> */}
 				{/* <Features2 />
 				<Features3 />
