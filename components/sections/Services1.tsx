@@ -141,15 +141,15 @@ export default function Services1() {
 								<div className="card-service bg-white p-6 border rounded-3">
 									<img src="/assets/imgs/service-3/digital.svg" alt="infinia" />
 									<h6 className="my-3">Digital Marketing </h6>
-									<p className="mb-6">
-										<ul>
+									
+										<ul className="mb-6">
 											<li>SMM | SEO | SEM</li>
 											<li>Influencer Marketing</li>
 											<li>Google Search Ads</li>
 											<li>Reels and Short Video Creation</li>
 											<li>Blog Writing</li>
 										</ul>
-									</p>
+									
 									<Link href="https://www.cmtai.live/" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
 										<svg className="plus" xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
 											<g clipPath="url(#clip0_226_5470)">
