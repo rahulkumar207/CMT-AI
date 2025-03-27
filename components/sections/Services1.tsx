@@ -11,6 +11,8 @@ export default function Services1() {
 							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Things We do at CMT AI</span>
 						</div>
+						<h3 className="ds-3 my-3" data-aos="fade-zoom-in" data-aos-delay={300}>Our Services</h3>
+
 					</div>
 					<div className="row mt-6 position-relative">
 						<div className="col-lg-4">
@@ -42,6 +44,7 @@ export default function Services1() {
 											<path className="fill-dark" d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z" fill="#111827" />
 										</svg>
 										<span className="fw-bold fs-7 text-900">Explore More</span>
+										
 									</Link>
 								</div>
 							</div>

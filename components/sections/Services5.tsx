@@ -4,7 +4,7 @@ import { useEffect, useRef, useState, useCallback } from "react"
 
 export default function Services5() {
   const isotope = useRef<Isotope | null>(null)
-  const [filterKey, setFilterKey] = useState<string>("aibot")
+  const [filterKey, setFilterKey] = useState<string>("crm")
 
   useEffect(() => {
     // Initialize Isotope with a slight delay to ensure DOM is ready
@@ -57,9 +57,9 @@ export default function Services5() {
               data-aos-delay={100}
             >
               <img src="assets/imgs/features-1/dots.png" alt="infinia" />
-              <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">What we offers</span>
+              <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Things we have created at cmt ai</span>
             </div>
-            <h3 className="ds-3 my-3">Explore Our Projects</h3>
+            <h3 className="ds-3 my-3">Our Projects</h3>
             <p className="fs-5">
               It is a long established fact that a reader will be distracted by <br className="d-none d-lg-block" />
               the readable content of a page when looking at its layout.
@@ -70,17 +70,18 @@ export default function Services5() {
               {/* <button className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>
                 All
               </button> */}
+               <button className={activeBtn("crm")} onClick={handleFilterKeyChange("crm")}>
+                CRM
+              </button>
               <button className={activeBtn("aibot")} onClick={handleFilterKeyChange("aibot")}>
                 MY AIBot
               </button>
-              <button className={activeBtn("webdesign")} onClick={handleFilterKeyChange("webdesign")}>
-                Web Design
+              <button className={activeBtn("erp")} onClick={handleFilterKeyChange("erp")}>
+                ERP
               </button>
-              <button className={activeBtn("crm")} onClick={handleFilterKeyChange("crm")}>
-                CRM
-              </button>
-              <button className={activeBtn("marketing")} onClick={handleFilterKeyChange("marketing")}>
-                Marketing
+             
+              <button className={activeBtn("lms")} onClick={handleFilterKeyChange("lms")}>
+                LMS
               </button>
               <button className={activeBtn("app")} onClick={handleFilterKeyChange("app")}>
                 APP
@@ -95,7 +96,7 @@ export default function Services5() {
           <div className="masonary-active" >
             {/* =====================CRM=========================== */}
             {/* Each filter-item now contains a row with image and text side by side */}
-            <div className="filter-item w-100 mb-4 crm" style={{color: "white"}}>
+            <div className="filter-item w-100 mb-4 crm" style={{ color: "white" }}>
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-2 fix position-relative h-100">
@@ -110,9 +111,9 @@ export default function Services5() {
                   <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
                     <h5 className="text-700">Financial analysis software 4.0 for JiCo JSC</h5>
                     <p className="fs-7 mb-3">Achieve Your a of Business</p>
-                    <div className="d-flex gap-2">
-                      <button className="btn btn-primary">Get</button>
-                      <button className="btn btn-secondary">Free Update</button>
+                    <div className="d-flex gap-2 btn-container">
+                      <a href="cmtai-crm" className="btn btn-primary">Get THIS</a>
+                      <a href="cmtai-crm" className="btn btn-secondary">Free Demo</a>
                     </div>
                   </div>
                 </div>
@@ -120,7 +121,7 @@ export default function Services5() {
             </div>
 
             {/* =====================My Ai Bot=========================== */}
-            
+
             <div className="filter-item w-100 mb-4 aibot">
               <div className="row g-0">
                 <div className="col-md-8">
@@ -136,17 +137,17 @@ export default function Services5() {
                   <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
                     <h5 className="text-700">AI-Powered Chatbot Solution</h5>
                     <p className="fs-7 mb-3">Intelligent Automation for Customer Support</p>
-                    <div className="d-flex gap-2">
-                      <button className="btn btn-primary">Get</button>
-                      <button className="btn btn-secondary">Free Demo</button>
+                    <div className="d-flex gap-2 btn-container">
+                      <a href="https://example.com" className="btn btn-primary">Get THIS</a>
+                      <a href="https://example.com/demo" className="btn btn-secondary">Free Demo</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
 
-            {/* =====================Web Design=========================== */}
-            <div className="filter-item w-100 mb-4 webdesign">
+            {/* ===================== ERP =========================== */}
+            <div className="filter-item w-100 mb-4 erp">
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-2 fix position-relative h-100">
@@ -161,16 +162,16 @@ export default function Services5() {
                   <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
                     <h5 className="text-700">Responsive Web Design Portfolio</h5>
                     <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
-                    <div className="d-flex gap-2">
-                      <button className="btn btn-primary">View</button>
-                      <button className="btn btn-secondary">Contact</button>
+                    <div className="d-flex gap-2 btn-container">
+                      <a href="cmtai-erp" className="btn btn-primary">Get THIS</a>
+                      <a href="cmtai-erp" className="btn btn-secondary">Free Demo</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
 
-            {/* =====================Marketing=========================== */}
+            {/* =====================LMS=========================== */}
             <div className="filter-item w-100 mb-4 marketing">
               <div className="row g-0">
                 <div className="col-md-8">
@@ -186,9 +187,9 @@ export default function Services5() {
                   <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
                     <h5 className="text-700">Responsive Web Design Portfolio</h5>
                     <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
-                    <div className="d-flex gap-2">
-                      <button className="btn btn-primary">View</button>
-                      <button className="btn btn-secondary">Contact</button>
+                    <div className="d-flex gap-2 btn-container">
+                      <a href="cmtai-lms" className="btn btn-primary">Get THIS</a>
+                      <a href="cmtai-lms" className="btn btn-secondary">Free Demo</a>
                     </div>
                   </div>
                 </div>
