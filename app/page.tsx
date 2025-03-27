@@ -33,11 +33,13 @@ export default function Home() {
 			<Layout headerStyle={1} footerStyle={4}>
 				<Hero1 />
 				<LogoCloud1 />
-				<Services />
+
+				{/* <Services /> */}
+				<Services1 />
 				<Trusted />
 				{/* <Features1 /> */}
 				<CTA />
-				<Project11 />
+				{/* <Project11 /> */}
 				<CTA2 />
 				<Services5 />
 				<Trusted1 />
