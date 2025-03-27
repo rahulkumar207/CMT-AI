@@ -41,7 +41,7 @@ export default function Services1() {
 										<svg className="arrow" xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10" fill="none">
 											<path className="fill-dark" d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z" fill="#111827" />
 										</svg>
-										<span className="fw-bold fs-7 text-900">Learm More</span>
+										<span className="fw-bold fs-7 text-900">Explore More</span>
 									</Link>
 								</div>
 							</div>
@@ -70,7 +70,7 @@ export default function Services1() {
 										<svg className="arrow" xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10" fill="none">
 											<path className="fill-dark" d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z" fill="#111827" />
 										</svg>
-										<span className="fw-bold fs-7 text-900">Learm More</span>
+										<span className="fw-bold fs-7 text-900">Explore More</span>
 									</Link>
 								</div>
 							</div>
@@ -100,7 +100,7 @@ export default function Services1() {
 										<svg className="arrow" xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10" fill="none">
 											<path className="fill-dark" d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z" fill="#111827" />
 										</svg>
-										<span className="fw-bold fs-7 text-900">Learm More</span>
+										<span className="fw-bold fs-7 text-900">Explore More</span>
 									</Link>
 								</div>
 							</div>
@@ -131,7 +131,7 @@ export default function Services1() {
 										<svg className="arrow" xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10" fill="none">
 											<path className="fill-dark" d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z" fill="#111827" />
 										</svg>
-										<span className="fw-bold fs-7 text-900">Learm More</span>
+										<span className="fw-bold fs-7 text-900">Explore More</span>
 									</Link>
 								</div>
 							</div>
@@ -164,7 +164,7 @@ export default function Services1() {
 										<svg className="arrow" xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10" fill="none">
 											<path className="fill-dark" d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z" fill="#111827" />
 										</svg>
-										<span className="fw-bold fs-7 text-900">Learm More</span>
+										<span className="fw-bold fs-7 text-900">Explore More</span>
 									</Link>
 								</div>
 							</div>
@@ -193,7 +193,7 @@ export default function Services1() {
 										<svg className="arrow" xmlns="http://www.w3.org/2000/svg" width={18} height={10} viewBox="0 0 18 10" fill="none">
 											<path className="fill-dark" d="M13.0633 0.0634766L12.2615 0.86529L15.8294 4.43321H0V5.56716H15.8294L12.2615 9.13505L13.0633 9.93686L18 5.00015L13.0633 0.0634766Z" fill="#111827" />
 										</svg>
-										<span className="fw-bold fs-7 text-900">Learm More</span>
+										<span className="fw-bold fs-7 text-900">Explore More</span>
 									</Link>
 								</div>
 							</div>
