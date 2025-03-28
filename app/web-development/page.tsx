@@ -15,7 +15,7 @@ export default function PageServicesDetails2() {
 	return (
 		<>
 
-			<Layout >
+			<Layout>
 
 				{/* Other sections */}
 				<section className="section-services-details pt-80px pb-120">

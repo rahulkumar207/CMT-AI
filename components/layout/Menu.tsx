@@ -18,7 +18,7 @@ export default function Menu() {
 					</li>
 					<li className="nav-item dropdown menu-item-has-children">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-							Product
+							Products
 						</Link>
 						<div className="dropdown-menu fix">
 							<ul className="list-unstyled">
@@ -128,10 +128,10 @@ export default function Menu() {
 						</div>
 					</li>
 										
-				
+{/* 				
 					<li className="nav-item">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="/page-contact-1">Contact</Link>
-					</li>
+					</li> */}
 				</ul>
 			</div>
 		</>

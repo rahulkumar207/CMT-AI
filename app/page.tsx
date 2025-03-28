@@ -30,7 +30,7 @@ export default function Home() {
 	return (
 		<>
 
-			<Layout headerStyle={1} footerStyle={4}>
+			<Layout>
 				<Hero1 />
 				<LogoCloud1 />
 
