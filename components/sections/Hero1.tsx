@@ -9,16 +9,16 @@ export default function Hero1() {
 					<div className="row content align-items-center">
 						<div className="col-lg-6 col-md-12 mb-lg-0 mb-5">
 							<div className="pe-2">
-								<Link href="#" className="d-flex align-items-center bg-linear-1 d-inline-flex rounded-pill px-2 py-1">
+								<Link href="https://myaibot.in/" className="d-flex align-items-center bg-linear-1 d-inline-flex rounded-pill px-2 py-1">
 									<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">New</span>
-									<span className="fs-7 fw-medium text-primary mx-2">Free Lifetime Update</span>
+									<span className="fs-7 fw-medium text-primary mx-2">My Ai Bot</span>
 									<svg xmlns="http://www.w3.org/2000/svg" width={18} height={19} viewBox="0 0 18 19" fill="none">
 										<path d="M10.3125 5.5625L14.4375 9.5L10.3125 13.4375" stroke="white" strokeWidth="1.125" strokeLinecap="round" strokeLinejoin="round" />
 										<path d="M14.25 9.5H3.5625" stroke="white" strokeWidth="1.125" strokeLinecap="round" strokeLinejoin="round" />
 									</svg>
 								</Link>
-								<h3 className="ds-3 mt-4 mb-5" data-aos="fade-zoom-in" data-aos-delay={0}>Boost your project's speed and efficiency.</h3>
-								<p className="pe-10 mb-5" data-aos="fade-zoom-in" data-aos-delay={200}>Access top-tier group mentoring plans and exclusive professional benefits for your team.</p>
+								<h3 className="ds-3 mt-4 mb-3" data-aos="fade-zoom-in" data-aos-delay={0}>We craft Technologies That defines Excellence</h3>
+								<p className="pe-10 mb-5" data-aos="fade-zoom-in" data-aos-delay={200}>With Precision in Every Pixel,  CMT AI Leads the Innovation Wave. Merging innovation, expertise, and visionary solutions to empower businesses with unmatched quality, creativity, and technological brilliance.</p>
 								<Link href="/page-services-1" className="btn btn-gradient" data-aos="fade-zoom-in" data-aos-delay={300}>
 									Explore Now
 									<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
