@@ -16,7 +16,7 @@ export default function Cta2() {
 							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Why We Are The Best</span>
 						</div>
-						<h3 className="ds-3 my-3 fw-regular">We provide <span className=" fw-bold">solutions</span> to <br className="d-lg-block d-none" /> <span className=" fw-bold">big  small</span> organizations</h3>
+						<h3 className="ds-3 my-3 fw-regular"><span className=" fw-bold"> Top-Tier Development, Startup-Friendly Costs!</span> </h3>
 					</div>
 					<div className="row">
 						<div className="col-lg-5 pe-lg-0">
@@ -44,8 +44,8 @@ export default function Cta2() {
 							</div>
 						</div>
 						<div className="col-lg-6 offset-lg-1 ps-lg-0 pe-lg-5 mt-lg-0 mt-6">
-							<h5 className="ds-5">Where your financial dreams become reality</h5>
-							<p className="fs-5 text-500">Provide your team with top-tier group mentoring programs and exceptional professional benefits.</p>
+							<h5 className="ds-5">Affordable Innovation for Every Business!</h5>
+							<p className="fs-5 text-500">From sleek websites to powerful mobile apps, we provide top-tier development services at unbeatable prices. Quality, efficiency, and affordability—all in one place!</p>
 							<div className="d-md-flex align-items-center mt-4 mb-5">
 								<ul className="list-unstyled phase-items mb-0">
 									<li className="d-flex align-items-center mt-3">
