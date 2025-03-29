@@ -59,11 +59,11 @@ export default function Services5() {
               <img src="assets/imgs/features-1/dots.png" alt="infinia" />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Things we have created at cmt ai</span>
             </div>
-            <h3 className="ds-3 my-3">Our Projects</h3>
-            <p className="fs-5">
+            <h3 className="ds-3 my-3">Our Products</h3>
+            {/* <p className="fs-5">
               It is a long established fact that a reader will be distracted by <br className="d-none d-lg-block" />
               the readable content of a page when looking at its layout.
-            </p>
+            </p> */}
           </div>
           <div className="text-center mt-6">
             <div className="button-group filter-button-group filter-menu-active">
@@ -172,7 +172,7 @@ export default function Services5() {
             </div>
 
             {/* =====================LMS=========================== */}
-            <div className="filter-item w-100 mb-4 marketing">
+            <div className="filter-item w-100 mb-4 marketing lms">
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-2 fix position-relative h-100">

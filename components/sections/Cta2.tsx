@@ -3,6 +3,7 @@ import Link from "next/link"
 import { useState } from 'react'
 import CountUp from 'react-countup'
 import ModalVideo from 'react-modal-video'
+
 export default function Cta2() {
 
 	const [isOpen, setOpen] = useState(false)
