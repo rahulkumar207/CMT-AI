@@ -74,7 +74,7 @@ export default function Menu() {
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="/app-deveopment">
 										{/* Using an external SVG image */}
-										<img src="/assets/imgs/service-3/App.svg" alt="Web Development" width={18} height={18} className="mt-1" />
+										<img src="/assets/imgs/service-3/App.svg" alt="App Development" width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6">App Development</span>
@@ -84,7 +84,7 @@ export default function Menu() {
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="/ai-ml-development">
 										{/* Using an external SVG image */}
-										<img src="/assets/imgs/service-3/Ai.svg" alt="Web Development" width={18} height={18} className="mt-1" />
+										<img src="/assets/imgs/service-3/Ai.svg" alt="AI/ML Development" width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6">AI/ML Development</span>
@@ -94,7 +94,7 @@ export default function Menu() {
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="/cloud-computing">
 										{/* Using an external SVG image */}
-										<img src="/assets/imgs/service-3/software engineer.svg" alt="Web Development" width={18} height={18} className="mt-1" />
+										<img src="/assets/imgs/service-3/software engineer.svg" alt="Cloud Computing" width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6">Cloud Computing</span>
@@ -104,7 +104,7 @@ export default function Menu() {
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="https://www.cmtai.live/">
 										{/* Using an external SVG image */}
-										<img src="/assets/imgs/service-3/digital.svg" alt="Web Development" width={18} height={18} className="mt-1" />
+										<img src="/assets/imgs/service-3/digital.svg" alt="Digital Marketing" width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6">Digital Marketing </span>
@@ -114,7 +114,7 @@ export default function Menu() {
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="https://www.cmtai.live/Pr">
 										{/* Using an external SVG image */}
-										<img src="/assets/imgs/service-3/Group 2.svg" alt="Web Development" width={18} height={18} className="mt-1" />
+										<img src="/assets/imgs/service-3/Group 2.svg" alt="PR Services" width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6">PR Services</span>
