@@ -149,6 +149,17 @@ Table of contents
 }
 /* =================lottie animation ============== */
 /* styles.css */
+.animation-wrapper {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.animation-wrapper > :global(svg) {
+  width: 100%;
+  height: auto;
+}
 
 /* General Mobile Styles */
 @media only screen and (max-width: 768px) {

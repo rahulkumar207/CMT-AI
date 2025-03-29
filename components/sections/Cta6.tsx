@@ -10,12 +10,12 @@ export default function Cta6() {
 				<div className="container">
 					<div className="row">
 						<div className="col-lg-6 pe-lg-0">
-							<div className="zoom-img rounded-end-lg-0 rounded-4">
-							<DotLottieReact
-                  src="https://lottie.host/11a19107-cbff-43d4-ad32-d6137d5ce730/0x86xfj5IN.lottie"
-                  loop
-                  autoplay
-                />
+							<div className="zoom-img rounded-end-lg-0 rounded-4 animation-wrapper border shadow-1 p-5 rounded-end-lg-0">
+								<DotLottieReact
+									src="https://lottie.host/11a19107-cbff-43d4-ad32-d6137d5ce730/0x86xfj5IN.lottie"
+									loop
+									autoplay
+								/>
 							</div>
 						</div>
 						<div className="col-12 col-lg-6 ps-lg-0 align-self-stretch ">
@@ -41,6 +41,7 @@ export default function Cta6() {
 					</div>
 				</div>
 			</section>
+			
 		</>
 	)
 }
