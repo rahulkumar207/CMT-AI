@@ -76,8 +76,7 @@ export default function Services5() {
               <button className={activeBtn("aibot")} onClick={handleFilterKeyChange("aibot")}>
                 AI CHAT BOT
               </button>
-             
-             
+
               <button className={activeBtn("lms")} onClick={handleFilterKeyChange("lms")}>
                CMT SMART LMS
               </button>
@@ -102,11 +101,11 @@ export default function Services5() {
                 </div>
                 <div className="col-md-4">
                   <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
-                    <h5 className="text-700">Financial analysis software 4.0 for JiCo JSC</h5>
-                    <p className="fs-7 mb-3">Achieve Your a of Business</p>
+                    <h5 className="text-700">Power Up Your Business with AI-Driven CRM Solutions.</h5>
+                    <p className="fs-7 mb-3">CMT SMART CRM is a powerful, AI-powered customer relationship management solution designed for businesses that value data security and customization. With seamless automation, analytics, and integration, it streamlines operations and enhances customer engagement. Deployed on your personal cloud server, it ensures complete data control – because your data should stay yours!</p>
                     <div className="d-flex gap-2 btn-container">
                       <a href="cmtai-crm" className="btn btn-primary">Explore More</a>
-                      <a href="cmtai-crm" className="btn  "> Launch Demo</a>
+                      <a href="https://crm.completrix.com/" className="btn  "> Launch Demo</a>
                     </div>
                   </div>
                 </div>
@@ -128,19 +127,44 @@ export default function Services5() {
                 </div>
                 <div className="col-md-4">
                   <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
-                    <h5 className="text-700">AI-Powered Chatbot Solution</h5>
-                    <p className="fs-7 mb-3">Intelligent Automation for Customer Support</p>
+                    <h5 className="text-700">Automate Conversations, Elevate Customer Experience!</h5>
+                    <p className="fs-7 mb-3">MY AI BOT is an intelligent chatbot designed to automate customer interactions, enhance engagement, and improve efficiency. Powered by advanced AI and NLP (Natural Language Processing), it understands queries, provides instant responses, and learns from interactions to offer a human-like experience. Whether for businesses, websites, or customer support, MY AI BOT is your 24/7 AI-powered assistant!</p>
                     <div className="d-flex gap-2 btn-container">
                       <a href="https://example.com" className="btn btn-primary">Explore More</a>
-                      <a href="https://example.com/demo" className="btn btn-secondary">Launch Demo</a>
+                      <a href="https://myaibot.in/" className="btn btn-secondary">Launch Demo</a>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
 
+             {/* =====================LMS=========================== */}
+             <div className="filter-item w-100 mb-4 marketing lms">
+              <div className="row g-0">
+                <div className="col-md-8">
+                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
+                    <img
+                      className="rounded-2 w-100 h-100 object-fit-cover"
+                      src="assets/imgs/project-1/img-8.png"
+                      alt="infinia"
+                    />
+                  </div>
+                </div>
+                <div className="col-md-4">
+                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
+                    <h5 className="text-700">AI-Powered LMS for Seamless Training & Skill Development.</h5>
+                    <p className="fs-7 mb-3">CMT SMART LMS is an AI-powered Learning Management System built for corporates, educators, and institutions. It offers an intuitive interface for course management, assessments, and progress tracking, ensuring an interactive and engaging learning experience. Personalized learning paths, real-time analytics, and AI-driven recommendations make it the ideal LMS for modern learning needs.</p>
+                    <div className="d-flex gap-2 btn-container">
+                      <a href="cmtai-lms" className="btn btn-primary">Explore More</a>
+                      <a href="https://lms.completrix.com/" className="btn btn-secondary">Launch Demo</a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div> 
+
             {/* ===================== ERP =========================== */}
-            <div className="filter-item w-100 mb-4 erp">
+            {/* <div className="filter-item w-100 mb-4 erp">
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-4 fix position-relative h-100">
@@ -162,35 +186,12 @@ export default function Services5() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
 
-            {/* =====================LMS=========================== */}
-            <div className="filter-item w-100 mb-4 marketing lms">
-              <div className="row g-0">
-                <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
-                    <img
-                      className="rounded-2 w-100 h-100 object-fit-cover"
-                      src="assets/imgs/project-1/img-8.png"
-                      alt="infinia"
-                    />
-                  </div>
-                </div>
-                <div className="col-md-4">
-                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
-                    <h5 className="text-700">Responsive Web Design Portfolio</h5>
-                    <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
-                    <div className="d-flex gap-2 btn-container">
-                      <a href="cmtai-lms" className="btn btn-primary">Explore More</a>
-                      <a href="cmtai-lms" className="btn btn-secondary">Launch Demo</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
+           
 
             {/* =====================App=========================== */}
-            <div className="filter-item w-100 mb-4 app">
+            {/* <div className="filter-item w-100 mb-4 app">
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-4 fix position-relative h-100">
@@ -212,10 +213,10 @@ export default function Services5() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
 
             {/* =====================Data Analysis=========================== */}
-            <div className="filter-item w-100 mb-4 dataanalysis">
+            {/* <div className="filter-item w-100 mb-4 dataanalysis">
               <div className="row g-0">
                 <div className="col-md-8">
                   <div className="project-item zoom-img rounded-4 fix position-relative h-100">
@@ -237,7 +238,7 @@ export default function Services5() {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 

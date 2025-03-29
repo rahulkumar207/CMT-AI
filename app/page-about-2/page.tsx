@@ -59,8 +59,8 @@ export default function PageAbout2() {
 										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">About our company</span>
 									</div>
-									<h5 className="ds-5 my-3 fw-regular">Uncover <span className="fw-bold">Our Journey: <br className="d-none d-md-inline" /> </span> Uniting Through <span className="fw-bold">Creativity</span></h5>
-									<p className="fs-5 mb-0 text-500">Our dedication to quality and excellence has made us a trusted partner for enterprises looking to enhance their online presence.</p>
+									<h5 className="ds-5 my-3 fw-regular">We Are India's most Affordable Technology Company....</h5>
+									<p className="fs-5 mb-0 text-500">CMT AI is a leading provider of affordable AI solutions in India. We are committed to democratizing AI by offering cost-effective, high-quality software that empowers businesses of all sizes. Our innovative AI-powered tools and services are designed to streamline operations, enhance decision-making, and drive growth.</p>
 								</div>
 							</div>
 						</div>

@@ -200,126 +200,84 @@ export default function Testimonial4() {
                 <SwiperSlide className="swiper-slide">
                   <div className="px-lg-6">
                     <div className="d-flex flex-column">
-                      <h6 className="ms-3 fs-6 mb-0">John Anderson</h6>
+                      <h6 className="ms-3 fs-6 mb-0">Emily Carter</h6>
                       <div className="flag ms-3">
                         <img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
-                        <span className="fs-8">CEO of Tech Innovators Inc</span>
+                        <span className="fs-8">Customer Success Manager, SwiftTech Solutions (USA)</span>
                       </div>
                     </div>
                     <p className="text-900 mt-5">
-                      Our collaboration with the team has been instrumental in optimizing our project management
-                      processes.{" "}
-                      <span className="fw-bold">
-                        The extensive selection of over 1200 UI blocks has allowed us to customize our project
-                        interfaces to meet specific client needs effectively.
-                      </span>{" "}
-                      The generous 10 GB of cloud storage has provided ample space for storing project files securely,
-                      enabling seamless collaboration across distributed teams.
+                    "MY AI BOT has transformed our customer support operations! Our response time has decreased by 70%, and customers appreciate the quick and relevant answers. The AI-powered learning capability ensures it improves over time. It's like having an always-on virtual assistant that never sleeps!"
                     </p>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
                   <div className="px-lg-6">
                     <div className="d-flex flex-column">
-                      <h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
-                      <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
-                        <span className="fs-8">CEO of Tech Innovators Inc</span>
-                      </div>
-                    </div>
-                    <p className="text-900 mt-5">
-                      Our collaboration with the team has been instrumental in optimizing our project management
-                      processes.{" "}
-                      <span className="fw-bold">
-                        The extensive selection of over 1200 UI blocks has allowed us to customize our project
-                        interfaces to meet specific client needs effectively.
-                      </span>{" "}
-                      The generous 10 GB of cloud storage has provided ample space for storing project files securely,
-                      enabling seamless collaboration across distributed teams.
-                    </p>
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide className="swiper-slide">
-                  <div className="px-lg-6">
-                    <div className="d-flex flex-column">
-                      <h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
+                      <h6 className="ms-3 fs-6 mb-0">Dr. Robert Williams</h6>
                       <div className="flag ms-3">
                         <img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
-                        <span className="fs-8">CEO of Tech Innovators Inc</span>
+                        <span className="fs-8">Director, EduFuture Academy (UK)</span>
                       </div>
                     </div>
                     <p className="text-900 mt-5">
-                      Our collaboration with the team has been instrumental in optimizing our project management
-                      processes.{" "}
-                      <span className="fw-bold">
-                        The extensive selection of over 1200 UI blocks has allowed us to customize our project
-                        interfaces to meet specific client needs effectively.
-                      </span>{" "}
-                      The generous 10 GB of cloud storage has provided ample space for storing project files securely,
-                      enabling seamless collaboration across distributed teams.
+                    "CMT SMART LMS is the perfect learning platform for our online courses. The AI-powered student engagement tools and personalized learning recommendations have made a huge difference. Our students are more engaged, and our instructors find it easy to manage. The best LMS we've worked with!"
                     </p>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
                   <div className="px-lg-6">
                     <div className="d-flex flex-column">
-                      <h6 className="ms-3 fs-6 mb-0">Automated reports</h6>
-                      <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
-                        <span className="fs-8">CEO of Tech Innovators Inc</span>
-                      </div>
-                    </div>
-                    <p className="text-900 mt-5">
-                      Our collaboration with the team has been instrumental in optimizing our project management
-                      processes.{" "}
-                      <span className="fw-bold">
-                        The extensive selection of over 1200 UI blocks has allowed us to customize our project
-                        interfaces to meet specific client needs effectively.
-                      </span>{" "}
-                      The generous 10 GB of cloud storage has provided ample space for storing project files securely,
-                      enabling seamless collaboration across distributed teams.
-                    </p>
-                  </div>
-                </SwiperSlide>
-                <SwiperSlide className="swiper-slide">
-                  <div className="px-lg-6">
-                    <div className="d-flex flex-column">
-                      <h6 className="ms-3 fs-6 mb-0">Funnel optimization</h6>
+                      <h6 className="ms-3 fs-6 mb-0">Jason Miller</h6>
                       <div className="flag ms-3">
                         <img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
-                        <span className="fs-8">CEO of Tech Innovators Inc</span>
+                        <span className="fs-8">CTO, InnovateX Inc. (USA)</span>
                       </div>
                     </div>
                     <p className="text-900 mt-5">
-                      Our collaboration with the team has been instrumental in optimizing our project management
-                      processes.{" "}
-                      <span className="fw-bold">
-                        The extensive selection of over 1200 UI blocks has allowed us to customize our project
-                        interfaces to meet specific client needs effectively.
-                      </span>{" "}
-                      The generous 10 GB of cloud storage has provided ample space for storing project files securely,
-                      enabling seamless collaboration across distributed teams.
+                    "We partnered with CMT AI for a custom enterprise software solution, and they exceeded our expectations. Their team understands complex business requirements and delivers robust, AI-driven solutions. Their ability to integrate AI and automation into our workflows has been a game-changer for our business!"
                     </p>
                   </div>
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
                   <div className="px-lg-6">
                     <div className="d-flex flex-column">
-                      <h6 className="ms-3 fs-6 mb-0">Integrations</h6>
+                      <h6 className="ms-3 fs-6 mb-0">Sarah Johnson</h6>
                       <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
-                        <span className="fs-8">CEO of Tech Innovators Inc</span>
+                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+                        <span className="fs-8">COO, RetailSync Ltd. (UK)</span>
                       </div>
                     </div>
                     <p className="text-900 mt-5">
-                      Our collaboration with the team has been instrumental in optimizing our project management
-                      processes.{" "}
-                      <span className="fw-bold">
-                        The extensive selection of over 1200 UI blocks has allowed us to customize our project
-                        interfaces to meet specific client needs effectively.
-                      </span>{" "}
-                      The generous 10 GB of cloud storage has provided ample space for storing project files securely,
-                      enabling seamless collaboration across distributed teams.
+                    "CMT AI helped us optimize our eCommerce platform with AI and DevOps automation, improving our site speed, security, and conversion rates. The AI-powered product recommendations increased our sales by 30% within months. Their team’s expertise in cloud and AI solutions is truly impressive!"
+                    </p>
+                  </div>
+                </SwiperSlide>
+                <SwiperSlide className="swiper-slide">
+                  <div className="px-lg-6">
+                    <div className="d-flex flex-column">
+                      <h6 className="ms-3 fs-6 mb-0">Daniel Foster</h6>
+                      <div className="flag ms-3">
+                        <img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+                        <span className="fs-8">Managing Director, FinEdge Solutions (USA)</span>
+                      </div>
+                    </div>
+                    <p className="text-900 mt-5">
+                    "CMT AI developed our fintech mobile app using Flutter & React Native, and the experience was fantastic. The app is fast, user-friendly, and integrates seamlessly with banking APIs. Their deep understanding of cross-platform development and security sets them apart. Looking forward to more projects together!"
+                    </p>
+                  </div>
+                </SwiperSlide>
+                <SwiperSlide className="swiper-slide">
+                  <div className="px-lg-6">
+                    <div className="d-flex flex-column">
+                      <h6 className="ms-3 fs-6 mb-0">Mark Thompson</h6>
+                      <div className="flag ms-3">
+                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+                        <span className="fs-8">CEO, GrowthSphere Ltd. (UK)</span>
+                      </div>
+                    </div>
+                    <p className="text-900 mt-5">
+                    "CMT SMART CRM has revolutionized how we manage our sales pipeline and customer relationships. The AI-driven automation and customizable workflows have significantly improved our efficiency. Plus, having full control over our data on a private cloud is a huge advantage. Highly recommended for businesses looking for a secure and scalable CRM!"
                     </p>
                   </div>
                 </SwiperSlide>
