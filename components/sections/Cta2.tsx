@@ -76,7 +76,7 @@ export default function Cta2() {
 									</div>
 									<div className="ms-3">
 										<img className="filter-invert" src="/assets/imgs/cta-2/name-ad.svg" alt="infinia" />
-										<h6 className="mt-1">Kensei <span className="text-500 fs-6">, CEO</span></h6>
+										<h6 className="mt-1">Anurag Singh <span className="text-500 fs-6">, CTO</span></h6>
 									</div>
 								</div>
 								<div className="col-md-6 d-flex align-items-center">
@@ -84,7 +84,7 @@ export default function Cta2() {
 									<div className="counter-item-cover counter-item">
 										<div className="content text-center mx-auto">
 											<h2 className="count ds-2 fw-black text-primary">+<span className="odometer" />
-												<CountUp end={12} enableScrollSpy={true} />
+												<CountUp end={8} enableScrollSpy={true} />
 											</h2>
 										</div>
 									</div>

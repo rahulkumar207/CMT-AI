@@ -147,27 +147,72 @@ Table of contents
   font-size: 14px;
   
 }
+/* =================lottie animation ============== */
+/* styles.css */
+
+/* General Mobile Styles */
+@media only screen and (max-width: 768px) {
+  .zoom-img-css {
+      padding: 10px;
+  }
+
+  .zoom-img-css .lottie-frame {
+      height: 300px;
+  }
+}
+
+/* iPhone SE (2nd & 3rd generation) */
+@media only screen and (max-width: 375px) and (max-height: 667px) {
+  .zoom-img-css .lottie-frame {
+      height: 250px;
+  }
+}
+
+/* iPhone 11 */
+@media only screen and (max-width: 414px) and (max-height: 896px) {
+  .zoom-img-css .lottie-frame {
+      height: 300px;
+  }
+}
+
+/* iPhone 14 Pro */
+@media only screen and (max-width: 393px) and (max-height: 852px) {
+  .zoom-img-css .lottie-frame {
+      height: 300px;
+  }
+}
+
+/* iPhone 14 Pro Max */
+@media only screen and (max-width: 430px) and (max-height: 932px) {
+  .zoom-img-css .lottie-frame {
+      height: 350px;
+  }
+}
 
 
 /* External CSS File */
 
 /* General Mobile Styles */
-@media only screen and (max-width: 768px) {
+.cta6-frame-border {
+  padding: 1px;
+  height: 300px;
+}
+/* @media only screen and (max-width: 768px) {
   .cta6-frame-border {
       padding: 10px;
   }
 
   .zoom-img iframe {
-      height: 400px; /* Reduce height for smaller screens */
+      height: 400px; /* Reduce height for smaller screens *
   }
-}
+} */
 
 /* iPhone SE (2nd & 3rd generation) */
 @media only screen and (max-width: 375px) and (max-height: 667px) {
   .zoom-img iframe {
       height: 300px;
       width: 100%;
-      margine-top: 0%;
+      margin-top: 0%;
       margin-bottom: 0%;
   }
 }
@@ -231,6 +276,9 @@ Table of contents
       
   }
 }
+
+
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */

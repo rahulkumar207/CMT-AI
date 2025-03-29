@@ -71,24 +71,17 @@ export default function Services5() {
                 All
               </button> */}
                <button className={activeBtn("crm")} onClick={handleFilterKeyChange("crm")}>
-                CRM
+               CMT SMART CRM
               </button>
               <button className={activeBtn("aibot")} onClick={handleFilterKeyChange("aibot")}>
-                MY AIBot
-              </button>
-              <button className={activeBtn("erp")} onClick={handleFilterKeyChange("erp")}>
-                ERP
+                AI CHAT BOT
               </button>
              
+             
               <button className={activeBtn("lms")} onClick={handleFilterKeyChange("lms")}>
-                LMS
+               CMT SMART LMS
               </button>
-              <button className={activeBtn("app")} onClick={handleFilterKeyChange("app")}>
-                APP
-              </button>
-              <button className={activeBtn("dataanalysis")} onClick={handleFilterKeyChange("dataanalysis")}>
-                Data Analysis
-              </button>
+             
             </div>
           </div>
         </div>
@@ -99,7 +92,7 @@ export default function Services5() {
             <div className="filter-item w-100 mb-4 crm" style={{ color: "white" }}>
               <div className="row g-0">
                 <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
@@ -112,8 +105,8 @@ export default function Services5() {
                     <h5 className="text-700">Financial analysis software 4.0 for JiCo JSC</h5>
                     <p className="fs-7 mb-3">Achieve Your a of Business</p>
                     <div className="d-flex gap-2 btn-container">
-                      <a href="cmtai-crm" className="btn btn-primary">Get THIS</a>
-                      <a href="cmtai-crm" className="btn btn-secondary">Free Demo</a>
+                      <a href="cmtai-crm" className="btn btn-primary">Explore More</a>
+                      <a href="cmtai-crm" className="btn  "> Launch Demo</a>
                     </div>
                   </div>
                 </div>
@@ -125,10 +118,10 @@ export default function Services5() {
             <div className="filter-item w-100 mb-4 aibot">
               <div className="row g-0">
                 <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
-                      src="assets/imgs/project-1/img-6.png"
+                      src="assets/imgs/project-1/img-7.png"
                       alt="infinia"
                     />
                   </div>
@@ -138,8 +131,8 @@ export default function Services5() {
                     <h5 className="text-700">AI-Powered Chatbot Solution</h5>
                     <p className="fs-7 mb-3">Intelligent Automation for Customer Support</p>
                     <div className="d-flex gap-2 btn-container">
-                      <a href="https://example.com" className="btn btn-primary">Get THIS</a>
-                      <a href="https://example.com/demo" className="btn btn-secondary">Free Demo</a>
+                      <a href="https://example.com" className="btn btn-primary">Explore More</a>
+                      <a href="https://example.com/demo" className="btn btn-secondary">Launch Demo</a>
                     </div>
                   </div>
                 </div>
@@ -150,7 +143,7 @@ export default function Services5() {
             <div className="filter-item w-100 mb-4 erp">
               <div className="row g-0">
                 <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
@@ -163,8 +156,8 @@ export default function Services5() {
                     <h5 className="text-700">Responsive Web Design Portfolio</h5>
                     <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
                     <div className="d-flex gap-2 btn-container">
-                      <a href="cmtai-erp" className="btn btn-primary">Get THIS</a>
-                      <a href="cmtai-erp" className="btn btn-secondary">Free Demo</a>
+                      <a href="cmtai-erp" className="btn btn-primary">Explore More</a>
+                      <a href="cmtai-erp" className="btn btn-secondary">Launch Demo</a>
                     </div>
                   </div>
                 </div>
@@ -175,10 +168,10 @@ export default function Services5() {
             <div className="filter-item w-100 mb-4 marketing lms">
               <div className="row g-0">
                 <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
-                      src="assets/imgs/project-1/img-6.png"
+                      src="assets/imgs/project-1/img-8.png"
                       alt="infinia"
                     />
                   </div>
@@ -188,8 +181,8 @@ export default function Services5() {
                     <h5 className="text-700">Responsive Web Design Portfolio</h5>
                     <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
                     <div className="d-flex gap-2 btn-container">
-                      <a href="cmtai-lms" className="btn btn-primary">Get THIS</a>
-                      <a href="cmtai-lms" className="btn btn-secondary">Free Demo</a>
+                      <a href="cmtai-lms" className="btn btn-primary">Explore More</a>
+                      <a href="cmtai-lms" className="btn btn-secondary">Launch Demo</a>
                     </div>
                   </div>
                 </div>
@@ -200,7 +193,7 @@ export default function Services5() {
             <div className="filter-item w-100 mb-4 app">
               <div className="row g-0">
                 <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
@@ -213,8 +206,8 @@ export default function Services5() {
                     <h5 className="text-700">Responsive Web Design Portfolio</h5>
                     <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
                     <div className="d-flex gap-2">
-                      <button className="btn btn-primary">View</button>
-                      <button className="btn btn-secondary">Contact</button>
+                      <button className="btn btn-primary">Explore More</button>
+                      <button className="btn btn-secondary">Launch Demo</button>
                     </div>
                   </div>
                 </div>
@@ -225,7 +218,7 @@ export default function Services5() {
             <div className="filter-item w-100 mb-4 dataanalysis">
               <div className="row g-0">
                 <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-2 fix position-relative h-100">
+                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
@@ -238,8 +231,8 @@ export default function Services5() {
                     <h5 className="text-700">Responsive Web Design Portfolio</h5>
                     <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
                     <div className="d-flex gap-2">
-                      <button className="btn btn-primary">View</button>
-                      <button className="btn btn-secondary">Contact</button>
+                      <button className="btn btn-primary">Explore More</button>
+                      <button className="btn btn-secondary">Launch Demo</button>
                     </div>
                   </div>
                 </div>

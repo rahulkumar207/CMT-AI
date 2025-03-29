@@ -1,5 +1,7 @@
+'use client'
 
 import Link from "next/link"
+import { DotLottieReact } from "@lottiefiles/dotlottie-react";
 
 export default function Cta6() {
 	return (
@@ -7,11 +9,14 @@ export default function Cta6() {
 			<section className="section-cta-6 position-relative section-padding fix">
 				<div className="container">
 					<div className="row">
-						<div className="col-lg-6 pe-lg-0 cta6-frame-border">
+						<div className="col-lg-6 pe-lg-0">
 							<div className="zoom-img rounded-end-lg-0 rounded-4">
-							<iframe src="https://lottie.host/embed/abccb57a-9c1a-4733-9390-c09b7fecb5e7/ugOBFCn55c.lottie"
-							width="100%" height="600"></iframe>
-						</div>
+							<DotLottieReact
+                  src="https://lottie.host/11a19107-cbff-43d4-ad32-d6137d5ce730/0x86xfj5IN.lottie"
+                  loop
+                  autoplay
+                />
+							</div>
 						</div>
 						<div className="col-12 col-lg-6 ps-lg-0 align-self-stretch ">
 							<div className="bg-white p-md-8 p-5 rounded-start-lg-0 h-100 rounded-4 mt-lg-0 mt-5 border border-start-lg-0 shadow-1">
