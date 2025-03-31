@@ -22,148 +22,157 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/img-3.png" alt="infinia" />
+								<img className="rounded-3" src="/assets/imgs/services-details-2/web-development.png" alt="infinia" />
 								<h4 className="my-3">Empowering Businesses with High-Performance Website Development</h4>
 								<p className="mb-0">At CMT AI, we specialize in custom website development, offering innovative, scalable, and SEO-friendly solutions tailored to your business needs. Whether you need a corporate website, eCommerce platform, or custom web application, our expert developers ensure a seamless digital experience.</p>
-								<div className="d-md-flex align-items-center mt-3">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Company Profile Websites
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Portfolio Websites
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Consulting Websites
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Law Firm Websites
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Agency Websites
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Single Vendor E-Commerce Websites</span>
-										</li>
-									</ul>
 
-								</div>
+									<div className="d-md-flex align-items-center mt-3">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Company Profile Websites
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Portfolio Websites
+												</span>
+											</li>
+										</ul>
+										<ul className="list-unstyled phase-items ms-md-6 mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+													Consulting Websites
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Law Firm Websites
+												</span>
+											</li>
+										</ul>
+										<ul className="list-unstyled phase-items ms-md-6 mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Agency Websites
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">E-Commerce Websites</span>
+											</li>
+										</ul>
+
+								
+									</div>
+										<div className="d-md-flex align-items-center">
+											<ul className="list-unstyled phase-items mb-0">
+												<li className="d-flex align-items-center mt-3">
+													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+													<span className="ms-2 text-900 fw-medium fs-6">Multi-Vendor Marketplaces
+
+													</span>
+												</li>
+												<li className="d-flex align-items-center mt-3">
+													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+													<span className="ms-2 text-900 fw-medium fs-6">Dropshipping Websites
+
+													</span>
+												</li>
+											</ul>
+											<ul className="list-unstyled phase-items ms-md-6 mb-0">
+												<li className="d-flex align-items-center mt-3">
+													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+													<span className="ms-1 text-900 fw-medium fs-6">
+														Subscription Website
+
+													</span>
+												</li>
+												<li className="d-flex align-items-center mt-3">
+													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+													<span className="ms-2 text-900 fw-medium fs-6">Blogs Websites
+
+													</span>
+												</li>
+											</ul>
+											<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
+												<li className="d-flex align-items-center mt-3">
+													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+													<span className="ms-2 text-900 fw-medium fs-6">Knowledge Base Websites
+
+													</span>
+												</li>
+												<li className="d-flex align-items-center mt-3">
+													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+													<span className="ms-2 text-900 fw-medium fs-6"> LMS Websites
+													</span>
+												</li>
+											</ul>
+
+										</div>
+									<div className="d-md-flex align-items-center"style={{ alignSelf: 'center' }}>
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Charity Websites
+
+
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Social Networking website
+
+
+												</span>
+											</li>
+										</ul>
+										<ul className="list-unstyled phase-items ms-md-6 mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Discussion Websites
+
+
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Subscription Websites
+
+												</span>
+											</li>
+										</ul>
+										<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Video Streaming Websites
+
+
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Music Streaming Websites
+
+												</span>
+											</li>
+										</ul>
+
+									
+									</div>
+
+								
+
+
+
+
 								<div className="d-md-flex align-items-center">
 									<ul className="list-unstyled phase-items mb-0">
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Multi-Vendor Marketplaces
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Dropshipping Websites
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Subscription-Based E-Commerce
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Blogs & News Websites
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Wiki & Knowledge Base Websites
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Online Course & LMS Websites
-											</span>
-										</li>
-									</ul>
-
-								</div>
-								<div className="d-md-flex align-items-center">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Non-Profit & Charity Websites
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Social Networking Platforms
-
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Forum & Discussion Websites
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Membership & Subscription Websites
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Video Streaming Websites
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Music Streaming Websites
-
-											</span>
-										</li>
-									</ul>
-
-								</div>
-								<div className="d-md-flex align-items-center">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Online Magazine Websites
+											<span className="ms-2 text-900 fw-medium fs-6">Magazine Websites
 
 
 
@@ -171,7 +180,7 @@ export default function PageServicesDetails2() {
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Gaming & Esports Websites
+											<span className="ms-2 text-900 fw-medium fs-6">Gaming & Esports Website
 
 
 
@@ -182,7 +191,7 @@ export default function PageServicesDetails2() {
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">
-												Hotel & Travel Booking Websites
+											Travel Booking system
 
 
 
@@ -190,7 +199,7 @@ export default function PageServicesDetails2() {
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Doctor & Healthcare Appointment Websites
+											<span className="ms-2 text-900 fw-medium fs-6">Healthcare Website
 
 
 											</span>
@@ -217,7 +226,7 @@ export default function PageServicesDetails2() {
 									<ul className="list-unstyled phase-items mb-0">
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Property Rental Websites
+											<span className="ms-2 text-900 fw-medium fs-6">Property Websites
 
 
 
@@ -226,28 +235,10 @@ export default function PageServicesDetails2() {
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Real Estate Agency Websites
+											<span className="ms-2 text-900 fw-medium fs-6">Real Estate Agency Website
 
 
 
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Property Marketplace Websites
-
-
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Fintech & Investment Platforms
 
 											</span>
 										</li>
@@ -256,7 +247,25 @@ export default function PageServicesDetails2() {
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">
-												Online Banking & Loan Management Websites
+												Marketplace Website
+
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Investment Platforms
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Online Banking Management Websites
 
 
 											</span>
@@ -285,7 +294,7 @@ export default function PageServicesDetails2() {
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Public Service & Utility Websites
+											<span className="ms-2 text-900 fw-medium fs-6">Public Service Websites
 
 
 
@@ -297,7 +306,7 @@ export default function PageServicesDetails2() {
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">
-												Educational Institution Websites
+												Educational Website
 
 
 
@@ -306,7 +315,7 @@ export default function PageServicesDetails2() {
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">
-												AI-Powered Web Applications
+												AI-Powered Web App
 
 
 
@@ -335,7 +344,7 @@ export default function PageServicesDetails2() {
 								</div>
 
 
-
+								<h5 className="pt-3 border-top mb-3 mt-5">Questions about service</h5>
 								<div className="accordion mt-5">
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
