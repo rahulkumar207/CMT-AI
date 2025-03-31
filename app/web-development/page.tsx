@@ -22,104 +22,321 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/img-1.png" alt="infinia" />
-								<h4 className="my-3">Innovative Business Services</h4>
-								<p className="mb-0">In today's fast-paced and competitive business environment, staying ahead requires more than just traditional methods. At Infinia, we understand the necessity of innovation in driving business growth and success. <span className="text-900 fw-bold">Our innovative business</span> services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.</p>
-								<div className="d-md-flex align-items-center mt-3 mb-3">
+								<img className="rounded-3" src="/assets/imgs/services-details-2/img-3.png" alt="infinia" />
+								<h4 className="my-3">Empowering Businesses with High-Performance Website Development</h4>
+								<p className="mb-0">At CMT AI, we specialize in custom website development, offering innovative, scalable, and SEO-friendly solutions tailored to your business needs. Whether you need a corporate website, eCommerce platform, or custom web application, our expert developers ensure a seamless digital experience.</p>
+								<div className="d-md-flex align-items-center mt-3">
 									<ul className="list-unstyled phase-items mb-0">
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Journey Mapping</span>
+											<span className="ms-2 text-900 fw-medium fs-6">Company Profile Websites
+											</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Feedback Systems</span>
+											<span className="ms-2 text-900 fw-medium fs-6">Portfolio Websites
+											</span>
 										</li>
 									</ul>
 									<ul className="list-unstyled phase-items ms-md-6 mb-0">
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Sustainable Business Practices</span>
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Consulting Websites
+											</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Corporate Social Responsibility</span>
+											<span className="ms-2 text-900 fw-medium fs-6">Law Firm Websites
+											</span>
 										</li>
 									</ul>
 									<ul className="list-unstyled phase-items ms-md-6 mb-0">
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Ideation and Concept</span>
+											<span className="ms-2 text-900 fw-medium fs-6">Agency Websites
+											</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Intellectual Property</span>
+											<span className="ms-2 text-900 fw-medium fs-6">Single Vendor E-Commerce Websites</span>
 										</li>
 									</ul>
+
 								</div>
-								<h5 className="pt-4 border-top mb-3 mt-5">Digital Transformation</h5>
-								<p className="mb-4">At Infinia, we are committed to delivering innovative solutions that drive real results. Our team of experts combines industry knowledge with technological expertise to provide services that are both practical and visionary. We work closely with you to understand your unique challenges and tailor our services to meet your specific needs.</p>
-								<div className="row">
-									<div className="col-lg-7">
-										<div className="d-flex">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-5.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Market Analysis and Insights</h6>
-												<p>
-													Gain a deep understanding of your industry <br />
-													and competitors with our comprehensive <br />
-													market analysis.
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-6.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Business Model Innovation</h6>
-												<p>
-													We assist in redefining your business model <br />
-													to align with current market trends and <br />
-													future demands
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-7.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Change Management</h6>
-												<p>
-													Successfully manage organizational change with <br />
-													our expert guidance. We help you navigate <br />
-													transitions smoothly
-												</p>
-											</div>
-										</div>
-									</div>
-									<div className="col-lg-5 mt-lg-0 mt-5">
-										<img className="rounded-3" src="/assets/imgs/services-details/img-2.png" alt="infinia" />
-									</div>
+								<div className="d-md-flex align-items-center">
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Multi-Vendor Marketplaces
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Dropshipping Websites
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Subscription-Based E-Commerce
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Blogs & News Websites
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Wiki & Knowledge Base Websites
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Online Course & LMS Websites
+											</span>
+										</li>
+									</ul>
+
 								</div>
-								<h4 className="mt-3 pt-3 border-top mb-3">Sustainability and CSR</h4>
-								<p className="mb-3">Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.</p>
-								<p className="fw-bold text-900">Ideation and Concept Development: <span className="fw-medium text-600">Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.</span></p>
-								<p className="fw-bold text-900">RD Support: <span className="fw-medium text-600">Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.</span></p>
-								<p className="fw-bold text-900">Intellectual Property Management: <span className="fw-medium text-600">Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.</span></p>
-								<p className="fw-bold text-900">Market Analysis and Insights: <span className="fw-medium text-600">Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.</span></p>
-								<p className="fw-bold text-900">Business Model Innovation: <span className="fw-medium text-600">Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives</span></p>
-								<h5 className="pt-3 border-top mb-3 mt-5">Questions about service</h5>
-								<div className="accordion">
+								<div className="d-md-flex align-items-center">
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Non-Profit & Charity Websites
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Social Networking Platforms
+
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Forum & Discussion Websites
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Membership & Subscription Websites
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Video Streaming Websites
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Music Streaming Websites
+
+											</span>
+										</li>
+									</ul>
+
+								</div>
+								<div className="d-md-flex align-items-center">
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Online Magazine Websites
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Gaming & Esports Websites
+
+
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Hotel & Travel Booking Websites
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Doctor & Healthcare Appointment Websites
+
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Salon & Spa Booking Platforms
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Event Ticket Booking Websites
+
+											</span>
+										</li>
+									</ul>
+
+								</div>
+								<div className="d-md-flex align-items-center">
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Property Rental Websites
+
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Real Estate Agency Websites
+
+
+
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Property Marketplace Websites
+
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Fintech & Investment Platforms
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Online Banking & Loan Management Websites
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Cryptocurrency & Trading Platforms
+
+
+											</span>
+										</li>
+									</ul>
+
+								</div>
+								<div className="d-md-flex align-items-center">
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Official Government Portals
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Public Service & Utility Websites
+
+
+
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Educational Institution Websites
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												AI-Powered Web Applications
+
+
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">SaaS Platforms
+
+
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Crowdfunding Websites
+
+
+											</span>
+										</li>
+									</ul>
+
+								</div>
+
+
+
+								<div className="accordion mt-5">
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse">

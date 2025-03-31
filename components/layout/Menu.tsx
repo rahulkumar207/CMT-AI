@@ -11,7 +11,7 @@ export default function Menu() {
 						<Link className="nav-link fw-bold d-flex align-items-center" href="/">
 							Home
 						</Link>
-						
+
 					</li>
 					<li className="nav-item">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="/page-about-2">About</Link>
@@ -24,7 +24,8 @@ export default function Menu() {
 							<ul className="list-unstyled">
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="cmtai-crm">
-									
+										<img src="/assets/imgs/service-3/Layer 2.svg" alt="CMT AI CRM" width={18} height={18} className="mt-1" />
+
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6"> CMT AI CRM</span>
@@ -33,6 +34,7 @@ export default function Menu() {
 								</li>
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="cmtai-erp">
+										<img src="/assets/imgs/service-3/Layer 2.svg" alt="CMT AI ERP" width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6">CMT AI ERP</span>
@@ -41,15 +43,16 @@ export default function Menu() {
 								</li>
 								<li className="position-relative z-1 border-bottom">
 									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="cmtai-lms">
+										<img src="/assets/imgs/service-3/Layer 2.svg" alt="CMT AI LMS" width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
 											<span className="d-block fw-bold fs-6">CMT AI LMS</span>
 										</span>
 									</Link>
 								</li>
-								
-								
-								
+
+
+
 							</ul>
 							<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 							<div className="ellipse-rotate-primary-sm position-absolute top-50 z-0" />
@@ -121,14 +124,14 @@ export default function Menu() {
 										</span>
 									</Link>
 								</li>
-								
+
 							</ul>
 							<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 							<div className="ellipse-rotate-primary-sm position-absolute top-50 z-0" />
 						</div>
 					</li>
-										
-{/* 				
+
+					{/* 				
 					<li className="nav-item">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="/page-contact-1">Contact</Link>
 					</li> */}
