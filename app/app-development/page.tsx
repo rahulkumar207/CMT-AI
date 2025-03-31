@@ -22,109 +22,94 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/img-1.png" alt="infinia" />
-								<h4 className="my-3">Innovative Business Services</h4>
-								<p className="mb-0">In today's fast-paced and competitive business environment, staying ahead requires more than just traditional methods. At Infinia, we understand the necessity of innovation in driving business growth and success. <span className="text-900 fw-bold">Our innovative business</span> services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.</p>
-								<div className="d-md-flex align-items-center mt-3 mb-3">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Journey Mapping</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Feedback Systems</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Sustainable Business Practices</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Corporate Social Responsibility</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Ideation and Concept</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Intellectual Property</span>
-										</li>
-									</ul>
-								</div>
-								<h5 className="pt-4 border-top mb-3 mt-5">Digital Transformation</h5>
-								<p className="mb-4">At Infinia, we are committed to delivering innovative solutions that drive real results. Our team of experts combines industry knowledge with technological expertise to provide services that are both practical and visionary. We work closely with you to understand your unique challenges and tailor our services to meet your specific needs.</p>
-								<div className="row">
-									<div className="col-lg-7">
-										<div className="d-flex">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-5.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Market Analysis and Insights</h6>
-												<p>
-													Gain a deep understanding of your industry <br />
-													and competitors with our comprehensive <br />
-													market analysis.
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-6.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Business Model Innovation</h6>
-												<p>
-													We assist in redefining your business model <br />
-													to align with current market trends and <br />
-													future demands
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-7.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Change Management</h6>
-												<p>
-													Successfully manage organizational change with <br />
-													our expert guidance. We help you navigate <br />
-													transitions smoothly
-												</p>
-											</div>
-										</div>
+								<img className="rounded-3" src="/assets/imgs/services-details-2/app-development.png" alt="infinia" />
+								<h4 className="my-3">Empowering Businesses with High-Performance App Development</h4>
+								<p className="mb-0">At CMT AI, we build innovative, scalable, and feature-rich mobile applications that help businesses grow in the digital age. Our expert team ensures a seamless user experience, high performance, and top-notch security in every app we develop.</p>
+								<div className="row mt-5">
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Business & Productivity Apps	</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">E-Commerce & Marketplace Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Gaming Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Health & Fitness Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Finance & Banking Apps
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">On-Demand Service Apps
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI & Chatbot-Powered Apps</span>
+											</li>
+										</ul>
 									</div>
-									<div className="col-lg-5 mt-lg-0 mt-5">
-										<img className="rounded-3" src="/assets/imgs/services-details/img-2.png" alt="infinia" />
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Social Media & Networking Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Entertainment & Media Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Travel & Navigation Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Education & Learning Apps												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Real Estate & Property Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												News & Magazine Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Government & Public Service Apps</span>
+											</li>
+										</ul>
 									</div>
 								</div>
-								<h4 className="mt-3 pt-3 border-top mb-3">Sustainability and CSR</h4>
-								<p className="mb-3">Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.</p>
-								<p className="fw-bold text-900">Ideation and Concept Development: <span className="fw-medium text-600">Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.</span></p>
-								<p className="fw-bold text-900">RD Support: <span className="fw-medium text-600">Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.</span></p>
-								<p className="fw-bold text-900">Intellectual Property Management: <span className="fw-medium text-600">Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.</span></p>
-								<p className="fw-bold text-900">Market Analysis and Insights: <span className="fw-medium text-600">Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.</span></p>
-								<p className="fw-bold text-900">Business Model Innovation: <span className="fw-medium text-600">Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives</span></p>
-								<h5 className="pt-3 border-top mb-3 mt-5">Questions about service</h5>
+								
+								
+
+							
+
+								<h5 className="pt-3 border-top mb-3 mt-10">Mobile App Development Process</h5>
 								<div className="accordion">
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">1</span>
-												<h6 className="m-0">Digital product engineering</h6>
+												<h6 className="m-0"> Discovery & Consultation	</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -133,14 +118,25 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseOne" className={activeItem == 1 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">We begin by understanding your business, target audience, and app requirements<br />
+												This phase involves	</p>
+											<ul>
+												<li>Market & competitor analysis
+												</li>
+												<li>Defining core app functionalities
+												</li>
+												<li>Selecting the best technology stack
+												</li>
+												<li>Outlining the project scope & timelines</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">2</span>
-												<h6 className="m-0">Crafting SaaS development</h6>
+												<h6 className="m-0">UI/UX Design & Prototyping												</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -148,15 +144,26 @@ export default function PageServicesDetails2() {
 												</span>
 											</a>
 										</div>
-										<div id="collapseTwo" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+										<div id="collapseOne" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">Our design team creates a user-friendly, visually engaging interface that ensures the best user experience.<br />
+												We focus on:</p>
+											<ul>
+												<li>Intuitive navigation & user experience
+												</li>
+												<li>Mobile-first responsive design
+												</li>
+												<li>Interactive elements for engagement
+												</li>
+												<li>Wireframing & prototyping before development</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 3 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(3)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">3</span>
-												<h6 className="m-0">AI app development</h6>
+												<h6 className="m-0">App Development & Coding</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -165,14 +172,25 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseThree" className={activeItem == 3 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Using the latest technologies, we develop high-performance mobile applications for Android, iOS, and cross-platform needs. <br />
+												Our development includes:</p>
+											<ul>
+												<li>Native App Development (Swift for iOS, Kotlin for Android)
+												</li>
+												<li>Cross-Platform Development (Flutter, React Native)
+												</li>
+												<li>Backend & API Development
+												</li>
+												<li>Integration of Third-Party Services
+												</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 4 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(4)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">4</span>
-												<h6 className="m-0">E-commerce development</h6>
+												<h6 className="m-0"> Quality Assurance & Testing</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -181,14 +199,26 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefour" className={activeItem == 4 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Before launch, we conduct rigorous testing to ensure seamless performance, security, and reliability.<br />
+												Our testing process includes:
+											</p>
+											<ul>
+												<li>Functional testing
+												</li>
+												<li>Performance & load testing
+												</li>
+												<li>Security & data protection testing
+												</li>
+												<li>Cross-device & OS compatibility checks
+												</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 5 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(5)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">5</span>
-												<h6 className="m-0">Web Development Services</h6>
+												<h6 className="m-0">App Deployment & Launch</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -197,48 +227,54 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefive" className={activeItem == 5 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+												We handle the entire deployment process, ensuring your app is live on the Apple App Store & Google Play Store without issues. <br />
+												This includes:</p>
+											<ul>
+												<li>App Store & Play Store submission
+												</li>
+												<li>ASO (App Store Optimization) for better visibility
+
+												</li>
+												<li>Final performance enhancements
+												</li>
+												<li>Live monitoring & user feedback analysis
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 6 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(6)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">6</span>
+												<h6 className="m-0">Post-Launch Support & Maintenance</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 6 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+												Our job doesn’t end at launch! We provide continuous support, updates, and maintenance <br />
+												including:</p>
+											<ul>
+												<li>Bug fixes & performance updates
+												</li>
+												<li>Security patches & compliance updates
+												</li>
+												<li>Feature enhancements based on user feedback
+												</li>
+												<li>Ongoing monitoring & analytics
+												</li>
+											</ul>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-4 sidebar">
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Financial Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Business Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Solicitory Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									HR Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Strategy Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Start Ups
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
+
 								<div className="bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border">
 									<h6 className="mb-4 mt-3">Service Brochure</h6>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">

@@ -64,7 +64,7 @@ export default function Footer4() {
 											<h3 className="text-white opacity-50 fs-6 fw-black text-uppercase pb-3 pt-5 pt-lg-0">Services</h3>
 											<div className="d-flex flex-column align-items-start">
 												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="/web-development">Web Development</Link>
-												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="/app-deveopment">App Development</Link>
+												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="/app-development">App Development</Link>
 												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="/ai-ml-development">AI/ML Development</Link>
 												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="/cloud-computing">Cloud Computing</Link>
 												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="https://www.cmtai.live/">Digital Marketing</Link>
@@ -74,16 +74,16 @@ export default function Footer4() {
 										<div className="col-lg-3 col-md-4 col-6">
 											<h3 className="text-white opacity-50 fs-6 fw-black text-uppercase pb-3 pt-5 pt-lg-0">Products</h3>
 											<div className="d-flex flex-column align-items-start">
-												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="https://crm.completrix.com/">CMT SMART CRM</Link>
-												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="https://myaibot.in/">AI CHAT BOT</Link>
-												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="https://lms.completrix.com/">CMT SMART LMS</Link>
+												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="https://crm.completrix.com/">CMT Smart Crm</Link>
+												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="https://myaibot.in/">AI Chat Bot</Link>
+												<Link className="hover-effect text-white mb-2 fw-medium fs-6" href="https://lms.completrix.com/">CMT Smart Lms</Link>
 											</div>
 										</div>
 										<div className="col-lg-6 pt-5 pt-lg-0">
 
 											<iframe
 												src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3503.6001376239083!2d77.31587687578568!3d28.581767686383742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce53708916071%3A0x432816975a2fe899!2sCMT%20AI!5e0!3m2!1sen!2sin!4v1743255777213!5m2!1sen!2sin"
-												width="400"
+												width="350"
 												height="250"
 												style={{ border: 0, borderRadius: '10px' }}
 												loading="lazy"
@@ -96,7 +96,7 @@ export default function Footer4() {
 								</div>
 							</div>
 							<div className="row text-center py-4 border-top border-white border-opacity-10">
-								<span className="text-white opacity-50">Copyright © 2024 Infinia. All Rights Reserved</span>
+								<span className="text-white opacity-50">Copyright © 2024 CMT AI. All Rights Reserved</span>
 							</div>
 						</div>
 					</div>

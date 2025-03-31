@@ -75,7 +75,7 @@ export default function Menu() {
 									</Link>
 								</li>
 								<li className="position-relative z-1 border-bottom">
-									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="/app-deveopment">
+									<Link className="dropdown-item position-relative z-1 d-flex align-items-start" href="/app-development">
 										{/* Using an external SVG image */}
 										<img src="/assets/imgs/service-3/App.svg" alt="App Development" width={18} height={18} className="mt-1" />
 

@@ -26,144 +26,144 @@ export default function PageServicesDetails2() {
 								<h4 className="my-3">Empowering Businesses with High-Performance Website Development</h4>
 								<p className="mb-0">At CMT AI, we specialize in custom website development, offering innovative, scalable, and SEO-friendly solutions tailored to your business needs. Whether you need a corporate website, eCommerce platform, or custom web application, our expert developers ensure a seamless digital experience.</p>
 
-									<div className="d-md-flex align-items-center mt-3">
-										<ul className="list-unstyled phase-items mb-0">
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Company Profile Websites
-												</span>
-											</li>
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Portfolio Websites
-												</span>
-											</li>
-										</ul>
-										<ul className="list-unstyled phase-items ms-md-6 mb-0">
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">
-													Consulting Websites
-												</span>
-											</li>
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Law Firm Websites
-												</span>
-											</li>
-										</ul>
-										<ul className="list-unstyled phase-items ms-md-6 mb-0">
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Agency Websites
-												</span>
-											</li>
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">E-Commerce Websites</span>
-											</li>
-										</ul>
-
-								
-									</div>
-										<div className="d-md-flex align-items-center">
-											<ul className="list-unstyled phase-items mb-0">
-												<li className="d-flex align-items-center mt-3">
-													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-													<span className="ms-2 text-900 fw-medium fs-6">Multi-Vendor Marketplaces
-
-													</span>
-												</li>
-												<li className="d-flex align-items-center mt-3">
-													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-													<span className="ms-2 text-900 fw-medium fs-6">Dropshipping Websites
-
-													</span>
-												</li>
-											</ul>
-											<ul className="list-unstyled phase-items ms-md-6 mb-0">
-												<li className="d-flex align-items-center mt-3">
-													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-													<span className="ms-1 text-900 fw-medium fs-6">
-														Subscription Website
-
-													</span>
-												</li>
-												<li className="d-flex align-items-center mt-3">
-													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-													<span className="ms-2 text-900 fw-medium fs-6">Blogs Websites
-
-													</span>
-												</li>
-											</ul>
-											<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
-												<li className="d-flex align-items-center mt-3">
-													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-													<span className="ms-2 text-900 fw-medium fs-6">Knowledge Base Websites
-
-													</span>
-												</li>
-												<li className="d-flex align-items-center mt-3">
-													<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-													<span className="ms-2 text-900 fw-medium fs-6"> LMS Websites
-													</span>
-												</li>
-											</ul>
-
-										</div>
-									<div className="d-md-flex align-items-center"style={{ alignSelf: 'center' }}>
-										<ul className="list-unstyled phase-items mb-0">
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Charity Websites
+								<div className="d-md-flex align-items-center mt-3">
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Company Profile Websites
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Portfolio Websites
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
+												Consulting Websites
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Law Firm Websites
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Agency Websites
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">E-Commerce Websites</span>
+										</li>
+									</ul>
 
 
-												</span>
-											</li>
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Social Networking website
+								</div>
+								<div className="d-md-flex align-items-center">
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Multi-Vendor Marketplaces
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Dropshipping Websites
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-1 text-900 fw-medium fs-6">
+												Subscription Website
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Blogs Websites
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Knowledge Base Websites
+
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6"> LMS Websites
+											</span>
+										</li>
+									</ul>
+
+								</div>
+								<div className="d-md-flex align-items-center" style={{ alignSelf: 'center' }}>
+									<ul className="list-unstyled phase-items mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Charity Websites
 
 
-												</span>
-											</li>
-										</ul>
-										<ul className="list-unstyled phase-items ms-md-6 mb-0">
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Social Networking website
+
+
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0">
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">
 												Discussion Websites
 
 
-												</span>
-											</li>
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Subscription Websites
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Subscription Websites
 
-												</span>
-											</li>
-										</ul>
-										<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Video Streaming Websites
+											</span>
+										</li>
+									</ul>
+									<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Video Streaming Websites
 
 
-												</span>
-											</li>
-											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-												<span className="ms-2 text-900 fw-medium fs-6">Music Streaming Websites
+											</span>
+										</li>
+										<li className="d-flex align-items-center mt-3">
+											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+											<span className="ms-2 text-900 fw-medium fs-6">Music Streaming Websites
 
-												</span>
-											</li>
-										</ul>
+											</span>
+										</li>
+									</ul>
 
-									
-									</div>
 
-								
+								</div>
+
+
 
 
 
@@ -191,7 +191,7 @@ export default function PageServicesDetails2() {
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">
-											Travel Booking system
+												Travel Booking system
 
 
 
@@ -287,17 +287,11 @@ export default function PageServicesDetails2() {
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">
 												Official Government Portals
-
-
-
 											</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">Public Service Websites
-
-
-
 
 											</span>
 										</li>
@@ -307,9 +301,6 @@ export default function PageServicesDetails2() {
 											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
 											<span className="ms-2 text-900 fw-medium fs-6">
 												Educational Website
-
-
-
 											</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
@@ -344,13 +335,14 @@ export default function PageServicesDetails2() {
 								</div>
 
 
-								<h5 className="pt-3 border-top mb-3 mt-5">Questions about service</h5>
+								<h5 className="pt-3 border-top mb-3 mt-5">Website Development Process
+								</h5>
 								<div className="accordion mt-5">
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">1</span>
-												<h6 className="m-0">Digital product engineering</h6>
+												<h6 className="m-0">Discovery & Consultation</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -359,14 +351,22 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseOne" className={activeItem == 1 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">We start by understanding your business, target audience, and project requirements. Our team conducts detailed discussions to gather insights and define key objectives.<br />
+											 This stage includes: 	</p>
+												<ul>
+													<li>Requirement gathering</li>
+													<li>Competitor analysis</li>
+													<li>Defining website goals</li>
+													<li>Technology stack selection</li>
+												</ul>
+										
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">2</span>
-												<h6 className="m-0">Crafting SaaS development</h6>
+												<h6 className="m-0">Planning & Strategy	</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -375,14 +375,21 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseTwo" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Based on the insights from the discovery phase, we create a strategic plan outlining the website structure, functionalities, and user experience.<br />
+												This phase involves: </p>
+												<ul>
+													<li>Sitemap creation	</li>
+													<li>Wireframing & prototyping</li>
+													<li> Content strategy development</li>
+													<li>Setting project timelines</li>
+												</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 3 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(3)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">3</span>
-												<h6 className="m-0">AI app development</h6>
+												<h6 className="m-0">UI/UX Design</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -391,14 +398,21 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseThree" className={activeItem == 3 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Our design team crafts an intuitive and visually appealing interface, ensuring a seamless user experience across devices.<br />
+											 We focus on: 	</p>
+												<ul>
+													<li> User-friendly navigation</li>
+													<li>Mobile-first responsive design</li>
+													<li>Brand-aligned aesthetics</li>
+													<li>Interactive elements for engagement	</li>
+												</ul>									
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 4 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(4)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">4</span>
-												<h6 className="m-0">E-commerce development</h6>
+												<h6 className="m-0">Development & Coding</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -407,14 +421,21 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefour" className={activeItem == 4 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Once the design is finalized, our developers bring it to life using the latest technologies. We follow best coding practices for performance and scalability. <br />
+											 This stage includes: </p>
+												<ul>
+													<li> Front-end development (HTML, CSS, JavaScript, React, or Vue.js)</li>
+													<li> Back-end development (Node.js, PHP, Python, etc.)</li>
+													<li>Database integration</li>
+													<li> API development</li>
+												</ul>	
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 5 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(5)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">5</span>
-												<h6 className="m-0">Web Development Services</h6>
+												<h6 className="m-0">Testing & Quality Assurance</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -423,48 +444,95 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefive" className={activeItem == 5 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">We conduct rigorous testing to ensure the website is error-free, responsive, and optimized for performance.<br />
+											 Our testing process includes: 	</p>
+												<ul>
+													<li> Functional testing	</li>
+													<li> Performance testing</li>
+													<li>Security testing</li>
+													<li>Cross-browser & device compatibility testing</li>
+												</ul>
+										
 										</div>
 									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 6 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(6)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">6</span>
+												<h6 className="m-0">Deployment & Launch</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 6 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">After successful testing, we deploy the website on a live server. Our team ensures a smooth transition from development to production,<br />
+												including:</p>
+												<ul>
+													<li> Hosting setup	</li>
+													<li>  Domain configuration</li>
+													<li>SSL certificate installation</li>
+													<li>Final optimization for speed & SEO</li>
+												</ul>
+											
+										</div>
+									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 7 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(7)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">7</span>
+												<h6 className="m-0">Post-Launch Support & Maintenance</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 7 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">Our commitment doesn’t end at deployment. We provide ongoing support to ensure your website remains updated and secure.<br />
+												Our services include:</p>
+												<ul>
+													<li> Bug fixes & updates	</li>
+													<li> Performance monitoring</li>
+													<li>Security patches</li>
+													<li>Content updates</li>
+												</ul>
+											
+										</div>
+									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 8 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(8)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">8</span>
+												<h6 className="m-0">Why Choose CMT AI?</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 8 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											
+
+												<ul className="px-0 card-body fs-6 text-600 mb-0">
+													<li><b>Expert Team:</b>Skilled developers, designers, and strategists.</li>
+													<li><b>Custom Solutions:</b>Tailored to your business needs.</li>
+													<li><b>Scalable Architecture:</b>Future-ready development.</li>
+													<li><b>24/7 Support:</b>Dedicated support and maintenance services.</li>
+												</ul>
+												<p className="px-0 card-body fs-6 text-600 mb-0"> Ready to build your website with CMT AI<br />
+												Contact us today and let’s create something amazing together!
+											</p>
+										</div>
+									</div>
+
 								</div>
 							</div>
 							<div className="col-lg-4 sidebar">
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Financial Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Business Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Solicitory Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									HR Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Strategy Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Start Ups
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
 								<div className="bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border">
 									<h6 className="mb-4 mt-3">Service Brochure</h6>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">

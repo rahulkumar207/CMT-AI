@@ -59,7 +59,7 @@ export default function Services1() {
 										<li>React Native Development</li>
 										<li>Swift Based Apps</li>
 									</ul>
-									<Link href="app-deveopment" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
+									<Link href="app-development" className="rounded-pill border icon-shape d-inline-flex gap-3 icon-learn-more">
 										<svg className="plus" xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
 											<g clipPath="url(#clip0_226_5470)">
 												<path className="fill-dark" d="M15.375 7.375H8.625V0.625C8.625 0.279813 8.34519 0 8 0C7.65481 0 7.375 0.279813 7.375 0.625V7.375H0.625C0.279813 7.375 0 7.65481 0 8C0 8.34519 0.279813 8.625 0.625 8.625H7.375V15.375C7.375 15.7202 7.65481 16 8 16C8.34519 16 8.625 15.7202 8.625 15.375V8.625H15.375C15.7202 8.625 16 8.34519 16 8C16 7.65481 15.7202 7.375 15.375 7.375Z" fill="#111827" />

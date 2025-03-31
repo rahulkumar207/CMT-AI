@@ -103,7 +103,7 @@ export default function Services3() {
 											<li>React Native Development</li>
 											<li>Swift Based Apps</li>
 										</ul>
-										<Link href="app-deveopment" className="text-primary fs-7 fw-bold">
+										<Link href="app-development" className="text-primary fs-7 fw-bold">
 											Explore More
 											<svg className=" ms-2 " xmlns="http://www.w3.org/2000/svg" width={19} height={18} viewBox="0 0 19 18" fill="none">
 												<g clipPath="url(#clip0_399_9647)">
