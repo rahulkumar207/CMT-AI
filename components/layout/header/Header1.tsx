@@ -2,14 +2,22 @@ import Link from 'next/link'
 import MobileMenu from '../MobileMenu'
 import Search from '../Search'
 import OffCanvas from '../OffCanvas'
-import ThemeSwitch from '@/components/elements/ThemeSwitch'
 import Menu from '../Menu'
 
 export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSearch, handleSearch, isOffCanvas, handleOffCanvas }: any) {
 	return (
 		<>
 			<header>
-				<nav className={`navbar navbar-expand-lg navbar-light w-100 z-999 ${'navbar-stick'}`} style={{ position: `${scroll? "fixed" : "relative"}`, top: `${scroll? "0" : "auto"}` }}>
+					<nav
+						className={`navbar navbar-expand-lg navbar-light w-100 z-999 navbar-stick`}
+						style={{
+							position: `${scroll ? "fixed" : "relative"}`,
+							top: `${scroll ? "0" : "auto"}`,
+							width: "100%",
+							zIndex: 9999,
+							padding: "10px", // Added padding: 0
+						}}
+					>
 					<div className="container">
 						<Link className="navbar-brand d-flex main-logo align-items-center" href="/" style={{ maxWidth: '150px'}}>
 								<img
@@ -35,6 +43,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 						</div>
 					</div>
 				</nav>
+				<div style={{ marginTop: scroll ? "70px" : "0" }}>
+					{/* Add this wrapper or adjust the next sibling element */}
+				</div>
 				<OffCanvas handleOffCanvas={handleOffCanvas} isOffCanvas={isOffCanvas} />
 				<Search isSearch={isSearch} handleSearch={handleSearch} />
 				<MobileMenu handleMobileMenu={handleMobileMenu} isMobileMenu={isMobileMenu} />
