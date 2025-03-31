@@ -4,7 +4,7 @@ import Link from "next/link"
 export default function Hero1() {
 	return (
 		<>
-			<section className="position-relative overflow-hidden section-padding">
+			<section className="position-relative section-padding">
 				<div className="container">
 					<div className="row content align-items-center">
 						<div className="col-lg-6 col-md-12 mb-lg-0 mb-5">
