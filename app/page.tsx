@@ -25,27 +25,14 @@ export default function Home() {
 			<Layout>
 				<Hero1 />
 				<LogoCloud1 />
-
-				{/* <Services /> */}
 				<Services1 />
 				<Trusted />
-				{/* <Features1 /> */}
 				<CTA />
-				{/* <Project11 /> */}
 				<CTA2 />
 				<Services5 />
 				<Trusted1 />
-				{/* <Testimonial/> */}
 				<Testimonial4/>
-				{/* <Testimonial2/> */}
-				{/* <Features2 />
-				<Features3 />
-				<Services1 />
-				<Team1 />
-				<Pricing1 />
-				<Testimonial1 />
-				<Blog1 />
-				<Newsletter1 /> */}
+				
 
 			</Layout>
 		</>

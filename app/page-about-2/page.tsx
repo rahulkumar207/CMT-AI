@@ -158,7 +158,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Anurag Singh</Link>
 											</h6>
-											<p className="mb-0">CTO</p>
+											<p className="mb-0"> Founder & CTO</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -179,7 +179,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Gourav Kumar</Link>
 											</h6>
-											<p className="mb-0">CMO</p>
+											<p className="mb-0">Chief Marketing Officer (CMO)</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -200,7 +200,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Dharmendra Kumar</Link>
 											</h6>
-											<p className="mb-0">Director</p>
+											<p className="mb-0">Co-Founder & COO</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -221,7 +221,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Hemant kumar</Link>
 											</h6>
-											<p className="mb-0">App Developer</p>
+											<p className="mb-0">Software Engineer</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -242,7 +242,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Nikita Sharma</Link>
 											</h6>
-											<p className="mb-0">Full-Stack Developer</p>
+											<p className="mb-0">Software Engineer</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -263,7 +263,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Manish Kumar</Link>
 											</h6>
-											<p className="mb-0">App Developer</p>
+											<p className="mb-0">Software Engineer</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -284,7 +284,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Sakshi Rajput</Link>
 											</h6>
-											<p className="mb-0">Full-Stack Web Developer</p>
+											<p className="mb-0">Software Engineer</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -305,7 +305,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Prashant Sharma</Link>
 											</h6>
-											<p className="mb-0">Full-Stack Web Developer</p>
+											<p className="mb-0">Software Engineer</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -324,9 +324,9 @@ export default function PageAbout2() {
 									<div className="d-flex bg-primary-soft rounded-top-3 p-3">
 										<div>
 											<h6>
-												<Link href="#" className="text-900">Rahul Kuamr</Link>
+												<Link href="#" className="text-900">Rahul Rajput</Link>
 											</h6>
-											<p className="mb-0">Full-Stack Developer</p>
+											<p className="mb-0">Software Engineer</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -347,7 +347,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Nikhil Choudhary</Link>
 											</h6>
-											<p className="mb-0">Full-Stack Developer</p>
+											<p className="mb-0">Software Engineer</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -368,7 +368,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Mohit Kumar</Link>
 											</h6>
-											<p className="mb-0">Data Analyst</p>
+											<p className="mb-0">Senior Business Executive</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -389,7 +389,7 @@ export default function PageAbout2() {
 											<h6>
 												<Link href="#" className="text-900">Aayush Kumar</Link>
 											</h6>
-											<p className="mb-0">Data Analyst</p>
+											<p className="mb-0">Senior Business Executive</p>
 										</div>
 										<div className="arrow-icon bg-white icon-shape icon-sm rounded-circle border text-end ms-auto mt-auto">
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -405,23 +405,7 @@ export default function PageAbout2() {
 							</div>
 						</div>
 						
-						<div className="row">
-							<div className="text-center mt-6">
-								<div className="text-center">
-									<p className="fs-4 mb-5 text-900">
-										Easily Monitor, Control, and Enhance Your Personal and <br />
-										Business Finances. Your All-In-One Solution.
-									</p>
-									<Link href="#" className="btn btn-gradient">
-										Get a Free Quote
-										<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-											<path className="stroke-white" d="M17.25 15.25V6.75H8.75" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-											<path className="stroke-white" d="M17 7L6.75 17.25" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-										</svg>
-									</Link>
-								</div>
-							</div>
-						</div>
+						
 						
 					</div>
 				</section>
