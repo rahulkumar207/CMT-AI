@@ -503,32 +503,7 @@ export default function PageServicesDetails2() {
 											
 										</div>
 									</div>
-									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
-										<div className="px-0 card-header border-0 bg-gradient-1">
-											<a className={`${activeItem} == 8 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(8)} data-bs-toggle="collapse">
-												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">8</span>
-												<h6 className="m-0">Why Choose CMT AI?</h6>
-												<span className="ms-auto arrow me-2">
-													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
-														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-													</svg>
-												</span>
-											</a>
-										</div>
-										<div id="collapsefive" className={activeItem == 8 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											
-
-												<ul className="px-0 card-body fs-6 text-600 mb-0">
-													<li><b>Expert Team:</b>Skilled developers, designers, and strategists.</li>
-													<li><b>Custom Solutions:</b>Tailored to your business needs.</li>
-													<li><b>Scalable Architecture:</b>Future-ready development.</li>
-													<li><b>24/7 Support:</b>Dedicated support and maintenance services.</li>
-												</ul>
-												<p className="px-0 card-body fs-6 text-600 mb-0"> Ready to build your website with CMT AI<br />
-												Contact us today and let’s create something amazing together!
-											</p>
-										</div>
-									</div>
+									
 
 								</div>
 							</div>

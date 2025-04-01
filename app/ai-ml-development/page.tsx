@@ -22,103 +22,176 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/img-1.png" alt="infinia" />
-								<h4 className="my-3">Innovative Business Services</h4>
-								<p className="mb-0">In today's fast-paced and competitive business environment, staying ahead requires more than just traditional methods. At Infinia, we understand the necessity of innovation in driving business growth and success. <span className="text-900 fw-bold">Our innovative business</span> services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.</p>
-								<div className="d-md-flex align-items-center mt-3 mb-3">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Journey Mapping</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Feedback Systems</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Sustainable Business Practices</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Corporate Social Responsibility</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Ideation and Concept</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Intellectual Property</span>
-										</li>
-									</ul>
-								</div>
-								<h5 className="pt-4 border-top mb-3 mt-5">Digital Transformation</h5>
-								<p className="mb-4">At Infinia, we are committed to delivering innovative solutions that drive real results. Our team of experts combines industry knowledge with technological expertise to provide services that are both practical and visionary. We work closely with you to understand your unique challenges and tailor our services to meet your specific needs.</p>
-								<div className="row">
-									<div className="col-lg-7">
-										<div className="d-flex">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-5.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Market Analysis and Insights</h6>
-												<p>
-													Gain a deep understanding of your industry <br />
-													and competitors with our comprehensive <br />
-													market analysis.
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-6.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Business Model Innovation</h6>
-												<p>
-													We assist in redefining your business model <br />
-													to align with current market trends and <br />
-													future demands
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-7.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Change Management</h6>
-												<p>
-													Successfully manage organizational change with <br />
-													our expert guidance. We help you navigate <br />
-													transitions smoothly
-												</p>
-											</div>
-										</div>
+								<img className="rounded-3" src="/assets/imgs/services-details-2/aiml.png" alt="infinia" />
+								<h4 className="my-3">AI & ML Services by CMT AI								</h4>
+								<p className="mb-0">At CMT AI, we harness the power of Artificial Intelligence (AI) and Machine Learning (ML) to drive business transformation. Our AI/ML solutions help organizations automate processes, gain valuable insights, and create intelligent systems that enhance decision-making and efficiency.</p>
+								<div className="row mt-5">
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">AI readiness assessment</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Custom AI solution design</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Data strategy & AI roadmap</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Model selection & optimization</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Supervised & unsupervised learning models
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Predictive analytics & forecasting
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI-powered recommendations</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Automated anomaly detection</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Chatbots & virtual assistants</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Sentiment analysis & text classification</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Speech recognition & synthesis</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Document processing & summarization</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Facial & object recognition</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Optical Character Recognition (OCR)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI API development & integration</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Continuous model monitoring & improvement</span>
+											</li>
+										</ul>
 									</div>
-									<div className="col-lg-5 mt-lg-0 mt-5">
-										<img className="rounded-3" src="/assets/imgs/services-details/img-2.png" alt="infinia" />
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">AI-powered video surveillance</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Image segmentation & enhancement</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Robotic Process Automation (RPA)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">AI-based customer support automation			</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Intelligent document processing</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Workflow optimization with AI</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI-powered data mining & clustering</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Real-time data processing & insights</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI-driven business intelligence (BI)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Data visualization & dashboards</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI-powered medical diagnostics</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Fraud detection & risk assessment</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI-driven personalized healthcare</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Algorithmic trading & financial forecasting</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Model training & optimization</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Cloud & edge AI deployment</span>
+											</li>
+										</ul>
 									</div>
 								</div>
-								<h4 className="mt-3 pt-3 border-top mb-3">Sustainability and CSR</h4>
-								<p className="mb-3">Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.</p>
-								<p className="fw-bold text-900">Ideation and Concept Development: <span className="fw-medium text-600">Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.</span></p>
-								<p className="fw-bold text-900">RD Support: <span className="fw-medium text-600">Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.</span></p>
-								<p className="fw-bold text-900">Intellectual Property Management: <span className="fw-medium text-600">Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.</span></p>
-								<p className="fw-bold text-900">Market Analysis and Insights: <span className="fw-medium text-600">Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.</span></p>
-								<p className="fw-bold text-900">Business Model Innovation: <span className="fw-medium text-600">Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives</span></p>
-								<h5 className="pt-3 border-top mb-3 mt-5">Questions about service</h5>
+								
+								
+							
+								<h5 className="pt-3 border-top mb-3 mt-8">Questions about service</h5>
 								<div className="accordion">
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
@@ -202,43 +275,7 @@ export default function PageServicesDetails2() {
 									</div>
 								</div>
 							</div>
-							<div className="col-lg-4 sidebar">
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Financial Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Business Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Solicitory Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									HR Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Strategy Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Start Ups
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
+							<div className="col-lg-4 sidebar">								
 								<div className="bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border">
 									<h6 className="mb-4 mt-3">Service Brochure</h6>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">

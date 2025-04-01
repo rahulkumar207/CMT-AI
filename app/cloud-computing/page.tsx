@@ -23,7 +23,7 @@ export default function PageServicesDetails2() {
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
 								<img className="rounded-3" src="/assets/imgs/services-details-2/cloud-computing.png" alt="infinia" />
-								<h4 className="my-3">Cloud Computing Services by CMT AI								</h4>
+								<h4 className="my-3">Cloud Computing Services by CMT AI</h4>
 								<p className="mb-0">At CMT AI, we provide cutting-edge cloud computing solutions that ensure scalability, security, and efficiency for businesses of all sizes. Our cloud services help enterprises optimize their operations while reducing infrastructure costs and enhancing performance.</p>
 								<div className="row mt-5">
 									<div className="col-6">
