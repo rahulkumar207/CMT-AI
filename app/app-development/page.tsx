@@ -59,6 +59,41 @@ export default function PageServicesDetails2() {
 												<span className="ms-2 text-900 fw-medium fs-6">
 												AI & Chatbot-Powered Apps</span>
 											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Smart Home & IoT Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Voice Assistant & Speech Recognition Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Blockchain & Decentralized Apps (DApps)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Logistics & Fleet Management Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Car Rental & Ride-Sharing Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Personal Finance & Budgeting Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Auction & Bidding Apps</span>
+											</li>
 										</ul>
 									</div>
 									<div className="col-6">
@@ -95,13 +130,45 @@ export default function PageServicesDetails2() {
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Government & Public Service Apps</span>
 											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Recruitment & Job Portal Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Pet Care & Animal Welfare Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Grocery Delivery & Meal Planning Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Parenting & Baby Care Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Automotive & Vehicle Maintenance Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Sports & Fitness Tracking Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Security & Surveillance Apps</span>
+											</li>
 										</ul>
 									</div>
 								</div>
-								
-								
-
-							
+															
 
 								<h5 className="pt-3 border-top mb-3 mt-10">Mobile App Development Process</h5>
 								<div className="accordion">

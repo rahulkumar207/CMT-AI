@@ -22,109 +22,272 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/img-1.png" alt="infinia" />
-								<h4 className="my-3">Innovative Business Services</h4>
-								<p className="mb-0">In today's fast-paced and competitive business environment, staying ahead requires more than just traditional methods. At Infinia, we understand the necessity of innovation in driving business growth and success. <span className="text-900 fw-bold">Our innovative business</span> services are designed to help you navigate the complexities of the modern marketplace, leveraging cutting-edge technology and forward-thinking strategies to transform your operations and achieve your goals. We implement intelligent automation tools tailored to your specific needs.</p>
-								<div className="d-md-flex align-items-center mt-3 mb-3">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Journey Mapping</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Customer Feedback Systems</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Sustainable Business Practices</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Corporate Social Responsibility</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Ideation and Concept</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Intellectual Property</span>
-										</li>
-									</ul>
-								</div>
-								<h5 className="pt-4 border-top mb-3 mt-5">Digital Transformation</h5>
-								<p className="mb-4">At Infinia, we are committed to delivering innovative solutions that drive real results. Our team of experts combines industry knowledge with technological expertise to provide services that are both practical and visionary. We work closely with you to understand your unique challenges and tailor our services to meet your specific needs.</p>
-								<div className="row">
-									<div className="col-lg-7">
-										<div className="d-flex">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-5.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Market Analysis and Insights</h6>
-												<p>
-													Gain a deep understanding of your industry <br />
-													and competitors with our comprehensive <br />
-													market analysis.
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-6.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Business Model Innovation</h6>
-												<p>
-													We assist in redefining your business model <br />
-													to align with current market trends and <br />
-													future demands
-												</p>
-											</div>
-										</div>
-										<div className="d-flex pt-3">
-											<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3">
-												<div className="icon">
-													<img src="/assets/imgs/services-details/icon-7.svg" alt="infinia" />
-												</div>
-											</div>
-											<div className="ps-5">
-												<h6>Change Management</h6>
-												<p>
-													Successfully manage organizational change with <br />
-													our expert guidance. We help you navigate <br />
-													transitions smoothly
-												</p>
-											</div>
-										</div>
+								<img className="rounded-3" src="/assets/imgs/services-details-2/cloud-computing.png" alt="infinia" />
+								<h4 className="my-3">Cloud Computing Services by CMT AI								</h4>
+								<p className="mb-0">At CMT AI, we provide cutting-edge cloud computing solutions that ensure scalability, security, and efficiency for businesses of all sizes. Our cloud services help enterprises optimize their operations while reducing infrastructure costs and enhancing performance.</p>
+								<div className="row mt-5">
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Virtual Machines (VMs)	</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Cloud Storage Solutions												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Networking & Content Delivery (CDN)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Load Balancing & Auto Scaling</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Backup & Disaster Recovery
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Serverless Computing
+
+												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												API Management & Development</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Database as a Service (DBaaS)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Application Hosting & Development Environments</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												DevOps & CI/CD Pipeline Services</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Cloud-Based CRM Software</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Cloud ERP Solutions</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Online Collaboration & Productivity Apps</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Email & Communication Platforms</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Automated Data Processing & Insights</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Real-Time Cloud Performance Monitoring</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Automated Scaling & Resource Allocation</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Log Management & Analysis</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Cost Optimization & Billing Management</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Incident Response & Troubleshooting</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Automated Cloud Backup Solutions</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Multi-Region Disaster Recovery Plans</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Ransomware Protection & Recovery</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Cloud-Based Data Replication</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												High Availability & Fault Tolerance</span>
+											</li>
+										</ul>
 									</div>
-									<div className="col-lg-5 mt-lg-0 mt-5">
-										<img className="rounded-3" src="/assets/imgs/services-details/img-2.png" alt="infinia" />
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Cloud-Based Accounting & HR Tools												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Identity & Access Management (IAM)												</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Data Encryption & Protection</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">Cloud Threat Detection & Response</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Compliance & Risk Management</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Secure Cloud Backup Solutions</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Object Storage (AWS S3, Google Cloud Storage)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												SQL & NoSQL Databases</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Big Data Analytics & Warehousing</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												File Sharing & Synchronization Solutions</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Data Archiving & Retrieval Services</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Virtual Private Cloud (VPC)</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Hybrid & Multi-Cloud Networking</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												VPN & Secure Remote Access</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Network Traffic Monitoring & Optimization</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Edge Computing Solutions</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Legacy Application Migration</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Hybrid Cloud Integration</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Cloud-to-Cloud Migration</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI-Powered Cloud Optimization</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Kubernetes & Container Migration</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												AI Model Training & Deployment</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Cloud-Based Data Science Platforms</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Image & Speech Recognition Services</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<span className="ms-2 text-900 fw-medium fs-6">
+												Natural Language Processing (NLP) APIs</span>
+											</li>
+										</ul>
 									</div>
-								</div>
-								<h4 className="mt-3 pt-3 border-top mb-3">Sustainability and CSR</h4>
-								<p className="mb-3">Embrace the future of business with Infinia's innovative services. Let us help you transform your organization and achieve unprecedented success. Contact us today to learn more about how we can support your journey towards innovation and excellence.</p>
-								<p className="fw-bold text-900">Ideation and Concept Development: <span className="fw-medium text-600">Foster a culture of innovation within your organization. We facilitate ideation sessions and help you develop viable concepts that can be turned into profitable ventures.</span></p>
-								<p className="fw-bold text-900">RD Support: <span className="fw-medium text-600">Accelerate your research and development efforts with our expert support. We provide the resources and expertise needed to bring your innovative ideas to life.</span></p>
-								<p className="fw-bold text-900">Intellectual Property Management: <span className="fw-medium text-600">Protect your innovations with our comprehensive IP management services. From patent filing to trademark registration, we safeguard your intellectual assets.</span></p>
-								<p className="fw-bold text-900">Market Analysis and Insights: <span className="fw-medium text-600">Stay ahead of the competition with in-depth market analysis. We provide you with actionable insights that help you identify new opportunities and make informed strategic decisions.</span></p>
-								<p className="fw-bold text-900">Business Model Innovation: <span className="fw-medium text-600">Reinvent your business model to meet the demands of today's market. Our experts help you create a flexible, scalable model that drives</span></p>
-								<h5 className="pt-3 border-top mb-3 mt-5">Questions about service</h5>
+								</div>	
+								
+							
+								<h5 className="pt-3 border-top mb-3 mt-10">Cloud Computing Services We Offer</h5>
 								<div className="accordion">
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">1</span>
-												<h6 className="m-0">Digital product engineering</h6>
+												<h6 className="m-0"> Cloud Consulting & Strategy</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -133,14 +296,26 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseOne" className={activeItem == 1 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">We assess your business needs and recommend the best cloud solutions, ensuring a seamless transition to the cloud.<br />
+											Our approach includes:											</p>
+											<ul>
+												<li>Cloud readiness assessment
+												</li>
+												<li>Cloud adoption strategy
+												</li>
+												<li>Cost optimization & ROI analysis
+												</li>
+												<li>
+												Security & compliance consulting</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">2</span>
-												<h6 className="m-0">Crafting SaaS development</h6>
+												<h6 className="m-0">Cloud Infrastructure & Deployment												</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -148,15 +323,27 @@ export default function PageServicesDetails2() {
 												</span>
 											</a>
 										</div>
-										<div id="collapseTwo" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+										<div id="collapseOne" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">We build and deploy secure, scalable cloud infrastructures customized for your business.<br />
+											Our services include:
+											</p>
+											<ul>
+												<li>Private, Public & Hybrid Cloud Solutions
+												</li>
+												<li>Multi-Cloud Architecture (AWS, Azure, Google Cloud)
+												</li>
+												<li>Cloud Migration & Deployment
+												</li>
+												<li>Virtualization & Containerization</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 3 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(3)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">3</span>
-												<h6 className="m-0">AI app development</h6>
+												<h6 className="m-0">Cloud Application Development</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -165,14 +352,25 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseThree" className={activeItem == 3 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Our team develops cloud-native applications that are high-performing, flexible, and scalable. <br />
+											Key services include:</p>
+											<ul>
+												<li>Data Encryption & Access Control
+												</li>
+												<li>Cloud Threat Detection & Response
+												</li>
+												<li>Disaster Recovery & Backup Solutions
+												</li>
+												<li>Compliance Management (GDPR, HIPAA, ISO)
+												</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 4 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(4)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">4</span>
-												<h6 className="m-0">E-commerce development</h6>
+												<h6 className="m-0">Cloud Monitoring & Maintenance</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -181,14 +379,26 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefour" className={activeItem == 4 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">We provide continuous cloud monitoring and proactive maintenance to ensure optimal performance.<br />
+											Our offerings include:
+											</p>
+											<ul>
+												<li>24/7 Cloud Monitoring & Support
+												</li>
+												<li>Performance & Cost Optimization
+												</li>
+												<li>Automated Scaling & Resource Allocation
+												</li>
+												<li>Log Management & Incident Response
+												</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 5 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(5)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">5</span>
-												<h6 className="m-0">Web Development Services</h6>
+												<h6 className="m-0">DevOps & Cloud Automation</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -197,48 +407,54 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefive" className={activeItem == 5 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+											We streamline development and deployment processes with DevOps methodologies, ensuring faster releases and higher efficiency.<br />
+											Services include:</p>
+											<ul>
+												<li>CI/CD Pipeline Implementation
+												</li>
+												<li>Infrastructure as Code (IaC)
+
+												</li>
+												<li>Automated Cloud Deployment & Testing
+												</li>
+												<li>Container Orchestration (Docker, Kubernetes)
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 6 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(6)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">6</span>
+												<h6 className="m-0">Post-Launch Support & Maintenance</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 6 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+												Our job doesn’t end at launch! We provide continuous support, updates, and maintenance <br />
+												including:</p>
+											<ul>
+												<li>Bug fixes & performance updates
+												</li>
+												<li>Security patches & compliance updates
+												</li>
+												<li>Feature enhancements based on user feedback
+												</li>
+												<li>Ongoing monitoring & analytics
+												</li>
+											</ul>
 										</div>
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-4 sidebar">
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Financial Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Business Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Solicitory Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									HR Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Strategy Consultancy
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
-								<Link href="#" className="btn btn-outline-secondary-2 w-100 text-start mb-2 fs-5 py-3 d-flex justify-content-between align-items-center">
-									Start Ups
-									<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-										<path className="fill-neutral-100" d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#f3f4f6" />
-									</svg>
-								</Link>
+
 								<div className="bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border">
 									<h6 className="mb-4 mt-3">Service Brochure</h6>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
