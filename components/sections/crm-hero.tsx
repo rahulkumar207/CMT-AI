@@ -10,15 +10,15 @@ export default function Hero2() {
 					<div className="row text-center position-relative z-1">
 						<div className="col">
 							<div className="border-linear-1 rounded-pill d-inline-block mb-2" data-aos="zoom-in" data-aos-delay={100}>
-								<div className="text-primary bg-white px-4 py-2 rounded-pill fw-medium position-relative z-2">🚀 Free Lifetime Update</div>
+								<div className="text-primary bg-white px-4 py-2 rounded-pill fw-medium position-relative z-2">🚀Now with Lifetime Membership</div>
 							</div>
 							<h3 className="ds-3 fw-normal position-relative z-2 mb-5">
                             Your Data, Your Control <br />
 								<span className="fw-bold" data-aos="fade-zoom-in" data-aos-delay={20}>The Smartest CRM</span>  for Your Business!
 							</h3>
 							<div className="d-flex gap-3 flex-column flex-md-row justify-content-center">
-								<Link href="#" className="btn btn-gradient" data-aos="fade-zoom-in" data-aos-delay={100}>
-									Get Started
+								<Link href="https://crm.completrix.com/" className="btn btn-gradient" data-aos="fade-zoom-in" data-aos-delay={100}>
+								Discuss with Our Expert
 									<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
 										<path className="stroke-white" d="M17.25 15.25V6.75H8.75" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 										<path className="stroke-white" d="M17 7L6.75 17.25" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

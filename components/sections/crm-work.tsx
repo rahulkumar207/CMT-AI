@@ -69,19 +69,10 @@ export default function HowItWork1() {
 							<div className="bg-linear-primary rounded-3 position-absolute top-0 start-0 w-75 h-100" />
 							<div className="position-absolute bottom-0 end-0 m-md-8 m-4">
 								<div className="d-flex align-items-center justify-content-center">
-									<Link href="#" onClick={() => setOpen(true)} scroll={false} className="mb-md-0 mb-3 d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 align-self-stretch popup-video hover-up me-3">
-										<span className="backdrop-filter me-2 icon-shape icon-md rounded-circle">
-											<svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
-												<path className="stroke-dark" d="M5.0978 3.31244L12.0958 6.80342C13.077 7.29449 13.0767 8.69249 12.0954 9.18316L5.09734 12.6927C4.21074 13.136 3.16687 12.4925 3.16687 11.5027L3.16687 4.50219C3.16687 3.51217 4.2112 2.86872 5.0978 3.31244Z" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-											</svg>
-										</span>
-										<span className="fw-bold fs-7 text-900">
-											Video Guide
-										</span>
-									</Link>
+									
 									<ModalVideo channel='youtube' isOpen={isOpen} videoId="gXFATcwrO-U" onClose={() => setOpen(false)} />
-									<Link href="#" className="btn btn-gradient d-none d-md-block rounded-4">
-										Join Free for 30 Days
+									<Link href="https://calendly.com/completrix/project-discussion-session" className="btn btn-gradient d-none d-md-block rounded-4">
+									Discuss with Our Expert
 										<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
 											<path className="stroke-white" d="M17.25 15.25V6.75H8.75" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 											<path className="stroke-white" d="M17 7L6.75 17.25" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />

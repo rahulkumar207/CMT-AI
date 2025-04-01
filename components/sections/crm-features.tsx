@@ -144,14 +144,14 @@ export default function Features4() {
 						<div className="row mt-8">
 							<div className="col-lg-7">
 								<div className="d-flex align-items-center justify-content-lg-end justify-content-center">
-									<Link href="#" className="btn btn-gradient">
-										Get Free Quote
+									<Link href="https://calendly.com/completrix/project-discussion-session" className="btn btn-gradient">
+									Discuss with Our Expert
 										<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
 											<path className="stroke-white" d="M17.25 15.25V6.75H8.75" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 											<path className="stroke-white" d="M17 7L6.75 17.25" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 										</svg>
 									</Link>
-									<Link href="#" className="ms-5 text-decoration-underline fw-bold">How We Work</Link>
+									<Link href="https://crm.completrix.com/" className="ms-5 text-decoration-underline fw-bold">Lounch Demo</Link>
 								</div>
 							</div>
 						</div>

@@ -34,7 +34,7 @@ export default function Testimonial4() {
             <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
             <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Features</span>
           </div>
-          <h5 className="ds-3 my-3">+500k Satisfied Customers</h5>
+          <h5 className="ds-3 my-3">+1000 Satisfied Customers</h5>
           <p className="fs-5">🔥 Don't just take our words</p>
         </div>
         <div className="row mt-8 justify-content-center">
