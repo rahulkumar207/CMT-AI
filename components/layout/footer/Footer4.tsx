@@ -95,9 +95,14 @@ export default function Footer4() {
 									</div>
 								</div>
 							</div>
+							<a href="/page-privacy-policy" className="text-white opacity-50">
+								Privacy Policy
+							</a>
+							
 							<div className="row text-center py-4 border-top border-white border-opacity-10">
 								<span className="text-white opacity-50">Copyright © 2025 CMT AI. All Rights Reserved</span>
 							</div>
+
 						</div>
 					</div>
 				</div>

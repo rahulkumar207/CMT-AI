@@ -1,7 +1,7 @@
 
 import Features from "@/components/sections/crm-features"
 import CRMHero from "@/components/sections/crm-hero"
-import HowItWork1 from "@/components/sections/HowItWork1"
+import HowItWork from "@/components/sections/crm-work"
 import LogoCloud2 from "@/components/sections/LogoCloud2"
 import Testimonial2 from "@/components/sections/Testimonial2"
 
@@ -17,7 +17,7 @@ export default function Home2() {
                 <Features />
                 <Testimonial2 />
                
-                <HowItWork1 />
+                <HowItWork />
               
 
             </Layout>

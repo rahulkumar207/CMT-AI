@@ -280,43 +280,23 @@ Table of contents
 }
 
 
-/* ===========Hero============== */
-/* @media (max-width: 375px) {
-  .btn-hero {
-      padding: 10px 20px;
-      font-size: 14px;
-      margin-top: 16px;
-      margin-right: 25px;
-  }
-} */
 
-/* Media Query for iPhone 12 Pro Max (Large Screen) */
-/* @media (min-width: 390px) and (max-width: 428px) {
-  .btn-hero {
-      padding: 14px 28px;
-      font-size: 18px;
-        margin-top: 20px;
-  }
-} */
-/* @media (min-width: 375px) and (max-width: 520px) {
-  .btn-hero {
-      padding: 14px 28px;
-      font-size: 18px;
-        margin-top: 20px;
-        margin-right: 15px;
-        margin-left: 0%;
-  }
+
+
+
+
+/* /*============================= */
+.text-center{
+  text-align: center;
+  margin-top: 15px;
 }
+  
 
-@media (min-width: 425px) and (max-width: 520px) {
-  .btn-hero {
-      padding: 14px 28px;
-      font-size: 18px;
-      margin-right: 15px;
-      margin-top: 0%;
-      
-  }
-} */
+/*=============================
+
+
+
+  Normalize css start
 
 
 
