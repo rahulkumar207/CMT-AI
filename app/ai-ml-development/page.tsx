@@ -191,13 +191,13 @@ export default function PageServicesDetails2() {
 								
 								
 							
-								<h5 className="pt-3 border-top mb-3 mt-8">Questions about service</h5>
+								<h5 className="pt-3 border-top mb-3 mt-8">AI & ML Services We Offer</h5>
 								<div className="accordion">
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 1 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(1)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">1</span>
-												<h6 className="m-0">Digital product engineering</h6>
+												<h6 className="m-0"> AI & ML Consulting	</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -206,14 +206,26 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseOne" className={activeItem == 1 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">We analyze your business requirements and develop AI-driven strategies to enhance efficiency and innovation.<br />
+											Our services include:</p>
+											<ul>
+												<li>AI readiness assessment
+												</li>
+												<li>Custom AI solution design
+												</li>
+												<li>Data strategy & AI roadmap
+												</li>
+												<li>
+												Model selection & optimization</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 2 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(2)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">2</span>
-												<h6 className="m-0">Crafting SaaS development</h6>
+												<h6 className="m-0">Machine Learning Development</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -221,15 +233,29 @@ export default function PageServicesDetails2() {
 												</span>
 											</a>
 										</div>
-										<div id="collapseTwo" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+										<div id="collapseOne" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">We develop machine learning models tailored to your business needs, ensuring accuracy and performance.<br />
+											Our services include:
+											</p>
+											<ul>
+												<li>Supervised & unsupervised learning models
+
+												</li>
+												<li>Predictive analytics & forecasting
+												</li>
+												<li>AI-powered recommendations
+												</li>
+												<li>Automated anomaly detection
+												</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 3 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(3)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">3</span>
-												<h6 className="m-0">AI app development</h6>
+												<h6 className="m-0">Natural Language Processing (NLP)</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -238,14 +264,26 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapseThree" className={activeItem == 3 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Enhance customer interactions and automate text-based processes with advanced NLP solutions. <br />
+											Our expertise includes:</p>
+											<ul>
+												<li>Chatbots & virtual assistants
+												</li>
+												<li>Sentiment analysis & text classification
+												</li>
+												<li>Speech recognition & synthesis
+
+												</li>
+												<li>Document processing & summarization
+												</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 4 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(4)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">4</span>
-												<h6 className="m-0">E-commerce development</h6>
+												<h6 className="m-0">Computer Vision & Image Processing												</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -254,14 +292,27 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefour" className={activeItem == 4 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">Leverage AI for image recognition, object detection, and video analytics.<br />
+											Our services include:
+											</p>
+											<ul>
+												<li>Facial & object recognition
+
+												</li>
+												<li>Optical Character Recognition (OCR)
+												</li>
+												<li>AI-powered video surveillance
+												</li>
+												<li>Image segmentation & enhancement
+												</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
 										<div className="px-0 card-header border-0 bg-gradient-1">
 											<a className={`${activeItem} == 5 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(5)} data-bs-toggle="collapse">
 												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">5</span>
-												<h6 className="m-0">Web Development Services</h6>
+												<h6 className="m-0">AI-Powered Automation & RPA</h6>
 												<span className="ms-auto arrow me-2">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
 														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
@@ -270,7 +321,106 @@ export default function PageServicesDetails2() {
 											</a>
 										</div>
 										<div id="collapsefive" className={activeItem == 5 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
-											<p className="px-0 card-body fs-6 text-600 mb-0">Getting started is simple! Download the app from the App Store or Google Play Store, create an account using your email or social media login, and start making video calls instantly.</p>
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+											Streamline workflows and reduce operational costs with AI-driven automation.	<br />
+											We offer:</p>
+											<ul>
+												<li>Robotic Process Automation (RPA)
+												</li>
+												<li>AI-based customer support automation
+
+												</li>
+												<li>Intelligent document processing
+												</li>
+												<li>Workflow optimization with AI
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 6 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(6)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">6</span>
+												<h6 className="m-0"> AI for Big Data & Analytics</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 6 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+											Unlock deep insights from vast data sources with AI-driven analytics.<br />
+											Our solutions include:</p>
+											<ul>
+												<li>AI-powered data mining & clustering
+												</li>
+												<li>Real-time data processing & insights
+												</li>
+												<li>AI-driven business intelligence (BI)
+												</li>
+												<li>Data visualization & dashboards
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 7 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(7)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">7</span>
+												<h6 className="m-0"> AI in Healthcare & Finance</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 7 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+											Industry-specific AI solutions tailored for healthcare, finance, and other domains. <br />
+											Services include:</p>
+											<ul>
+												<li>
+												AI-powered medical diagnostics
+												</li>
+												<li>
+												Fraud detection & risk assessment
+												</li>
+												<li>AI-driven personalized healthcare
+												</li>
+												<li>Algorithmic trading & financial forecasting
+												</li>
+											</ul>
+										</div>
+									</div>
+									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
+										<div className="px-0 card-header border-0 bg-gradient-1">
+											<a className={`${activeItem} == 8 ? "accordion-button" : "accordion-button collapsed"} pointer text-900 fw-bold d-flex align-items-center`} onClick={() => handleActiveItem(8)} data-bs-toggle="collapse">
+												<span className="icon-shape icon-xs fs-7 rounded-circle d-none d-md-block me-3 bg-primary text-white">8</span>
+												<h6 className="m-0"> AI & ML Model Deployment & Integration												</h6>
+												<span className="ms-auto arrow me-2">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={8} viewBox="0 0 13 8" fill="none">
+														<path className="stroke-dark" d="M11.5 1L6.25 6.5L1 1" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+													</svg>
+												</span>
+											</a>
+										</div>
+										<div id="collapsefive" className={activeItem == 8 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
+											<p className="px-0 card-body fs-6 text-600 mb-0">
+											We ensure seamless deployment and integration of AI/ML models into your existing systems..<br />
+											Our solutions include:</p>
+											<ul>
+												<li>Model training & optimization
+												</li>
+												<li>Cloud & edge AI deployment
+												</li>
+												<li>AI API development & integration
+												</li>
+												<li>Continuous model monitoring & improvement
+												</li>
+											</ul>
 										</div>
 									</div>
 								</div>
