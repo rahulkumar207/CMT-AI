@@ -10,7 +10,7 @@ export default function Features8() {
 					<div className="container">
 						<div className="row align-items-center">
 							<div className="col-lg-4 col-md-6 mb-lg-0 mb-8 pe-5 pe-lg-10 position-relative z-1">
-								<img src="/assets/imgs/features-8/icon-star.svg" alt="infinia" />
+								<img src="/assets/imgs/features-8/icon-star.svg" alt="cmtai" />
 								<h2 className="text-white mt-3 mb-4 fw-black">Core values</h2>
 								<p className="text-white">We break down barriers so teams can focus on what matters – working together to create products their customers love.</p>
 								<div className="col d-flex align-items-center mt-5 min-w-">
@@ -32,7 +32,7 @@ export default function Features8() {
 								<ul className="list-unstyled ">
 									<li>
 										<Link href="#" className="d-flex align-items-start mb-6">
-											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 											<div className="ms-3 pb-4 border-bottom">
 												<h5 className="text-white mb-2">Customers First</h5>
 												<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -41,7 +41,7 @@ export default function Features8() {
 									</li>
 									<li>
 										<Link href="#" className="d-flex align-items-start mb-6">
-											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 											<div className="ms-3 pb-4 border-bottom">
 												<h5 className="text-white mb-2">Think Big</h5>
 												<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -50,7 +50,7 @@ export default function Features8() {
 									</li>
 									<li>
 										<Link href="#" className="d-flex align-items-start mb-6">
-											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 											<div className="ms-3 pb-4 border-bottom">
 												<h5 className="text-white mb-2">Make a Difference</h5>
 												<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -63,7 +63,7 @@ export default function Features8() {
 								<ul className="list-unstyled ">
 									<li>
 										<Link href="#" className="d-flex align-items-start mb-6">
-											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 											<div className="ms-3 pb-4 border-bottom">
 												<h5 className="text-white mb-2">Act With Integrity</h5>
 												<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -72,7 +72,7 @@ export default function Features8() {
 									</li>
 									<li>
 										<Link href="#" className="d-flex align-items-start mb-6">
-											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 											<div className="ms-3 pb-4 border-bottom">
 												<h5 className="text-white mb-2">Do the right thing</h5>
 												<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -81,7 +81,7 @@ export default function Features8() {
 									</li>
 									<li>
 										<Link href="#" className="d-flex align-items-start mb-6">
-											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+											<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 											<div className="ms-3 pb-4 border-bottom">
 												<h5 className="text-white mb-2">Stronger united</h5>
 												<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -93,7 +93,7 @@ export default function Features8() {
 						</div>
 					</div>
 					<div className="position-absolute bottom-0 start-0 bg-rotate z-0">
-						<img className="rotate-center" src="/assets/imgs/features-8/bg-img-favicon.png" alt="infinia" />
+						<img className="rotate-center" src="/assets/imgs/features-8/bg-img-favicon.png" alt="cmtai" />
 					</div>
 					<div className="position-absolute top-0 end-0 z-1 p-8">
 						<div className="bloom" />

@@ -11,42 +11,42 @@ export default function LogoCloud1() {
 							<ul className="carouselTicker__list">
 								<Marquee>
 									<li className="carouselTicker__item">
-									<img src="/assets/imgs/logo-cloud/1.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud/1.png" alt="cmtai" />
 
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/2.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/2.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/3.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/3.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/4.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/4.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-									<img src="/assets/imgs/logo-cloud/5.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud/5.png" alt="cmtai" />
 									
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/6.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/6.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/7.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/7.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/8.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/8.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/9.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/9.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/10.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/10.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/11.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/11.png" alt="cmtai" />
 									</li>
 									<li className="carouselTicker__item">
-										<img src="/assets/imgs/logo-cloud/12.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/12.png" alt="cmtai" />
 									</li>
 									
 								</Marquee>

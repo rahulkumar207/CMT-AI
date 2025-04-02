@@ -11,31 +11,31 @@ export default function LogoCloud3() {
 						<ul className="carouselTicker__list pb-4">
 							<Marquee direction="right">
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img className="filter-invert" src="/assets/imgs/logo-cloud-3/1.png" alt="infinia" />
+									<img className="filter-invert" src="/assets/imgs/logo-cloud-3/1.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/2.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/2.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/3.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/3.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/4.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/4.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-								<img src="/assets/imgs/logo-cloud-3/5.png" alt="infinia" />
+								<img src="/assets/imgs/logo-cloud-3/5.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/6.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/6.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/7.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/7.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/8.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/8.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 								<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-									<img src="/assets/imgs/logo-cloud-3/9.png" alt="infinia" />
+									<img src="/assets/imgs/logo-cloud-3/9.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 								</li>
 							</Marquee>
 						</ul>
@@ -46,31 +46,31 @@ export default function LogoCloud3() {
 								<ul className="carouselTicker__list pb-4">
 									<Marquee>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/10.png" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/10.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/11.png" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/11.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img src="/assets/imgs/logo-cloud-3/12.png" alt="infinia" />
+											<img src="/assets/imgs/logo-cloud-3/12.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/13.png" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/13.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img src="/assets/imgs/logo-cloud-3/14.png" alt="infinia" />
+											<img src="/assets/imgs/logo-cloud-3/14.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/15.png" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/15.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/16.png" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/16.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/17.png" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/17.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 										<li className="carouselTicker__item bg-white py-3 px-4 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2">
-											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/18.png" alt="infinia" />
+											<img className="filter-invert" src="/assets/imgs/logo-cloud-3/18.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</li>
 									</Marquee>
 								</ul>

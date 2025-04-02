@@ -32,41 +32,41 @@ export default function PageServices1() {
 								</div>
 								<div className="col-lg-9 ps-lg-8">
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img className="services-page-img" src="/assets/imgs/logo-cloud/12.png" alt="infinia" />
+										<img className="services-page-img" src="/assets/imgs/logo-cloud/12.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud/2.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/2.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud/3.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/3.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud/4.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/4.png" alt="cmtai" />
 									</div>
 									
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud/5.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/5.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img className="services-page-img" src="/assets/imgs/logo-cloud/6.png" alt="infinia" />
+										<img className="services-page-img" src="/assets/imgs/logo-cloud/6.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img className="services-page-img" src="/assets/imgs/logo-cloud/7.png" alt="infinia" />
+										<img className="services-page-img" src="/assets/imgs/logo-cloud/7.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud/8.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/8.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img className="services-page-img" src="/assets/imgs/logo-cloud/9.png" alt="infinia" />
+										<img className="services-page-img" src="/assets/imgs/logo-cloud/9.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud/10.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/10.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img className="services-page-img" src="/assets/imgs/logo-cloud/11.png" alt="infinia" />
+										<img className="services-page-img" src="/assets/imgs/logo-cloud/11.png" alt="cmtai" />
 									</div>
 									<div className="bg-white py-3 px-3 shadow-1 rounded-2 align-self-center icon-height icon-shape hover-up me-2 mb-2">
-										<img src="/assets/imgs/logo-cloud/1.png" alt="infinia" />
+										<img src="/assets/imgs/logo-cloud/1.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>

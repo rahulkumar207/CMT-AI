@@ -46,7 +46,7 @@ export default function PageAbout() {
 							</div>
 						</div>
 					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="infinia" />
+					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="cmtai" />
 					<div className="bouncing-blobs-container">
 						<div className="bouncing-blobs-glass" />
 						<div className="bouncing-blobs">
@@ -61,29 +61,29 @@ export default function PageAbout() {
 						<div className="row align-items-center">
 							<div className="col-lg-6 ps-lg-0 pe-lg-8">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Who we are</span>
 								</div>
 								<h5 className="ds-5 my-3">Where your financial dreams become reality</h5>
-								<p className="fs-5 text-500">Infinia is a digital company specializing in website creation. Enterprises of all sizes—from emerging startups to large corporations—utilize our theme to develop and manage their online presence.</p>
+								<p className="fs-5 text-500">cmtai is a digital company specializing in website creation. Enterprises of all sizes—from emerging startups to large corporations—utilize our theme to develop and manage their online presence.</p>
 								<div className="d-md-flex align-items-center mt-4 mb-5">
 									<ul className="list-unstyled phase-items mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="cmtai" />
 											<span className="ms-2 text-900 fw-medium fs-6">Best For IT Consulting</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="cmtai" />
 											<span className="ms-2 text-900 fw-medium fs-6">Save Money  Time</span>
 										</li>
 									</ul>
 									<ul className="list-unstyled phase-items ms-md-5 mb-0">
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="cmtai" />
 											<span className="ms-2 text-900 fw-medium fs-6">Innovative Approaches</span>
 										</li>
 										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/cta-2/check.svg" alt="infinia" />
+											<img src="/assets/imgs/cta-2/check.svg" alt="cmtai" />
 											<span className="ms-2 text-900 fw-medium fs-6">100% Satisfaction</span>
 										</li>
 									</ul>
@@ -91,7 +91,7 @@ export default function PageAbout() {
 							</div>
 							<div className="col-lg-5 offset-lg-1">
 								<div className="text-center position-relative">
-									<img className="rounded-4 border border-2 bg-white shadow-2 hover-up mt-5 p-6 position-relative z-1" src="/assets/imgs/cta-10/img-1.png" alt="infinia" />
+									<img className="rounded-4 border border-2 bg-white shadow-2 hover-up mt-5 p-6 position-relative z-1" src="/assets/imgs/cta-10/img-1.png" alt="cmtai" />
 									<div className="bg-linear-1 rounded-4 position-absolute top-0 start-0 bottom-0 end-0 h-75 z-0" />
 								</div>
 							</div>
@@ -197,7 +197,7 @@ export default function PageAbout() {
 							</div>
 							<div className="col-lg-6 ps-lg-8 mt-lg-0 mt-5">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Mission</span>
 								</div>
 								<h5 className="ds-5 my-3">Empowering Your Digital Success Through Innovative Solutions</h5>
@@ -208,27 +208,27 @@ export default function PageAbout() {
 											<img className="rounded-circle" src="/assets/imgs/cta-11/avatar-1.png" alt="" />
 											<div className="d-flex flex-column ps-3">
 												<div className="d-flex">
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
 												</div>
 												<h6 className="mt-2 mb-0 fs-6">John Smith</h6>
 											</div>
 										</div>
-										<p className="text-500 mt-3">Infinia's platform is intuitive and powerful. The custom solutions provided have streamlined our workflow.</p>
+										<p className="text-500 mt-3">cmtai's platform is intuitive and powerful. The custom solutions provided have streamlined our workflow.</p>
 									</div>
 									<div className="evaluate-2 ms-2 mt-md-0 mt-5">
 										<div className="d-flex align-items-center">
 											<img className="rounded-circle" src="/assets/imgs/cta-11/avatar-2.png" alt="" />
 											<div className="d-flex flex-column ps-3">
 												<div className="d-flex">
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
-													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="infinia" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
+													<img src="/assets/imgs/hero-4/star-yellow.svg" alt="cmtai" />
 												</div>
 												<h6 className="mt-2 mb-0 fs-6">Azumi Rose</h6>
 											</div>
@@ -246,7 +246,7 @@ export default function PageAbout() {
 						<div className="row">
 							<div className="col-lg-5">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our History</span>
 								</div>
 								<h5 className="ds-5 my-3">A Journey of <br className="d-none d-md-inline" />
@@ -264,8 +264,8 @@ export default function PageAbout() {
 								</div>
 							</div>
 							<div className="col-lg-6 offset-lg-1 mt-lg-0 mt-8">
-								<p className="fs-5 text-900 mb-5"><span className="fw-bold">Infinia</span> was founded with a passion for technology and a desire to make a difference in the digital world. From our humble beginnings, we have grown into a reputable and sought-after web development agency, serving a diverse range of clients across various industries. Over the years, <span className="fw-bold">we have successfully delivered countless projects</span>, each one a testament to our dedication, expertise, and innovative approach. Our journey has been marked by <span className="fw-bold">continuous growth, learning, and adaptation,</span> and we are proud of the milestones we have achieved along the way.</p>
-								<p className="fs-5 text-900 mb-5">Thank you for considering <span className="fw-bold">Infinia</span> as your web development partner. We look forward to helping you achieve your <span className="fw-bold">digital goals and creating a lasting impact</span> on your business.</p>
+								<p className="fs-5 text-900 mb-5"><span className="fw-bold">cmtai</span> was founded with a passion for technology and a desire to make a difference in the digital world. From our humble beginnings, we have grown into a reputable and sought-after web development agency, serving a diverse range of clients across various industries. Over the years, <span className="fw-bold">we have successfully delivered countless projects</span>, each one a testament to our dedication, expertise, and innovative approach. Our journey has been marked by <span className="fw-bold">continuous growth, learning, and adaptation,</span> and we are proud of the milestones we have achieved along the way.</p>
+								<p className="fs-5 text-900 mb-5">Thank you for considering <span className="fw-bold">cmtai</span> as your web development partner. We look forward to helping you achieve your <span className="fw-bold">digital goals and creating a lasting impact</span> on your business.</p>
 								<div className="d-flex">
 									<img className="rounded-circle border border-5 border-primary-light" src="/assets/imgs/cta-12/avatar-1.png" alt="" />
 									<div className="ms-2">
@@ -283,7 +283,7 @@ export default function PageAbout() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3 fw-regular text-capitalize">Meet <span className="fw-bold">everyone</span> who <br className="d-none d-md-inline" /> made this <span className="fw-bold">possible.</span> </h3>
@@ -295,7 +295,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-primary-soft rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-1.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -316,7 +316,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-3 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-2.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -337,7 +337,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-4 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-3.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -358,7 +358,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-neutral-100 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-4.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -379,7 +379,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-5 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-5.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -400,7 +400,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-4 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-6.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -421,7 +421,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-primary-soft rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-7.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -442,7 +442,7 @@ export default function PageAbout() {
 							<div className="col-lg-3 col-md-6 text-center mb-8">
 								<div className="card-team position-relative d-inline-block hover-up">
 									<div className="zoom-img bg-3 rounded-3">
-										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-5/img-portrait-8.png" alt="cmtai" />
 									</div>
 									<div className="d-flex">
 										<div>
@@ -466,7 +466,7 @@ export default function PageAbout() {
 								<div className="text-center">
 									<img src="/assets/imgs/team-5/icon-sm.svg" alt="" />
 									<h5 className="my-3">We are seeking skilled individuals.</h5>
-									<p className="text-500 mb-8">Infinia is experiencing rapid growth, and we are continually seeking passionate, dynamic, <br className="d-none d-md-inline" /> and talented individuals to join our distributed team across the globe.</p>
+									<p className="text-500 mb-8">cmtai is experiencing rapid growth, and we are continually seeking passionate, dynamic, <br className="d-none d-md-inline" /> and talented individuals to join our distributed team across the globe.</p>
 									<Link href="#" className="btn btn-gradient">
 										Become Our Member
 										<svg className="ms-2" xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
@@ -573,31 +573,31 @@ export default function PageAbout() {
 											<h6>Chat with us</h6>
 											<p className="text-500">The support team is always available 24/7</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-1.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 											</div>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-2.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-3.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 											</div>
 											<h6>Send us an email</h6>
 											<p className="text-500">Our team will respond promptly to your inquiries</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@cmtai.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@cmtai.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-5.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-5.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+01 (24) 568 900</Link>
 											</div>
 										</div>
@@ -612,7 +612,7 @@ export default function PageAbout() {
 					<div className="container position-relative z-1">
 						<div className="text-center">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Features</span>
 							</div>
 							<h5 className="ds-3 my-3">+500k Satisfied Customers</h5>
@@ -698,7 +698,7 @@ export default function PageAbout() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">John Anderson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="cmtai" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -710,7 +710,7 @@ export default function PageAbout() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Sarah Thompson</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="cmtai" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -722,7 +722,7 @@ export default function PageAbout() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Emily Adams</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-3.png" alt="cmtai" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -734,7 +734,7 @@ export default function PageAbout() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Automated reports</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-4.png" alt="cmtai" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -746,7 +746,7 @@ export default function PageAbout() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Funnel optimization</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-1.png" alt="cmtai" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -758,7 +758,7 @@ export default function PageAbout() {
 												<div className="d-flex flex-column">
 													<h6 className="ms-3 fs-6 mb-0">Integrations</h6>
 													<div className="flag ms-3">
-														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="infinia" />
+														<img src="/assets/imgs/testimonial-1/flag-2.png" alt="cmtai" />
 														<span className="fs-8">CEO of Tech Innovators Inc</span>
 													</div>
 												</div>
@@ -772,7 +772,7 @@ export default function PageAbout() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/team-1/bg-line.png" alt="cmtai" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-0" />
@@ -783,7 +783,7 @@ export default function PageAbout() {
 						<div className="container">
 							<div className="row align-items-center">
 								<div className="col-lg-4 col-md-6 mb-lg-0 mb-8 pe-5 pe-lg-10 position-relative z-1">
-									<img src="/assets/imgs/features-8/icon-star.svg" alt="infinia" />
+									<img src="/assets/imgs/features-8/icon-star.svg" alt="cmtai" />
 									<h2 className="text-white mt-3 mb-4 fw-black">Core values</h2>
 									<p className="text-white">We break down barriers so teams can focus on what matters – working together to create products their customers love.</p>
 									<div className="col d-flex align-items-center mt-5 min-w-">
@@ -805,7 +805,7 @@ export default function PageAbout() {
 									<ul className="list-unstyled ">
 										<li>
 											<Link href="#" className="d-flex align-items-start mb-6">
-												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 												<div className="ms-3 pb-4 border-bottom">
 													<h5 className="text-white mb-2">Customers First</h5>
 													<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -814,7 +814,7 @@ export default function PageAbout() {
 										</li>
 										<li>
 											<Link href="#" className="d-flex align-items-start mb-6">
-												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 												<div className="ms-3 pb-4 border-bottom">
 													<h5 className="text-white mb-2">Think Big</h5>
 													<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -823,7 +823,7 @@ export default function PageAbout() {
 										</li>
 										<li>
 											<Link href="#" className="d-flex align-items-start mb-6">
-												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 												<div className="ms-3 pb-4 border-bottom">
 													<h5 className="text-white mb-2">Make a Difference</h5>
 													<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -836,7 +836,7 @@ export default function PageAbout() {
 									<ul className="list-unstyled ">
 										<li>
 											<Link href="#" className="d-flex align-items-start mb-6">
-												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 												<div className="ms-3 pb-4 border-bottom">
 													<h5 className="text-white mb-2">Act With Integrity</h5>
 													<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -845,7 +845,7 @@ export default function PageAbout() {
 										</li>
 										<li>
 											<Link href="#" className="d-flex align-items-start mb-6">
-												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 												<div className="ms-3 pb-4 border-bottom">
 													<h5 className="text-white mb-2">Do the right thing</h5>
 													<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -854,7 +854,7 @@ export default function PageAbout() {
 										</li>
 										<li>
 											<Link href="#" className="d-flex align-items-start mb-6">
-												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="infinia" />
+												<img className="mt-2" src="/assets/imgs/features-2/tick.svg" alt="cmtai" />
 												<div className="ms-3 pb-4 border-bottom">
 													<h5 className="text-white mb-2">Stronger united</h5>
 													<p className="text-white mb-0">Our company exists to help merchants sell more. We make every decision and measure every outcome based on how well it serves our customers.</p>
@@ -866,7 +866,7 @@ export default function PageAbout() {
 							</div>
 						</div>
 						<div className="position-absolute bottom-0 start-0 bg-rotate z-0">
-							<img className="rotate-center" src="/assets/imgs/features-8/bg-img-favicon.png" alt="infinia" />
+							<img className="rotate-center" src="/assets/imgs/features-8/bg-img-favicon.png" alt="cmtai" />
 						</div>
 						<div className="position-absolute top-0 end-0 z-1 p-8">
 							<div className="bloom" />

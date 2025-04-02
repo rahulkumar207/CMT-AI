@@ -33,7 +33,7 @@ export default function Hero2() {
 							</div>
 							<div className="mt-10 mt-md-8 position-relative z-1  text-900">
 								<img src="/assets/imgs/hero-2/crm.png" alt="cmtai" data-aos="fade-up" data-aos-delay={100} />
-								<img className="alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10" src="/assets/imgs/hero-2/vector.png" alt="infinia" />
+								<img className="alltuchtopdown d-none d-md-block position-absolute bottom-0 end-0 pe-10 me-lg-10 mb-lg-10" src="/assets/imgs/hero-2/vector.png" alt="cmtai" />
 								<div className="position-md-absolute d-inline-block pt-10 pt-md-5 top-50 start-0 translate-middle-y mt-10">
 									<div className="alltuchtopdown backdrop-filter rounded-4 p-4">
 										<h6 className="text-900">Features</h6>
@@ -45,23 +45,23 @@ export default function Hero2() {
 										</p>
 										<ul className="list-unstyled phase-items text-900">
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="cmtai" />
 												<span className="ms-2">Project Management Tool</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="cmtai" />
 												<span className="ms-2">Leads Management</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="cmtai" />
 												<span className="ms-2">Estimates and Proposals</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="cmtai" />
 												<span className="ms-2">One-Click Invoice Creation</span>
 											</li>
 											<li className="d-flex align-items-center mt-2">
-												<img src="/assets/imgs/hero-2/check.png" alt="infinia" />
+												<img src="/assets/imgs/hero-2/check.png" alt="cmtai" />
 												<span className="ms-2">Staff Task Management</span>
 											</li>
 										</ul>
@@ -69,21 +69,21 @@ export default function Hero2() {
 								</div>
 							</div>
 							<div className="position-absolute top-0 start-0 ms-10 mt-10 pt-10">
-								<img className="flickering" src="/assets/imgs/hero-2/star-1.png" alt="infinia" />
+								<img className="flickering" src="/assets/imgs/hero-2/star-1.png" alt="cmtai" />
 							</div>
 							<div className="rotateme position-absolute top-0 end-0 me-10 pe-8 z-0">
-								<img className="flickering" src="/assets/imgs/hero-2/star-3.png" alt="infinia" />
+								<img className="flickering" src="/assets/imgs/hero-2/star-3.png" alt="cmtai" />
 							</div>
 							<div className="position-absolute top-50 end-0 translate-middle-y pe-md-10 pe-5 pt-10 mt-8">
 								<div className="shake">
-									<img className="flickering" src="/assets/imgs/hero-2/star-2.png" alt="infinia" />
+									<img className="flickering" src="/assets/imgs/hero-2/star-2.png" alt="cmtai" />
 								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x">
-					<img src="/assets/imgs/hero-2/bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/hero-2/bg-line.png" alt="cmtai" />
 				</div>
 				<div className="bouncing-blobs-container">
 					<div className="bouncing-blobs-glass" />

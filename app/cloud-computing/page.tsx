@@ -22,131 +22,131 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/cloud-computing.png" alt="infinia" />
+								<img className="rounded-3" src="/assets/imgs/services-details-2/cloud-computing.png" alt="cmtai" />
 								<h4 className="my-3">Cloud Computing Services by CMT AI</h4>
 								<p className="mb-0">At CMT AI, we provide cutting-edge cloud computing solutions that ensure scalability, security, and efficiency for businesses of all sizes. Our cloud services help enterprises optimize their operations while reducing infrastructure costs and enhancing performance.</p>
 								<div className="row mt-5">
 									<div className="col-6">
 										<ul className="list-unstyled phase-items mb-0">
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Virtual Machines (VMs)	</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Cloud Storage Solutions												</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Networking & Content Delivery (CDN)</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Load Balancing & Auto Scaling</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Backup & Disaster Recovery
 												</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Serverless Computing
 
 												</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												API Management & Development</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Database as a Service (DBaaS)</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Application Hosting & Development Environments</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												DevOps & CI/CD Pipeline Services</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Cloud-Based CRM Software</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Cloud ERP Solutions</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Online Collaboration & Productivity Apps</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Email & Communication Platforms</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Automated Data Processing & Insights</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Real-Time Cloud Performance Monitoring</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Automated Scaling & Resource Allocation</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Log Management & Analysis</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Cost Optimization & Billing Management</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Incident Response & Troubleshooting</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Automated Cloud Backup Solutions</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Multi-Region Disaster Recovery Plans</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Ransomware Protection & Recovery</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Cloud-Based Data Replication</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												High Availability & Fault Tolerance</span>
 											</li>
@@ -155,124 +155,124 @@ export default function PageServicesDetails2() {
 									<div className="col-6">
 										<ul className="list-unstyled phase-items mb-0">
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Cloud-Based Accounting & HR Tools												</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Identity & Access Management (IAM)												</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Data Encryption & Protection</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">Cloud Threat Detection & Response</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Compliance & Risk Management</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Secure Cloud Backup Solutions</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Object Storage (AWS S3, Google Cloud Storage)</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												SQL & NoSQL Databases</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Big Data Analytics & Warehousing</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												File Sharing & Synchronization Solutions</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Data Archiving & Retrieval Services</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Virtual Private Cloud (VPC)</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Hybrid & Multi-Cloud Networking</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												VPN & Secure Remote Access</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Network Traffic Monitoring & Optimization</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Edge Computing Solutions</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Legacy Application Migration</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Hybrid Cloud Integration</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Cloud-to-Cloud Migration</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												AI-Powered Cloud Optimization</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Kubernetes & Container Migration</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												AI Model Training & Deployment</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Cloud-Based Data Science Platforms</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Image & Speech Recognition Services</span>
 											</li>
 											<li className="d-flex align-items-center mt-3">
-												<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
+												<img src="/assets/imgs/services-details/check.svg" alt="cmtai" />
 												<span className="ms-2 text-900 fw-medium fs-6">
 												Natural Language Processing (NLP) APIs</span>
 											</li>
@@ -458,19 +458,19 @@ export default function PageServicesDetails2() {
 								<div className="bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border">
 									<h6 className="mb-4 mt-3">Service Brochure</h6>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-1.svg" alt="infinia" />
+										<img src="/assets/imgs/services-details/icon-1.svg" alt="cmtai" />
 										<p className="text-900 fs-7 mb-0 ms-3">PDF. Download (25 Mb)</p>
 									</Link>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-2.svg" alt="infinia" />
+										<img src="/assets/imgs/services-details/icon-2.svg" alt="cmtai" />
 										<p className="text-900 fs-7 mb-0 ms-3">DOC. Download (28 Mb)</p>
 									</Link>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-3.svg" alt="infinia" />
+										<img src="/assets/imgs/services-details/icon-3.svg" alt="cmtai" />
 										<p className="text-900 fs-7 mb-0 ms-3">Open on Google Driver</p>
 									</Link>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center">
-										<img src="/assets/imgs/services-details/icon-4.svg" alt="infinia" />
+										<img src="/assets/imgs/services-details/icon-4.svg" alt="cmtai" />
 										<p className="text-900 fs-7 mb-0 ms-3">Open on Google Driver</p>
 									</Link>
 								</div>
@@ -482,7 +482,7 @@ export default function PageServicesDetails2() {
 											in Financial Services
 										</h4>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
-											<img src="/assets/imgs/services-details/icon-contact.svg" alt="infinia" />
+											<img src="/assets/imgs/services-details/icon-contact.svg" alt="cmtai" />
 											<div className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
 												<h5 className="text-white d-block">+01 (24) 568 900</h5>
@@ -495,11 +495,11 @@ export default function PageServicesDetails2() {
 											</svg>
 										</Link>
 									</div>
-									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="infinia" />
+									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="cmtai" />
 								</div>
 								<div className="position-relative mb-lg-0 mb-8 d-inline-block fix mt-7">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/services-details-2/img-2.png" alt="infinia" />
+										<img src="/assets/imgs/services-details-2/img-2.png" alt="cmtai" />
 									</div>
 									<div className="position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2 text-900 text-nowrap">
@@ -507,9 +507,9 @@ export default function PageServicesDetails2() {
 											happy clients
 										</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="cmtai" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="cmtai" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="cmtai" />
 										</div>
 									</div>
 								</div>
@@ -605,31 +605,31 @@ export default function PageServicesDetails2() {
 											<h6>Chat with us</h6>
 											<p className="text-500">The support team is always available 24/7</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-1.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-1.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 											</div>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-2.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-2.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-3.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-3.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 											</div>
 											<h6>Send us an email</h6>
 											<p className="text-500">Our team will respond promptly to your inquiries</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@cmtai.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="infinia" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@infinia.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@cmtai.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-5.svg" alt="infinia" />
+												<img src="/assets/imgs/contact-2/icon-5.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+01 (24) 568 900</Link>
 											</div>
 										</div>

@@ -45,7 +45,7 @@ export default function Services3() {
 				<div className="container position-relative z-2">
 					<div className="text-center">
 						<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Things We do at CMT AI</span>
 						</div>
 					</div>
@@ -59,7 +59,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/Layer 2.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/Layer 2.svg" alt="cmtai" />
 											</div>
 										</div>
 										<h5 className="my-3" style={{ fontSize: "21px" }}>Web Development</h5>
@@ -90,7 +90,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/App.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/App.svg" alt="cmtai" />
 											</div>
 										</div>
 										<h5 className="my-3" style={{ fontSize: "21px" }}>App Development</h5>
@@ -123,7 +123,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/Ai.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/Ai.svg" alt="cmtai" />
 											</div>
 										</div>
 										<h5 className="my-3" style={{ fontSize: "21px" }}>AI/ML Development</h5>
@@ -156,7 +156,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/software engineer.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/software engineer.svg" alt="cmtai" />
 											</div>
 										</div>
 										<h5 className="my-3" style={{ fontSize: "21px" }}>Cloud Computing</h5>
@@ -188,7 +188,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/digital.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/digital.svg" alt="cmtai" />
 											</div>
 										</div>
 										<h5 className="my-3" style={{ fontSize: "21px" }}>Digital Marketing</h5>
@@ -221,7 +221,7 @@ export default function Services3() {
 									<div className="card-service-4 position-relative bg-white p-6 border rounded-3 text-center shadow-1 hover-up mt-2">
 										<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 											<div className="icon">
-												<img src="/assets/imgs/service-3/Group 2.svg" alt="infinia" />
+												<img src="/assets/imgs/service-3/Group 2.svg" alt="cmtai" />
 											</div>
 										</div>
 										<h5 className="my-3" style={{ fontSize: "21px" }}>PR Services</h5>

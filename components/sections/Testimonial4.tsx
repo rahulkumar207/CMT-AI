@@ -31,7 +31,7 @@ export default function Testimonial4() {
             data-aos="zoom-in"
             data-aos-delay={100}
           >
-            <img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+            <img src="/assets/imgs/features-1/dots.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
             <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Our Features</span>
           </div>
           <h5 className="ds-3 my-3">+1000 Satisfied Customers</h5>
@@ -202,7 +202,7 @@ export default function Testimonial4() {
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Emily Carter</h6>
                       <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+                        <img src="/assets/imgs/testimonial-1/flag-1.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
                         <span className="fs-8">Customer Success Manager, SwiftTech Solutions (USA)</span>
                       </div>
                     </div>
@@ -216,7 +216,7 @@ export default function Testimonial4() {
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Dr. Robert Williams</h6>
                       <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
                         <span className="fs-8">Director, EduFuture Academy (UK)</span>
                       </div>
                     </div>
@@ -230,7 +230,7 @@ export default function Testimonial4() {
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Jason Miller</h6>
                       <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+                        <img src="/assets/imgs/testimonial-1/flag-1.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
                         <span className="fs-8">CTO, InnovateX Inc. (USA)</span>
                       </div>
                     </div>
@@ -244,7 +244,7 @@ export default function Testimonial4() {
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Sarah Johnson</h6>
                       <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
                         <span className="fs-8">COO, RetailSync Ltd. (UK)</span>
                       </div>
                     </div>
@@ -258,7 +258,7 @@ export default function Testimonial4() {
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Daniel Foster</h6>
                       <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-1.png" alt="infinia" />
+                        <img src="/assets/imgs/testimonial-1/flag-1.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
                         <span className="fs-8">Managing Director, FinEdge Solutions (USA)</span>
                       </div>
                     </div>
@@ -272,7 +272,7 @@ export default function Testimonial4() {
                     <div className="d-flex flex-column">
                       <h6 className="ms-3 fs-6 mb-0">Mark Thompson</h6>
                       <div className="flag ms-3">
-                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="infinia" />
+                        <img src="/assets/imgs/testimonial-1/flag-3.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
                         <span className="fs-8">CEO, GrowthSphere Ltd. (UK)</span>
                       </div>
                     </div>
@@ -288,7 +288,7 @@ export default function Testimonial4() {
         </div>
       </div>
       <div className="position-absolute top-0 start-50 translate-middle-x z-0">
-        <img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+        <img src="/assets/imgs/team-1/bg-line.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
       </div>
       <div className="rotate-center ellipse-rotate-success position-absolute z-0" />
       <div className="rotate-center-rev ellipse-rotate-primary position-absolute z-0" />

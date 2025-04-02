@@ -10,7 +10,7 @@ export default function Features4() {
 					<div className="container">
 						<div className="text-center mb-8">
 							<div className="d-flex align-items-center justify-content-center bg-primary-soft d-inline-flex rounded-pill border-white border px-3 py-1" data-aos="zoom-in" data-aos-delay={200}>
-								<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+								<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 								<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Powerful Features</span>
 							</div>
 							<h3 className="ds-3 my-3 fw-regular">

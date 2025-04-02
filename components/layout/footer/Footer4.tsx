@@ -39,7 +39,7 @@ export default function Footer4() {
 						<div className="container position-relative z-2">
 							<div className="row py-90">
 								<div className="col-lg-4 pe-10">
-									<Link href="/"><img src="assets/imgs/logo/logo-white.svg" alt="infinia" /></Link>
+									<Link href="/"><img src="assets/imgs/logo/logo-white.svg" alt="cmtai" /></Link>
 									<p className="text-white fw-medium mt-3 mb-6 opacity-50">Looking for top-notch web and mobile app development without the hefty price tag? We bring you high-quality, scalable, and feature-rich digital solutions at the most affordable rates.</p>
 									<div className="d-flex social-icons">
 										<Link href="/https://www.facebook.com/" className=" text-white border border-end-0 border-light border-opacity-10 icon-shape icon-md">

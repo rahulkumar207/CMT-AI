@@ -22,7 +22,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 						<Link className="navbar-brand d-flex main-logo align-items-center" href="/" style={{ maxWidth: '150px'}}>
 								<img
 									src={"/assets/imgs/logo/logo-white.svg"} 
-									alt="infinia" 
+									alt="cmtai" 
 								/>
 						</Link>
 						<Menu/>

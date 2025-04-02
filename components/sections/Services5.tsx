@@ -56,7 +56,7 @@ export default function Services5() {
               data-aos="zoom-in"
               data-aos-delay={100}
             >
-              <img src="assets/imgs/features-1/dots.png" alt="infinia" />
+              <img src="assets/imgs/features-1/dots.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
               <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Things we have created at cmt ai</span>
             </div>
             <h3 className="ds-3 my-3">Our Products</h3>
@@ -95,7 +95,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
-                      alt="infinia"
+                      alt="#CMT AI | CMT AI NOIDA | We Create Android App | IOS App | Website | Cloud Technology | Digital Marketing , SEO , SMO. Web application development, Mobile app development, Software engineering, Software solutions provider, Software development lifecycle, Software architecture, Software coding, Software testing, Software deployment, Software maintenance, Front-end development, Back-end development, Full-stack development, Cloud-based software development, Enterprise software development, Open-source software development, Rapid application development, Prototype development, Application programming interface (API) development, Software integration, Database development, UI/UX design and development, Software,completrix,completrix microtechnologies pvt ltd"
                     />
                   </div>
                 </div>
@@ -121,7 +121,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-7.png"
-                      alt="infinia"
+                      alt="CMT AI | CMT AI NOIDA | We Create Android App | IOS App | Website | Cloud Technology | Digital Marketing , SEO , SMO. Web application development, Mobile app development, Software engineering, Software solutions provider, Software development lifecycle, Software architecture, Software coding, Software testing, Software deployment, Software maintenance, Front-end development, Back-end development, Full-stack development, Cloud-based software development, Enterprise software development, Open-source software development, Rapid application development, Prototype development, Application programming interface (API) development, Software integration, Database development, UI/UX design and development, Software,completrix,completrix microtechnologies pvt ltd"
                     />
                   </div>
                 </div>
@@ -146,7 +146,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-8.png"
-                      alt="infinia"
+                      alt="CMT AI | CMT AI NOIDA | We Create Android App | IOS App | Website | Cloud Technology | Digital Marketing , SEO , SMO. Web application development, Mobile app development, Software engineering, Software solutions provider, Software development lifecycle, Software architecture, Software coding, Software testing, Software deployment, Software maintenance, Front-end development, Back-end development, Full-stack development, Cloud-based software development, Enterprise software development, Open-source software development, Rapid application development, Prototype development, Application programming interface (API) development, Software integration, Database development, UI/UX design and development, Software,completrix,completrix microtechnologies pvt ltd"
                     />
                   </div>
                 </div>
@@ -171,7 +171,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
-                      alt="infinia"
+                      alt="cmtai"
                     />
                   </div>
                 </div>
@@ -198,7 +198,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
-                      alt="infinia"
+                      alt="cmtai"
                     />
                   </div>
                 </div>
@@ -223,7 +223,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
-                      alt="infinia"
+                      alt="cmtai"
                     />
                   </div>
                 </div>
@@ -243,7 +243,7 @@ export default function Services5() {
         </div>
 
         <div className="position-absolute top-0 start-50 translate-middle-x z-0">
-          <img src="assets/imgs/service-2/bg-line.png" alt="infinia" />
+          <img src="assets/imgs/service-2/bg-line.png" alt="CMT AI | CMT AI NOIDA | We Create Android App | IOS App | Website | Cloud Technology | Digital Marketing , SEO , SMO. Web application development, Mobile app development, Software engineering, Software solutions provider, Software development lifecycle, Software architecture, Software coding, Software testing, Software deployment, Software maintenance, Front-end development, Back-end development, Full-stack development, Cloud-based software development, Enterprise software development, Open-source software development, Rapid application development, Prototype development, Application programming interface (API) development, Software integration, Database development, UI/UX design and development, Software,completrix,completrix microtechnologies pvt ltds" />
         </div>
         <div className="rotate-center ellipse-rotate-success position-absolute z-1" />
         <div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />

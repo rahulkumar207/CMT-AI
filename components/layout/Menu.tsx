@@ -154,12 +154,12 @@ export default function Menu() {
 													<div className="position-relative bg-4 rounded-3 mt-5">
 														<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 														<div className="position-absolute top-50 start-50 translate-middle z-0">
-															<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+															<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="cmtai" />
 															<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 															<div className="d-flex mt-3 ms-3">
-																<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																<img src="/assets/imgs/other/avatar-1.png" alt="cmtai" />
+																<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="cmtai" />
+																<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="cmtai" />
 															</div>
 															<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																Get this now
@@ -183,12 +183,12 @@ export default function Menu() {
 													<div className="position-relative bg-4 rounded-3 mt-5">
 														<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 														<div className="position-absolute top-50 start-50 translate-middle z-0">
-															<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+															<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="cmtai" />
 															<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 															<div className="d-flex mt-3 ms-3">
-																<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																<img src="/assets/imgs/other/avatar-1.png" alt="cmtai" />
+																<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="cmtai" />
+																<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="cmtai" />
 															</div>
 															<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																Get this now
@@ -211,12 +211,12 @@ export default function Menu() {
 													<div className="position-relative bg-4 rounded-3 mt-5">
 														<img className="rounded-3" src="/assets/imgs/template/bg-card.png" alt="" />
 														<div className="position-absolute top-50 start-50 translate-middle z-0">
-															<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="infinia" />
+															<img className="ms-3" src="/assets/imgs/logo/logo-dark.svg" alt="cmtai" />
 															<p className="fs-7 fw-bold text-900 text-center my-3 text-nowrap">Multi-layout SaaS  <br /> Startup Website <br /> Template</p>
 															<div className="d-flex mt-3 ms-3">
-																<img src="/assets/imgs/other/avatar-1.png" alt="infinia" />
-																<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="infinia" />
-																<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="infinia" />
+																<img src="/assets/imgs/other/avatar-1.png" alt="cmtai" />
+																<img className="avt-hero" src="/assets/imgs/other/avatar-2.png" alt="cmtai" />
+																<img className="avt-hero " src=" assets/imgs/other/avatar-3.png" alt="cmtai" />
 															</div>
 															<Link href="#" className="btn btn-md btn-gradient fs-8 mt-3 text-nowrap">
 																Get this now
@@ -234,7 +234,7 @@ export default function Menu() {
 								</div>
 							</div>
 							<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-								<img src="/assets/imgs/team-1/bg-line.png" alt="infinia" />
+								<img src="/assets/imgs/team-1/bg-line.png" alt="cmtai" />
 							</div>
 							<div className="ellipse-rotate-success-sm position-absolute top-0 start-0 translate-middle z-0" />
 							<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />

@@ -13,7 +13,7 @@ export default function HowItWork1() {
 				<div className="container position-relative z-1">
 					<div className="text-center mb-8">
 						<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1" data-aos="zoom-in" data-aos-delay={200}>
-							<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+							<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 							<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">Book a Free Demo Today!</span>
 						</div>
 						<h3 className="ds-3 my-3 fw-regular" data-aos="fade-zoom-in" data-aos-delay={100}>Ready to Elevate Your Business</h3>
@@ -21,7 +21,7 @@ export default function HowItWork1() {
 					</div>
 				</div>
 				<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-					<img src="/assets/imgs/howitwork-1/img-bg-line.png" alt="infinia" />
+					<img src="/assets/imgs/howitwork-1/img-bg-line.png" alt="cmtai" />
 				</div>
 				<div className="container position-relative z-1">
 					<div className="position-relative">
@@ -29,7 +29,7 @@ export default function HowItWork1() {
 							<div className="d-flex feature-item">
 								<div className="bg-primary-soft-keep icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 									<div className="icon">
-										<img src="/assets/imgs/howitwork-1/icon-1.svg" alt="infinia" />
+										<img src="/assets/imgs/howitwork-1/icon-1.svg" alt="cmtai" />
 									</div>
 								</div>
 								<div data-aos="fade-zoom-in" data-aos-delay={100}>
@@ -41,7 +41,7 @@ export default function HowItWork1() {
 							<div className="d-flex feature-item position-relative z-1">
 								<div className="bg-primary-soft-keep icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 									<div className="icon">
-										<img src="/assets/imgs/howitwork-1/icon-2.svg" alt="infinia" />
+										<img src="/assets/imgs/howitwork-1/icon-2.svg" alt="cmtai" />
 									</div>
 								</div>
 								<div data-aos="fade-zoom-in" data-aos-delay={200}>
@@ -53,7 +53,7 @@ export default function HowItWork1() {
 							<div className="d-flex feature-item">
 								<div className="bg-primary-soft-keep icon-flip position-relative icon-shape icon-xxl rounded-3 me-5">
 									<div className="icon">
-										<img src="/assets/imgs/howitwork-1/icon-3.svg" alt="infinia" />
+										<img src="/assets/imgs/howitwork-1/icon-3.svg" alt="cmtai" />
 									</div>
 								</div>
 								<div data-aos="fade-zoom-in" data-aos-delay={300}>
@@ -65,7 +65,7 @@ export default function HowItWork1() {
 							<div className="dashed-line-2 d-none d-lg-block" />
 						</div>
 						<div className="position-relative d-inline-block">
-							<img className="rounded-3 w-100 img-fluid" src="/assets/imgs/howitwork-1/crm-work1.png" alt="infinia" />
+							<img className="rounded-3 w-100 img-fluid" src="/assets/imgs/howitwork-1/crm-work1.png" alt="cmtai" />
 							<div className="bg-linear-primary rounded-3 position-absolute top-0 start-0 w-75 h-100" />
 							<div className="position-absolute bottom-0 end-0 m-md-8 m-4">
 								<div className="d-flex align-items-center justify-content-center">

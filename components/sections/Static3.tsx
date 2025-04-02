@@ -16,35 +16,28 @@ export default function Static3() {
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto">
-										<span className="h1 count fw-black text-primary my-0"><span className="odometer"><CountUp end={469} enableScrollSpy={true} /></span><span>k</span></span>
-										<p>8+ Years of experience</p>
+										<span className="h1 count fw-black text-primary my-0"><span className="odometer"><CountUp end={8} enableScrollSpy={true} /></span><span>+</span></span>
+										<p>Years of experience</p>
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto">
-										<span className="h1 count fw-black text-primary my-0">+<span className="odometer"><CountUp end={1000} enableScrollSpy={true} /></span></span>
-										<p>Finished projects</p>
+										<span className="h1 count fw-black text-primary my-0"><span className="odometer"><CountUp end={1200} enableScrollSpy={true} separator="" />+</span></span>
+										<p>Projects Completed</p>
 									</div>
 								</div>
 							</div>
 							<div className="col-lg-auto col-md-6">
 								<div className="counter-item-cover counter-item">
 									<div className="content text-center mx-auto">
-										<span className="h1 count fw-black text-primary my-0">+<span className="odometer"><CountUp end={50} enableScrollSpy={true} /></span></span>
+										<span className="h1 count fw-black text-primary my-0"><span className="odometer"><CountUp end={125} enableScrollSpy={true} />+</span></span>
 										<p>Skilled experts</p>
 									</div>
 								</div>
 							</div>
-							<div className="col-lg-auto col-md-6">
-								<div className="counter-item-cover counter-item">
-									<div className="content text-center mx-auto">
-										<span className="h1 count fw-black text-primary my-0">+<span className="odometer"><CountUp end={8} enableScrollSpy={true} /></span><span>k</span></span>
-										<p>Media posts</p>
-									</div>
-								</div>
-							</div>
+							
 						</div>
 					</div>
 				</div>

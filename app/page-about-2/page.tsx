@@ -55,7 +55,7 @@ export default function PageAbout2() {
 							<div className="col-lg-7 mx-lg-auto">
 								<div className="text-center mb-lg-0 mb-5">
 									<div className="d-flex align-items-center position-relative z-2 justify-content-center bg-primary-soft d-inline-flex rounded-pill border border-2 border-white px-3 py-1">
-										<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+										<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 										<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">About our company</span>
 									</div>
 									<h5 className="ds-5 my-3 fw-regular">We Are India's most Affordable Technology Company....</h5>
@@ -67,14 +67,14 @@ export default function PageAbout2() {
 							<div className="col-lg-8">
 								<div className="position-relative mb-lg-0 mb-8 fix">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/cta-13/img-1.png" alt="infinia" />
+										<img src="/assets/imgs/cta-13/img-1.png" alt="cmtai" />
 									</div>
 									<div className="position-absolute alltuchtopdown bottom-0 start-0 m-md-5 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2">Loved by over 4k <br /> happy clients</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="infinia" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="infinia" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="infinia" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="cmtai" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="cmtai" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="cmtai" />
 										</div>
 										<div className="d-flex align-items-center justify-content-center">
 											<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -118,7 +118,7 @@ export default function PageAbout2() {
 									</div>
 									<div className="col-md-6 col-lg-12">
 										<div className="zoom-img rounded-4 fix d-inline-block mt-4 mt-lg-4 mt-md-0 h-100">
-											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="infinia" />
+											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="cmtai" />
 										</div>
 									</div>
 								</div>
@@ -126,7 +126,7 @@ export default function PageAbout2() {
 						</div>
 					</div>
 					<div className="position-absolute top-0 start-50 translate-middle-x z-0">
-						<img src="/assets/imgs/service-2/bg-line.png" alt="infinia" />
+						<img src="/assets/imgs/service-2/bg-line.png" alt="cmtai" />
 					</div>
 					<div className="rotate-center ellipse-rotate-success position-absolute z-0" />
 					<div className="rotate-center-rev ellipse-rotate-primary position-absolute z-1" />
@@ -139,7 +139,7 @@ export default function PageAbout2() {
 						<div className="row position-relative z-1">
 							<div className="text-center">
 								<div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
-									<img src="/assets/imgs/features-1/dots.png" alt="infinia" />
+									<img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
 									<span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
 								</div>
 								<h3 className="ds-3 my-3">Meet Our Team</h3>
@@ -168,7 +168,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/1.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/1.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -189,7 +189,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/2.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/2.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -210,7 +210,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/3.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/3.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -231,7 +231,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/4.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/4.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -252,7 +252,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/5.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/5.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -273,7 +273,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/6.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/6.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -294,7 +294,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/7.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/7.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -315,7 +315,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/8.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/8.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -336,7 +336,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/9.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/9.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -357,7 +357,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/10.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/10.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -378,7 +378,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/11.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/11.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -399,7 +399,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/12.png" alt="infinia" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/12.png" alt="cmtai" />
 									</div>
 								</div>
 							</div>
@@ -418,7 +418,7 @@ export default function PageAbout2() {
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-1.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-1.svg" alt="cmtai" />
 										</div>
 									</div><h6>
 									Innovation</h6>
@@ -446,7 +446,7 @@ Continuously pushing the boundaries of AI technology to deliver cutting-edge sol
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-2.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-2.svg" alt="cmtai" />
 										</div>
 									</div>
 									<h6>Collaboration</h6>
@@ -473,7 +473,7 @@ Continuously pushing the boundaries of AI technology to deliver cutting-edge sol
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-3.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-3.svg" alt="cmtai" />
 										</div>
 									</div>
 									<h6>Market Expansion</h6>
@@ -500,7 +500,7 @@ Continuously pushing the boundaries of AI technology to deliver cutting-edge sol
 								<div className="feature-item mb-5 position-relative mb-lg-0 bg-white p-5 rounded-4 hover-up">
 									<div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
 										<div className="icon">
-											<img src="/assets/imgs/features-1/icon-4.svg" alt="infinia" />
+											<img src="/assets/imgs/features-1/icon-4.svg" alt="cmtai" />
 										</div>
 									</div>
 									<h6>
