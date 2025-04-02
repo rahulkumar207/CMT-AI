@@ -54,7 +54,7 @@ export default function Hero1() {
 							</div>
 						</div>
 						<div className="col-lg-6 position-relative justify-content-center">
-							<img className="hero-img" src="/assets/imgs/hero-1/background.png" alt="cmtai" />
+							<img className="hero-img" src="/assets/imgs/hero-1/background.png" alt="Digital Marketing, Google Analytics, Google Ads, Google My Business, Affiliate Marketing, Search Engine Optimization, SEO, Analytics, Data Analytics, Branding, UX Design, Web Design, Facebook Ads, Social Media Management, Social Media Marketing, CRM Software, Value Proposition, User Testing, Online Marketing, Internet Marketing, Online Advertising, Internet Marketing Agency, Internet Marketing Service, Online Marketing Strategy, Website Advertising." />
 							<div className="shape-1 position-absolute">
 								<img className="rightToLeft" src="/assets/imgs/hero-1/shape-1.png" alt="CMT AI | CMT AI NOIDA | We Create Android App | IOS App | Website | Cloud Technology | Digital Marketing , SEO , SMO. Web application development, Mobile app development, Software engineering, Software solutions provider, Software development lifecycle, Software architecture, Software coding, Software testing, Software deployment, Software maintenance, Front-end development, Back-end development, Full-stack development, Cloud-based software development, Enterprise software development, Open-source software development, Rapid application development, Prototype development, Application programming interface (API) development, Software integration, Database development, UI/UX design and development, Software,completrix,completrix microtechnologies pvt ltd" data-aos="zoom-in" data-aos-delay={500} />
 							</div>

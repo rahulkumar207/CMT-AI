@@ -466,7 +466,7 @@ export default function PageServicesDetails2() {
 											</svg>
 										</Link>
 									</div>
-									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="cmtai" />
+									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="Digital Marketing, Google Analytics, Google Ads, Google My Business, Affiliate Marketing, Search Engine Optimization, SEO, Analytics, Data Analytics, Branding, UX Design, Web Design, Facebook Ads, Social Media Management, Social Media Marketing, CRM Software, Value Proposition, User Testing, Online Marketing, Internet Marketing, Online Advertising, Internet Marketing Agency, Internet Marketing Service, Online Marketing Strategy, Website Advertising." />
 								</div>
 								<div className="position-relative mb-lg-0 mb-8 d-inline-block fix mt-7">
 									<div className="zoom-img rounded-4 fix">
