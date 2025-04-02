@@ -24,17 +24,7 @@ export default function Cta2() {
 							<div className="bg-linear-1 text-center rounded-4 position-relative">
 								<img className="rounded-4 border border-2 border-white mb-10 mt-5" src="/assets/imgs/cta-2/img-2.png" alt="infinia" />
 								<div className="position-absolute bottom-0 left-0 mb-3 w-100">
-									<Link href="#" onClick={() => setOpen(true)} scroll={false} className="d-inline-flex align-items-center rounded-4 text-nowrap backdrop-filter px-3 py-2 popup-video hover-up me-3 shadow-1">
-										<span className="backdrop-filter me-2 icon-shape icon-md rounded-circle">
-											<svg xmlns="http://www.w3.org/2000/svg" width={16} height={16} viewBox="0 0 16 16" fill="none">
-												<path className="stroke-dark" d="M5.0978 3.31244L12.0958 6.80342C13.077 7.29449 13.0767 8.69249 12.0954 9.18316L5.09734 12.6927C4.21074 13.136 3.16687 12.4925 3.16687 11.5027L3.16687 4.50219C3.16687 3.51217 4.2112 2.86872 5.0978 3.31244Z" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-											</svg>
-										</span>
-										<span className="fw-bold fs-7 text-900">
-											Video Guide
-										</span>
-									</Link>
-									<ModalVideo channel='youtube' isOpen={isOpen} videoId="gXFATcwrO-U" onClose={() => setOpen(false)} />
+									
 								</div>
 								<div className="position-absolute top-0 end-0">
 									<img className="flickering" src="/assets/imgs/cta-2/star-2.png" alt="infinia" />

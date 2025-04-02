@@ -26,312 +26,132 @@ export default function PageServicesDetails2() {
 								<h4 className="my-3">Empowering Businesses with High-Performance Website Development</h4>
 								<p className="mb-0">At CMT AI, we specialize in custom website development, offering innovative, scalable, and SEO-friendly solutions tailored to your business needs. Whether you need a corporate website, eCommerce platform, or custom web application, our expert developers ensure a seamless digital experience.</p>
 
-								<div className="d-md-flex align-items-center mt-3">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Company Profile Websites
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Portfolio Websites
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Consulting Websites
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Law Firm Websites
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Agency Websites
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">E-Commerce Websites</span>
-										</li>
-									</ul>
-
-
-								</div>
-								<div className="d-md-flex align-items-center">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Multi-Vendor Marketplaces
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Dropshipping Websites
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-1 text-900 fw-medium fs-6">
-												Subscription Website
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Blogs Websites
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Knowledge Base Websites
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6"> LMS Websites
-											</span>
-										</li>
-									</ul>
-
-								</div>
-								<div className="d-md-flex align-items-center" style={{ alignSelf: 'center' }}>
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Charity Websites
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Social Networking website
-
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Discussion Websites
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Subscription Websites
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0" style={{ alignSelf: 'center' }}>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Video Streaming Websites
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Music Streaming Websites
-
-											</span>
-										</li>
-									</ul>
-
-
-								</div>
-
-
-
-
-
-
-								<div className="d-md-flex align-items-center">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Magazine Websites
-
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Gaming & Esports Website
-
-
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Travel Booking system
-
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Healthcare Website
-
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Salon & Spa Booking Platforms
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Event Ticket Booking Websites
-
-											</span>
-										</li>
-									</ul>
-
-								</div>
-								<div className="d-md-flex align-items-center">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Property Websites
-
-
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Real Estate Agency Website
-
-
-
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Marketplace Website
-
-
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Investment Platforms
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Online Banking Management Websites
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Cryptocurrency & Trading Platforms
-
-
-											</span>
-										</li>
-									</ul>
-
-								</div>
-								<div className="d-md-flex align-items-center">
-									<ul className="list-unstyled phase-items mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Official Government Portals
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">Public Service Websites
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Educational Website
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												AI-Powered Web App
-
-
-
-											</span>
-										</li>
-									</ul>
-									<ul className="list-unstyled phase-items ms-md-6 mb-0">
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">SaaS Platforms
-
-
-
-											</span>
-										</li>
-										<li className="d-flex align-items-center mt-3">
-											<img src="/assets/imgs/services-details/check.svg" alt="infinia" />
-											<span className="ms-2 text-900 fw-medium fs-6">
-												Crowdfunding Websites
-
-
-											</span>
-										</li>
-									</ul>
-
+								<div className="row mt-5">
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Company Profile Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Portfolio Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Consulting Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Law Firm Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Agency Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Single Vendor E-Commerce Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Multi-Vendor Marketplaces</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Dropshipping Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Subscription-Based E-Commerce</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Blogs & News Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Wiki & Knowledge Base Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Online Course & LMS Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Non-Profit & Charity Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Social Networking Platforms</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Forum & Discussion Websites</span>
+											</li>
+										</ul>
+									</div>
+
+									<div className="col-6">
+										<ul className="list-unstyled phase-items mb-0">
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Membership & Subscription Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Video Streaming Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Music Streaming Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Online Magazine Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Gaming & Esports Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Hotel & Travel Booking Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Doctor & Healthcare Appointment Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Salon & Spa Booking Platforms</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Event Ticket Booking Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Property Rental Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Real Estate Agency Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Property Marketplace Websites</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Fintech & Investment Platforms</span>
+											</li>
+											<li className="d-flex align-items-center mt-3">
+												<img src="/assets/imgs/services-details/check.svg" alt="check" />
+												<span className="ms-2 text-900 fw-medium fs-6">Online Banking & Loan Management Websites</span>
+											</li>
+										</ul>
+									</div>
 								</div>
 
 
@@ -352,14 +172,14 @@ export default function PageServicesDetails2() {
 										</div>
 										<div id="collapseOne" className={activeItem == 1 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
 											<p className="px-0 card-body fs-6 text-600 mb-0">We start by understanding your business, target audience, and project requirements. Our team conducts detailed discussions to gather insights and define key objectives.<br />
-											 This stage includes: 	</p>
-												<ul>
-													<li>Requirement gathering</li>
-													<li>Competitor analysis</li>
-													<li>Defining website goals</li>
-													<li>Technology stack selection</li>
-												</ul>
-										
+												This stage includes: 	</p>
+											<ul>
+												<li>Requirement gathering</li>
+												<li>Competitor analysis</li>
+												<li>Defining website goals</li>
+												<li>Technology stack selection</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
@@ -377,12 +197,12 @@ export default function PageServicesDetails2() {
 										<div id="collapseTwo" className={activeItem == 2 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
 											<p className="px-0 card-body fs-6 text-600 mb-0">Based on the insights from the discovery phase, we create a strategic plan outlining the website structure, functionalities, and user experience.<br />
 												This phase involves: </p>
-												<ul>
-													<li>Sitemap creation	</li>
-													<li>Wireframing & prototyping</li>
-													<li> Content strategy development</li>
-													<li>Setting project timelines</li>
-												</ul>
+											<ul>
+												<li>Sitemap creation	</li>
+												<li>Wireframing & prototyping</li>
+												<li> Content strategy development</li>
+												<li>Setting project timelines</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
@@ -399,13 +219,13 @@ export default function PageServicesDetails2() {
 										</div>
 										<div id="collapseThree" className={activeItem == 3 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
 											<p className="px-0 card-body fs-6 text-600 mb-0">Our design team crafts an intuitive and visually appealing interface, ensuring a seamless user experience across devices.<br />
-											 We focus on: 	</p>
-												<ul>
-													<li> User-friendly navigation</li>
-													<li>Mobile-first responsive design</li>
-													<li>Brand-aligned aesthetics</li>
-													<li>Interactive elements for engagement	</li>
-												</ul>									
+												We focus on: 	</p>
+											<ul>
+												<li> User-friendly navigation</li>
+												<li>Mobile-first responsive design</li>
+												<li>Brand-aligned aesthetics</li>
+												<li>Interactive elements for engagement	</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
@@ -422,13 +242,13 @@ export default function PageServicesDetails2() {
 										</div>
 										<div id="collapsefour" className={activeItem == 4 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
 											<p className="px-0 card-body fs-6 text-600 mb-0">Once the design is finalized, our developers bring it to life using the latest technologies. We follow best coding practices for performance and scalability. <br />
-											 This stage includes: </p>
-												<ul>
-													<li> Front-end development (HTML, CSS, JavaScript, React, or Vue.js)</li>
-													<li> Back-end development (Node.js, PHP, Python, etc.)</li>
-													<li>Database integration</li>
-													<li> API development</li>
-												</ul>	
+												This stage includes: </p>
+											<ul>
+												<li> Front-end development (HTML, CSS, JavaScript, React, or Vue.js)</li>
+												<li> Back-end development (Node.js, PHP, Python, etc.)</li>
+												<li>Database integration</li>
+												<li> API development</li>
+											</ul>
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
@@ -445,14 +265,14 @@ export default function PageServicesDetails2() {
 										</div>
 										<div id="collapsefive" className={activeItem == 5 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
 											<p className="px-0 card-body fs-6 text-600 mb-0">We conduct rigorous testing to ensure the website is error-free, responsive, and optimized for performance.<br />
-											 Our testing process includes: 	</p>
-												<ul>
-													<li> Functional testing	</li>
-													<li> Performance testing</li>
-													<li>Security testing</li>
-													<li>Cross-browser & device compatibility testing</li>
-												</ul>
-										
+												Our testing process includes: 	</p>
+											<ul>
+												<li> Functional testing	</li>
+												<li> Performance testing</li>
+												<li>Security testing</li>
+												<li>Cross-browser & device compatibility testing</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
@@ -470,13 +290,13 @@ export default function PageServicesDetails2() {
 										<div id="collapsefive" className={activeItem == 6 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
 											<p className="px-0 card-body fs-6 text-600 mb-0">After successful testing, we deploy the website on a live server. Our team ensures a smooth transition from development to production,<br />
 												including:</p>
-												<ul>
-													<li> Hosting setup	</li>
-													<li>  Domain configuration</li>
-													<li>SSL certificate installation</li>
-													<li>Final optimization for speed & SEO</li>
-												</ul>
-											
+											<ul>
+												<li> Hosting setup	</li>
+												<li>  Domain configuration</li>
+												<li>SSL certificate installation</li>
+												<li>Final optimization for speed & SEO</li>
+											</ul>
+
 										</div>
 									</div>
 									<div className="px-0 card p-3 border-0 border-bottom bg-transparent rounded-0">
@@ -494,16 +314,16 @@ export default function PageServicesDetails2() {
 										<div id="collapsefive" className={activeItem == 7 ? "accordion-collapse collapse show" : "accordion-collapse collapse"} data-bs-parent=".accordion">
 											<p className="px-0 card-body fs-6 text-600 mb-0">Our commitment doesn’t end at deployment. We provide ongoing support to ensure your website remains updated and secure.<br />
 												Our services include:</p>
-												<ul>
-													<li> Bug fixes & updates	</li>
-													<li> Performance monitoring</li>
-													<li>Security patches</li>
-													<li>Content updates</li>
-												</ul>
-											
+											<ul>
+												<li> Bug fixes & updates	</li>
+												<li> Performance monitoring</li>
+												<li>Security patches</li>
+												<li>Content updates</li>
+											</ul>
+
 										</div>
 									</div>
-									
+
 
 								</div>
 							</div>
