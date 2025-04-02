@@ -22,7 +22,7 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/web-development.png" alt="cmtai" />
+								<img className="rounded-3" src="/assets/imgs/services-details-2/web-development.png" alt="Web Development, Web Design Services, Best Web Developers, Web Development Company, Custom Web Development, Best Web Development Company for Small Businesses, Best Custom Web Design and Development Services, Best Web Development Services for E-commerce, Best Web Developers for Responsive Websites, Best Web Development Company for Enterprise Solutions, Best Web Development Company, Best Web Design Services, Best Custom Web Development, Best E-commerce Website Developers, Best Responsive Web Design, Best Web Development Company for Startups, Best Custom Web Design and Development Services in 2025, Best WordPress Website Developers for Businesses, Best E-commerce Web Developers for Online Stores, Best Responsive Website Development Company" />
 								<h4 className="my-3">Empowering Businesses with High-Performance Website Development</h4>
 								<p className="mb-0">At CMT AI, we specialize in custom website development, offering innovative, scalable, and SEO-friendly solutions tailored to your business needs. Whether you need a corporate website, eCommerce platform, or custom web application, our expert developers ensure a seamless digital experience.</p>
 
@@ -331,19 +331,19 @@ export default function PageServicesDetails2() {
 								<div className="bg-neutral-100 px-5 pb-5 mt-7 rounded-4 border">
 									<h6 className="mb-4 mt-3">Service Brochure</h6>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-1.svg" alt="cmtai" />
+										<img src="/assets/imgs/services-details/icon-1.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										<p className="text-900 fs-7 mb-0 ms-3">PDF. Download (25 Mb)</p>
 									</Link>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-2.svg" alt="cmtai" />
+										<img src="/assets/imgs/services-details/icon-2.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										<p className="text-900 fs-7 mb-0 ms-3">DOC. Download (28 Mb)</p>
 									</Link>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-3.svg" alt="cmtai" />
+										<img src="/assets/imgs/services-details/icon-3.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										<p className="text-900 fs-7 mb-0 ms-3">Open on Google Driver</p>
 									</Link>
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center">
-										<img src="/assets/imgs/services-details/icon-4.svg" alt="cmtai" />
+										<img src="/assets/imgs/services-details/icon-4.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										<p className="text-900 fs-7 mb-0 ms-3">Open on Google Driver</p>
 									</Link>
 								</div>
@@ -355,7 +355,7 @@ export default function PageServicesDetails2() {
 											in Financial Services
 										</h4>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
-											<img src="/assets/imgs/services-details/icon-contact.svg" alt="cmtai" />
+											<img src="/assets/imgs/services-details/icon-contact.svg" alt="Get High DA (Domain Authority) Backlinks, Collect Google My Business Reviews & Ratings, List Business on Local Directories (Justdial, Sulekha, Clutch, GoodFirms), Write Guest Posts & Answer Questions on LinkedIn, Quora, Medium, Reddit, Publish Press Releases on PR Websites" />
 											<div className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
 												<h5 className="text-white d-block">+01 (24) 568 900</h5>
@@ -368,11 +368,11 @@ export default function PageServicesDetails2() {
 											</svg>
 										</Link>
 									</div>
-									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="cmtai" />
+									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="Get High DA (Domain Authority) Backlinks, Collect Google My Business Reviews & Ratings, List Business on Local Directories (Justdial, Sulekha, Clutch, GoodFirms), Write Guest Posts & Answer Questions on LinkedIn, Quora, Medium, Reddit, Publish Press Releases on PR Websites" />
 								</div>
 								<div className="position-relative mb-lg-0 mb-8 d-inline-block fix mt-7">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/services-details-2/img-2.png" alt="cmtai" />
+										<img src="/assets/imgs/services-details-2/img-2.png" alt="Best digital marketing company in Noida for startups, Affordable website development services in Noida, Top social media marketing agency for small businesses in Noida, Custom mobile app development in Noida, Google Ads and Facebook Ads management in Noida, SEO and content marketing services in Noida, Professional PR services for startups in Noida, WordPress website design services in Noida, Top-rated branding agency in Noida, Best PPC management services in Noida" />
 									</div>
 									<div className="position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2 text-900 text-nowrap">
@@ -380,9 +380,9 @@ export default function PageServicesDetails2() {
 											happy clients
 										</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="cmtai" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="cmtai" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="cmtai" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										</div>
 									</div>
 								</div>
@@ -478,31 +478,31 @@ export default function PageServicesDetails2() {
 											<h6>Chat with us</h6>
 											<p className="text-500">The support team is always available 24/7</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-1.svg" alt="cmtai" />
+												<img src="/assets/imgs/contact-2/icon-1.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 											</div>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-2.svg" alt="cmtai" />
+												<img src="/assets/imgs/contact-2/icon-2.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-3.svg" alt="cmtai" />
+												<img src="/assets/imgs/contact-2/icon-3.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
 											</div>
 											<h6>Send us an email</h6>
 											<p className="text-500">Our team will respond promptly to your inquiries</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@cmtai.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@#Website Development #App Development #Digital Marketing #SEO Services.com</Link>
 											</div>
 											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@cmtai.com</Link>
+												<img src="/assets/imgs/contact-2/icon-4.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@#Website Development #App Development #Digital Marketing #SEO Services.com</Link>
 											</div>
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
 											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-5.svg" alt="cmtai" />
+												<img src="/assets/imgs/contact-2/icon-5.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+01 (24) 568 900</Link>
 											</div>
 										</div>
