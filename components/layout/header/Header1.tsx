@@ -22,7 +22,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 						<Link className="navbar-brand d-flex main-logo align-items-center" href="/" style={{ maxWidth: '150px'}}>
 								<img
 									src={"/assets/imgs/logo/logo-white.svg"} 
-									alt="cmtai" 
+									alt="CMT AI | CMT AI NOIDA | We Create Android App | IOS App | Website | Cloud Technology | Digital Marketing , SEO , SMO. Web application development, Mobile app development, Software engineering, Software solutions provider, Software development lifecycle, Software architecture, Software coding, Software testing, Software deployment, Software maintenance, Front-end development, Back-end development, Full-stack development, Cloud-based software development, Enterprise software development, Open-source software development, Rapid application development, Prototype development, Application programming interface (API) development, Software integration, Database development, UI/UX design and development, Software,completrix,completrix microtechnologies pvt ltd, Digital Marketing, Google Analytics, Google Ads, Google My Business, Affiliate Marketing, Search Engine Optimization, SEO, Analytics, Data Analytics, Branding, UX Design, Web Design, Facebook Ads, Social Media Management, Social Media Marketing, CRM Software, Value Proposition, User Testing, Online Marketing, Internet Marketing, Online Advertising, Internet Marketing Agency, Internet Marketing Service, Online Marketing Strategy, Website Advertising" 
 								/>
 						</Link>
 						<Menu/>
@@ -32,7 +32,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 									<path className="stroke-dark" d="M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z" stroke="black" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 								</svg>
 							</div>
-							<Link href="#" className="btn btn-gradient d-none d-md-block">
+							<Link href="/page-contact-3" className="btn btn-gradient d-none d-md-block">
 								Join For Free Trial
 							</Link>
 							<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>

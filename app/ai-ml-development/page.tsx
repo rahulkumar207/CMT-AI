@@ -22,7 +22,7 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/aiml.png" alt="cmtai" />
+								<img className="rounded-3" src="/assets/imgs/services-details-2/aiml.png" alt="AI Development, ML Solutions, Best AI Developers, AI-Powered Software, Machine Learning Services, Best AI Development Company for Enterprise Solutions, Best Machine Learning Services for Predictive Analytics, Best AI-Powered Software Development Company, Best AI Developers for Natural Language Processing, Best AI Solutions for Business Automation, Best AI Development Services, Best Machine Learning Solutions, Best AI-Powered Software Developers, Best AI Integration Services, Best AI/ML Development Company for Predictive Analytics, Best Artificial Intelligence Solutions for Business Automation, Best Machine Learning Developers for Natural Language Processing (NLP), Best AI-Powered Tools for E-commerce Optimization." />
 								<h4 className="my-3">AI & ML Services by CMT AI								</h4>
 								<p className="mb-0">At CMT AI, we harness the power of Artificial Intelligence (AI) and Machine Learning (ML) to drive business transformation. Our AI/ML solutions help organizations automate processes, gain valuable insights, and create intelligent systems that enhance decision-making and efficiency.</p>
 								<div className="row mt-5">
@@ -470,7 +470,7 @@ export default function PageServicesDetails2() {
 								</div>
 								<div className="position-relative mb-lg-0 mb-8 d-inline-block fix mt-7">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/services-details-2/img-2.png" alt="cmtai" />
+										<img src="/assets/imgs/services-details-2/img-2.png" alt="Affordable Digital Marketing Services in Noida, Website Development Agency in Noida, App Development Services in Noida, Content Marketing Services in Noida, Google Ads Agency in Noida, Best SEO Agency in Noida, Reputation Management Services in Noida, PR and Branding Agency in Noida, Creative Digital Marketing Services in Noida, Social Media Optimization in Noida." />
 									</div>
 									<div className="position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2 text-900 text-nowrap">

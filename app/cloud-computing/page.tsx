@@ -22,7 +22,7 @@ export default function PageServicesDetails2() {
 					<div className="container">
 						<div className="row pt-8">
 							<div className="col-lg-8 ps-lg-4 mt-lg-0 mt-8 content">
-								<img className="rounded-3" src="/assets/imgs/services-details-2/cloud-computing.png" alt="cmtai" />
+								<img className="rounded-3" src="/assets/imgs/services-details-2/cloud-computing.png" alt="Cloud Computing, Best Cloud Services, Cloud Solutions, Cloud-Based Software, Cloud Infrastructure, Best Cloud Computing Services for Small Businesses, Best Cloud-Based Software Development Solutions, Best Cloud Infrastructure for Enterprise Applications, Best Cloud Services for Data Storage and Security, Best Cloud Solutions for Scalability and Flexibility, Best Cloud Computing Services, Best Cloud Migration Solutions, Top Cloud Hosting Providers, Best Cloud Computing Services for Data Security and Scalability, Top Hybrid Cloud Migration Companies in 2025, Affordable and Best Cloud Hosting Providers for Startups, Best Cloud Infrastructure Management Services" />
 								<h4 className="my-3">Cloud Computing Services by CMT AI</h4>
 								<p className="mb-0">At CMT AI, we provide cutting-edge cloud computing solutions that ensure scalability, security, and efficiency for businesses of all sizes. Our cloud services help enterprises optimize their operations while reducing infrastructure costs and enhancing performance.</p>
 								<div className="row mt-5">
@@ -495,11 +495,11 @@ export default function PageServicesDetails2() {
 											</svg>
 										</Link>
 									</div>
-									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="cmtai" />
+									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="Cloud Computing, Best Cloud Services, Cloud Solutions, Cloud-Based Software, Cloud Infrastructure, Best Cloud Computing Services for Small Businesses, Best Cloud-Based Software Development Solutions, Best Cloud Infrastructure for Enterprise Applications, Best Cloud Services for Data Storage and Security, Best Cloud Solutions for Scalability and Flexibility, Best Cloud Computing Services, Best Cloud Migration Solutions, Top Cloud Hosting Providers, Best Cloud Computing Services for Data Security and Scalability, Top Hybrid Cloud Migration Companies in 2025, Affordable and Best Cloud Hosting Providers for Startups, Best Cloud Infrastructure Management Service" />
 								</div>
 								<div className="position-relative mb-lg-0 mb-8 d-inline-block fix mt-7">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/services-details-2/img-2.png" alt="cmtai" />
+										<img src="/assets/imgs/services-details-2/img-2.png" alt="Affordable Digital Marketing Services in Noida, Website Development Agency in Noida, App Development Services in Noida, Content Marketing Services in Noida, Google Ads Agency in Noida, Best SEO Agency in Noida, Reputation Management Services in Noida, PR and Branding Agency in Noida, Creative Digital Marketing Services in Noida, Social Media Optimization in Noida" />
 									</div>
 									<div className="position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2 text-900 text-nowrap">
