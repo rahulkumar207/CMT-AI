@@ -95,7 +95,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-6.png"
-                      alt="cmt ai crm, cmt ai noida, crm software development, ai crm solutions, ai-powered crm, customer relationship management, crm automation, ai software development, mobile app development noida, android app development, ios app development, custom crm solutions, cloud-based crm solutions, cloud technology solutions, digital marketing services, seo services for crm, smo services for crm, crm integration, web application development, ai web development, crm software integration, enterprise crm solutions, ai-driven customer support, crm platform development, ai software architecture, software development lifecycle, software engineering services, ui/ux design for crm, backend development for crm, frontend development for crm, full-stack development for crm, open-source crm development, rapid application development, prototype development for crm, api development for crm, software testing for crm, crm software maintenance, enterprise ai solutions, ai cloud solutions, data-driven crm, business intelligence for crm, crm data analytics, ai chatbot development for crm, crm data management, software deployment for crm, crm mobile solutions, ai customer insights, crm system development, custom software solutions, cloud crm solutions"
+                      alt="Best CRM for Small Business, Cloud-Based CRM Solutions, AI-Powered CRM Software, CRM for Customer Service, Best CRM for Sales Teams, CRM with Marketing Automation, CRM for E-commerce Businesses, CRM with AI-Driven Insights, Best CRM for Enterprise, CRM for Lead Management, CRM with Integration Capabilities, Best CRM for Personalized Customer Experiences, Best CRM for Small Businesses in 2025, Best Cloud-Based CRM Software, Best AI-Powered CRM Solutions, Best CRM for Sales and Marketing Integration, Best CRM for E-commerce Businesses, Best CRM for Customer Support Teams, Best Affordable CRM Software for Startups, Best CRM with Predictive Analytics Features, Best Mobile-Friendly CRM Platforms, Best Enterprise-Level CRM Software, Best CRM with Marketing Automation Tools, Best CRM with AI Chatbot Integration, Best CRM for Lead Management and Tracking, Best CRM for Personalized Customer Experiences, Best CRM with Omnichannel Communication Features, Best Low-Code CRM Platforms for Developers, Best CRM for Real-Time Data Analytics and Reporting, CRM with Chatbot Integration, CRM for IoT-Enabled Businesses, CRM with Predictive Analytics, CRM for Mobile Devices, CRM with Low-Code Development, CRM for Customer Journey Mapping cmt ai crm, cmt ai noida, crm software development, ai crm solutions, ai-powered crm, customer relationship management, crm automation, ai software development, mobile app development noida, android app development, ios app development, custom crm solutions, cloud-based crm solutions, cloud technology solutions, digital marketing services, seo services for crm, smo services for crm, crm integration, web application development, ai web development, crm software integration, enterprise crm solutions, ai-driven customer support, crm platform development, ai software architecture, software development lifecycle, software engineering services, ui/ux design for crm, backend development for crm, frontend development for crm, full-stack development for crm, open-source crm development, rapid application development, prototype development for crm, api development for crm, software testing for crm, crm software maintenance, enterprise ai solutions, ai cloud solutions, data-driven crm, business intelligence for crm, crm data analytics, ai chatbot development for crm, crm data management, software deployment for crm, crm mobile solutions, ai customer insights, crm system development, custom software solutions, cloud crm solutions"
                     />
                   </div>
                 </div>
@@ -121,7 +121,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-7.png"
-                      alt="my ai bot, cmt ai bot, ai chatbot development, ai-powered bot solutions, conversational ai bot, chatbot software development, ai-driven chatbot, chatbot integration, custom ai bot development, enterprise ai bot, ai bot for customer service, chatbots for websites, chatbot development services, ai-based customer support bot, ai conversational agents, chatbot solutions for businesses, cmt ai chatbot, ai bot for crm, ai virtual assistant, natural language processing bot, machine learning chatbots, automated customer service bot, custom chatbot for business, cloud-based ai bots, chatbot ui/ux design, ai chatbot platform, bot for lead generation, customer engagement chatbot, automated chatbot solutions, intelligent ai bot, cmt ai software, chatbot deployment, ai bot testing, chatbot integration services, enterprise chatbot solutions, ai bot for mobile apps, personalized ai bot, chatbot development for enterprises, cmt ai bot for websites, business chatbot solutions, ai-driven virtual assistant, ai automation bot, ai chatbots for marketing, chatbots for ecommerce"
+                      alt="AI-Powered Chatbot Development, Conversational AI for Customer Service, Chatbot Integration Services, AI Chatbot for Ecommerce, Advanced NLP Chatbots, Generative AI in Chatbots, AI Chatbot for Software Development, Hyper-Personalized Chatbot Solutions, AI Voice Assistants, AI Chatbot Trends 2025, Conversational AI, Chatbot Development, AI Chatbot Solutions,best ai bot, best cmt ai bot, best ai chatbot development, best ai-powered bot solutions, best conversational ai bot, best chatbot software development, best ai-driven chatbot, best chatbot integration, best custom ai bot development, best enterprise ai bot, best ai bot for customer service, best chatbots for websites, best chatbot development services, best ai-based customer support bot, best ai conversational agents, best chatbot solutions for businesses, best cmt ai chatbot, best ai bot for crm, best ai virtual assistant, best natural language processing bot, best machine learning chatbots, best automated customer service bot, best custom chatbot for business, best cloud-based ai bots, best chatbot ui/ux design, best ai chatbot platform, best bot for lead generation, best customer engagement chatbot, best automated chatbot solutions, best intelligent ai bot, best cmt ai software, best chatbot deployment, best ai bot testing, best chatbot integration services, best enterprise chatbot solutions, best ai bot for mobile apps, best personalized ai bot, best chatbot development for enterprises, best cmt ai bot for websites, best business chatbot solutions, best ai-driven virtual assistant, best ai automation bot, best ai chatbots for marketing, best chatbots for ecommerce"
                     />
                   </div>
                 </div>
@@ -146,7 +146,7 @@ export default function Services5() {
                     <img
                       className="rounded-2 w-100 h-100 object-fit-cover"
                       src="assets/imgs/project-1/img-8.png"
-                      alt="cmt ai lms, ai-powered lms, learning management system, ai-based lms solutions, cloud-based lms, custom lms development, ai-driven e-learning, cmt ai learning management system, enterprise lms solutions, lms software development, lms integration, ai-driven learning platforms, adaptive learning management system, personalized learning with ai, ai for education, lms platform development, e-learning solutions, ai-enhanced lms, learning management system integration, cloud-based learning management system, ai for corporate training, lms software for businesses, ai lms for education, digital learning platforms, lms for employee training, gamified lms solutions, mobile-friendly lms, ai in online learning, lms for remote learning, scalable learning management system, ai-driven course management, lms deployment, ai-powered education tools, content management for lms, cmt ai e-learning, lms development services, adaptive learning tools, lms data analytics, smart learning solutions, online course development with ai, ai-enabled education systems, lms testing and maintenance, virtual learning environments, ai-powered skill development"
+                      alt="Best LMS Software, Best Learning Management System, Top LMS Platforms, Best Online Learning Software, Corporate LMS Solutions, Best LMS for Corporate Training Programs, Best LMS for Employee Onboarding and Development, Best LMS for Small Businesses in 2025, Best Cloud-Based Learning Management Systems, Best LMS with Gamification Features, Best Mobile-Friendly LMS Platforms, Best LMS for Higher Education Institutions, Affordable and Best LMS Solutions for Startups, Best AI Chatbot Integrated with LMS Platforms, Best AI-Powered LMS with Personalized Learning Features, Top LMS with Built-in AI Chatbot Support, Best AI Chatbot for Enhancing Online Training via LMS, Best AI Tools for Learning Management Systems, LMS Software, Learning Management System, Best LMS for Corporate Training, LMS for Online Courses, Cloud-Based Learning Management System, LMS for Higher Education, LMS for Small Business, AI-Powered LMS Solutions, Mobile LMS Platforms, LMS for Employee Training, Online Learning Platforms, E-Learning Solutions, Corporate LMS cmt ai lms, ai-powered lms, learning management system, ai-based lms solutions, cloud-based lms, custom lms development, ai-driven e-learning, cmt ai learning management system, enterprise lms solutions, lms software development, lms integration, ai-driven learning platforms, adaptive learning management system, personalized learning with ai, ai for education, lms platform development, e-learning solutions, ai-enhanced lms, learning management system integration, cloud-based learning management system, ai for corporate training, lms software for businesses, ai lms for education, digital learning platforms, lms for employee training, gamified lms solutions, mobile-friendly lms, ai in online learning, lms for remote learning, scalable learning management system, ai-driven course management, lms deployment, ai-powered education tools, content management for lms, cmt ai e-learning, lms development services, adaptive learning tools, lms data analytics, smart learning solutions, online course development with ai, ai-enabled education systems, lms testing and maintenance, virtual learning environments, ai-powered skill development"
                     />
                   </div>
                 </div>
@@ -163,82 +163,7 @@ export default function Services5() {
               </div>
             </div> 
 
-            {/* ===================== ERP =========================== */}
-            {/* <div className="filter-item w-100 mb-4 erp">
-              <div className="row g-0">
-                <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
-                    <img
-                      className="rounded-2 w-100 h-100 object-fit-cover"
-                      src="assets/imgs/project-1/img-6.png"
-                      alt="cmtai"
-                    />
-                  </div>
-                </div>
-                <div className="col-md-4">
-                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
-                    <h5 className="text-700">Responsive Web Design Portfolio</h5>
-                    <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
-                    <div className="d-flex gap-2 btn-container">
-                      <a href="cmtai-erp" className="btn btn-primary">Explore More</a>
-                      <a href="cmtai-erp" className="btn btn-secondary">Launch Demo</a>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> */}
-
            
-
-            {/* =====================App=========================== */}
-            {/* <div className="filter-item w-100 mb-4 app">
-              <div className="row g-0">
-                <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
-                    <img
-                      className="rounded-2 w-100 h-100 object-fit-cover"
-                      src="assets/imgs/project-1/img-6.png"
-                      alt="cmtai"
-                    />
-                  </div>
-                </div>
-                <div className="col-md-4">
-                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
-                    <h5 className="text-700">Responsive Web Design Portfolio</h5>
-                    <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
-                    <div className="d-flex gap-2">
-                      <button className="btn btn-primary">Explore More</button>
-                      <button className="btn btn-secondary">Launch Demo</button>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> */}
-
-            {/* =====================Data Analysis=========================== */}
-            {/* <div className="filter-item w-100 mb-4 dataanalysis">
-              <div className="row g-0">
-                <div className="col-md-8">
-                  <div className="project-item zoom-img rounded-4 fix position-relative h-100">
-                    <img
-                      className="rounded-2 w-100 h-100 object-fit-cover"
-                      src="assets/imgs/project-1/img-6.png"
-                      alt="cmtai"
-                    />
-                  </div>
-                </div>
-                <div className="col-md-4">
-                  <div className="project-item rounded-2 fix position-relative p-4 h-100 bg-light">
-                    <h5 className="text-700">Responsive Web Design Portfolio</h5>
-                    <p className="fs-7 mb-3">Modern UI/UX for Digital Presence</p>
-                    <div className="d-flex gap-2">
-                      <button className="btn btn-primary">Explore More</button>
-                      <button className="btn btn-secondary">Launch Demo</button>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div> */}
           </div>
         </div>
 

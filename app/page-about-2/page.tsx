@@ -67,14 +67,14 @@ export default function PageAbout2() {
 							<div className="col-lg-8">
 								<div className="position-relative mb-lg-0 mb-8 fix">
 									<div className="zoom-img rounded-4 fix">
-										<img src="/assets/imgs/cta-13/img-1.png" alt="cmtai" />
+										<img src="/assets/imgs/cta-13/img-1.png" alt="software development, Software Development Company, custom software development, Software Development Services, software outsourcing, Best Custom Software Development Company, top software development services for startups, Cloud-Based Software Development Solutions, AI-Powered Software Development Services, best software development company for e-commerce, Software Development for Healthcare Industry, software development outsourcing services, Best Software Development Company for Enterprise Solutions, mobile app development services, Web Application Development Company, best AI software development company, Top Blockchain Development Services, best fintech software development solutions, Cloud Migration Services for Software Development, best cybersecurity solutions for software development, Software Development with Agile Methodologies, Best DevOps Services for Software Development" />
 									</div>
 									<div className="position-absolute alltuchtopdown bottom-0 start-0 m-md-5 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2">Loved by over 4k <br /> happy clients</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
-											<img src="/assets/imgs/features-3/avatar-1.png" alt="cmtai" />
-											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="cmtai" />
-											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="cmtai" />
+											<img src="/assets/imgs/features-3/avatar-1.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
+											<img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
+											<img className="avt-hero z-0" src=" assets/imgs/features-3/avatar-3.png" alt="Best Software Development Company, Best Custom Software Development, Best IT Services, Best Software Solutions, Best App Development Services, Best Software Development Company for Startups, Best Custom Software Development Services in 2025, Best Agile Software Development Company, Best Cloud-Based Software Development Solutions, Best AI-Powered Software Development Company, Best Mobile App Development Services for Businesses, Best Web Application Development Company, Best Offshore Software Development Services, Best SaaS Development Company for Enterprises, Best Game Development Software Solutions, Best IT Consulting Firm for Digital Transformation, Best IT Service Management Solutions in 2025, Best IT Consulting Services, Best IT Solutions Provider, Best IT Support Services, Best IT Outsourcing Company for Small Businesses, Best IT Helpdesk Services for Enterprises" />
 										</div>
 										<div className="d-flex align-items-center justify-content-center">
 											<svg xmlns="http://www.w3.org/2000/svg" width={26} height={26} viewBox="0 0 26 26" fill="none">
@@ -118,7 +118,7 @@ export default function PageAbout2() {
 									</div>
 									<div className="col-md-6 col-lg-12">
 										<div className="zoom-img rounded-4 fix d-inline-block mt-4 mt-lg-4 mt-md-0 h-100">
-											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="cmtai" />
+											<img className="h-100" src="/assets/imgs/cta-13/img-2.png" alt="Best Software Development Company, Best Custom Software Development, Best IT Services, Best Software Solutions, Best App Development Services, Best Software Development Company for Startups, Best Custom Software Development Services in 2025, Best Agile Software Development Company, Best Cloud-Based Software Development Solutions, Best AI-Powered Software Development Company, Best Mobile App Development Services for Businesses, Best Web Application Development Company, Best Offshore Software Development Services, Best SaaS Development Company for Enterprises, Best Game Development Software Solutions, Best IT Consulting Firm for Digital Transformation, Best IT Service Management Solutions in 2025, Best IT Consulting Services, Best IT Solutions Provider, Best IT Support Services, Best IT Outsourcing Company for Small Businesses, Best IT Helpdesk Services for Enterprises" />
 										</div>
 									</div>
 								</div>
@@ -168,7 +168,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/1.png" alt="cmtai" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/1.png" alt="Best Software Developers, Best Programmers, Best Coders, Best Software Engineers, Best IT Professionals, Best Software Development Team in 2025, Best Programmers for Custom Software Development, Best Full-Stack Developers for Enterprise Solutions, Best Mobile App Developers for Businesses, Best Front-End Developers for Web Applications, Best Back-End Developers for Cloud-Based Systems, Best QA Engineers for Software Testing and Quality Assurance, Best DevOps Engineers for Efficient Deployment Processes, Best AI Engineers, Best Data Scientists, Best Embedded Developers, Best Cloud Developers, Best Security Developers, Best AI Engineers for Machine Learning Projects, Best Data Scientists for Predictive Analytics Solutions, Best Embedded Developers for IoT Applications, Best Cloud Developers for AWS and Azure Solutions, Best Security Developers for Cybersecurity Systems, Best Software Architects, Best Project Managers, Best CTOs (Chief Technology Officers), Best Senior Developers, Best Software Architects for Scalable Solutions, Best Project Managers for Agile Development Teams, Best Senior Developers with Expertise in JavaScript and Python, Best CTOs for Tech Strategy and Innovation" />
 									</div>
 								</div>
 							</div>
@@ -336,7 +336,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/9.png" alt="cmtai" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/9.png" alt="Best Software Development Team, Best IT Team, Best Development Team Structure, Best Agile Teams, Best Scrum Teams, Best Software Development Team for Custom Projects, Best Agile Software Development Team Structure, Best Scrum Teams for Efficient Product Delivery, Best IT Team for Enterprise Solutions, Best Development Team for Mobile App Projects, Best Software Developers, Best QA Engineers, Best UI/UX Designers, Best DevOps Engineers, Best Product Owners, Best Software Developers for Scalable Applications, Best QA Engineers for Bug-Free Software Delivery, Best UI/UX Designers for User-Friendly Interfaces, Best DevOps Engineers for Continuous Integration and Deployment, Best Product Owners for Agile Development Projects, Best Team Leads, Best Project Managers, Best Software Architects, Best Team Leads for Agile Software Development Teams, Best Project Managers for On-Time Delivery, Best Software Architects for Scalable System Design, Best AI Developers, Best Blockchain Experts, Best Cybersecurity Professionals, Best AI Developers for Machine Learning Projects, Best Blockchain Experts for Fintech Solutions, Best Cybersecurity Professionals for Secure Software Development Best Software Developers, Best Programmers, Best Coders, Best Software Engineers, Best IT Professionals, Best Software Development Team in 2025, Best Programmers for Custom Software Development, Best Full-Stack Developers for Enterprise Solutions, Best Mobile App Developers for Businesses, Best Front-End Developers for Web Applications, Best Back-End Developers for Cloud-Based Systems, Best QA Engineers for Software Testing and Quality Assurance, Best DevOps Engineers for Efficient Deployment Processes, Best AI Engineers, Best Data Scientists, Best Embedded Developers, Best Cloud Developers, Best Security Developers, Best AI Engineers for Machine Learning Projects, Best Data Scientists for Predictive Analytics Solutions, Best Embedded Developers for IoT Applications, Best Cloud Developers for AWS and Azure Solutions, Best Security Developers for Cybersecurity Systems, Best Software Architects, Best Project Managers, Best CTOs (Chief Technology Officers), Best Senior Developers, Best Software Architects for Scalable Solutions, Best Project Managers for Agile Development Teams, Best Senior Developers with Expertise in JavaScript and Python, Best CTOs for Tech Strategy and Innovation" />
 									</div>
 								</div>
 							</div>
@@ -357,7 +357,7 @@ export default function PageAbout2() {
 										</div>
 									</div>
 									<div className="zoom-img bg-primary-soft">
-										<img className="img-fluid w-100" src="/assets/imgs/team-6/10.png" alt="cmtai" />
+										<img className="img-fluid w-100" src="/assets/imgs/team-6/10.png" alt="Best Software Developers, Best Programmers, Best Coders, Best Software Engineers, Best IT Professionals, Best Software Development Team in 2025, Best Programmers for Custom Software Development, Best Full-Stack Developers for Enterprise Solutions, Best Mobile App Developers for Businesses, Best Front-End Developers for Web Applications, Best Back-End Developers for Cloud-Based Systems, Best QA Engineers for Software Testing and Quality Assurance, Best DevOps Engineers for Efficient Deployment Processes, Best AI Engineers, Best Data Scientists, Best Embedded Developers, Best Cloud Developers, Best Security Developers, Best AI Engineers for Machine Learning Projects, Best Data Scientists for Predictive Analytics Solutions, Best Embedded Developers for IoT Applications, Best Cloud Developers for AWS and Azure Solutions, Best Security Developers for Cybersecurity Systems, Best Software Architects, Best Project Managers, Best CTOs (Chief Technology Officers), Best Senior Developers, Best Software Architects for Scalable Solutions, Best Project Managers for Agile Development Teams, Best Senior Developers with Expertise in JavaScript and Python, Best CTOs for Tech Strategy and Innovation" />
 									</div>
 								</div>
 							</div>
