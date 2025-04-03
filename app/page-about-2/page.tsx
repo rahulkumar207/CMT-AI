@@ -5,6 +5,10 @@ import Trusted1 from "@/components/sections/LogoCloud3"
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 import CountUp from 'react-countup'
+import { Metadata } from "next"
+export const metadata: Metadata = {
+title: "About"
+}
 
 export default function PageAbout2() {
 

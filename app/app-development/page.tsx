@@ -3,6 +3,10 @@
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
 import { useState } from "react"
+import { Metadata } from "next"
+export const metadata: Metadata = {
+title: "app development"
+}
 export default function PageServicesDetails2() {
 
 	// Accordion

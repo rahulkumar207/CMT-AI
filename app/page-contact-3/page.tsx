@@ -1,6 +1,10 @@
 
 import Layout from "@/components/layout/Layout"
 import Link from "next/link"
+import { Metadata } from "next"
+export const metadata: Metadata = {
+title: "contact"
+}
 export default function PageContact3() {
 
 	return (
