@@ -29,7 +29,7 @@ export default function RootLayout({
     <html lang="en" data-bs-theme="dark">
       <Head>
       
-        <title>CMT AI | India's Top App Development &amp; Website Development Company.</title>
+        <title>CMT AI | India's Top App Development & Website Development Company.</title>
         <meta
           name="description"
           content="CMT AI is a full-service technology solutions provider specializing in website development, app development, and digital marketing services. Whether you need a dynamic website, a custom mobile app, or powerful SEO strategies to enhance your online visibility, CMT AI has the expertise to deliver tailored solutions. We help businesses of all sizes harness the power of modern technology with user-friendly designs, scalable software, and innovative digital marketing tactics."
