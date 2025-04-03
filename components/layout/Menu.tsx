@@ -110,7 +110,7 @@ export default function Menu() {
 										<img src="/assets/imgs/service-3/digital.svg" alt="Digital Marketing , " width={18} height={18} className="mt-1" />
 
 										<span className="ms-2">
-											<span className="d-block fw-bold fs-6">Digital Marketing Social Media Marketing, CRM Software, Value Proposition, User Testing, Online Marketing, Internet Marketing</span>
+											<span className="d-block fw-bold fs-6">Digital Marketing</span>
 										</span>
 									</Link>
 								</li>

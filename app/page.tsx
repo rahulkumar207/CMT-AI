@@ -8,7 +8,7 @@ import Services1 from "@/components/sections/Services1"
 import Trusted from "@/components/sections/Static3"
 import CTA from "@/components/sections/Cta2"
 import CTA2 from "@/components/sections/Cta6"
-
+import SEO from "@/components/sections/seo"
 import Testimonial4 from "@/components/sections/Testimonial4"
 import Trusted1 from "@/components/sections/LogoCloud3"
 import dynamic from 'next/dynamic'
@@ -32,7 +32,7 @@ export default function Home() {
 				<Services5 />
 				<Trusted1 />
 				<Testimonial4/>
-				
+				<SEO />
 
 			</Layout>
 		</>
