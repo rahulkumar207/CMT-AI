@@ -182,7 +182,7 @@ export default function PageContact3() {
 									<h6>Global branch</h6>
 									<p className="text-500">
 										Contact us to open our branches globally. <br />
-										(+01) 234 567 89 <br />
+										 000000000 <br />
 									</p>
 								</div>
 							</div>
