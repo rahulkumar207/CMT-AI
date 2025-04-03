@@ -109,17 +109,14 @@ export default function PageContact3() {
 											<p className="text-500">Our team will respond promptly to your inquiries</p>
 											<div className="d-flex mb-2">
 												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">support@cmtai.com</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">info@cmtai.in</Link>
 											</div>
-											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-4.svg" alt="cmtai" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">sale@cmtai.com</Link>
-											</div>
+											
 											<h6>For more inquiry</h6>
 											<p className="text-500">Reach out for immediate assistance</p>
 											<div className="d-flex mb-2">
 												<img src="/assets/imgs/contact-2/icon-5.svg" alt="cmtai" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+01 (24) 568 900</Link>
+												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">+91 9818234884</Link>
 											</div>
 										</div>
 									</div>
@@ -141,7 +138,7 @@ export default function PageContact3() {
 									</div>
 									<h6>Help  support</h6>
 									<p className="text-500">
-										Email <span className="text-900">support@alithemes.com</span> For <br />
+										Email <span className="text-900">info@cmtai.in</span> For <br />
 										help with a current product or <br />
 										service or refer to FAQs and developer tools
 									</p>
@@ -157,8 +154,7 @@ export default function PageContact3() {
 									<h6>Call Us</h6>
 									<p className="text-500">
 										Call us to speak to a member of our team. <br />
-										(+01) 234 567 89 <br />
-										(+01) 456 789 21
+										+91 9818234884 <br />
 									</p>
 								</div>
 							</div>
@@ -172,7 +168,7 @@ export default function PageContact3() {
 									<h6>Business Department</h6>
 									<p className="text-500">
 										Contact the sales department about cooperation projects <br />
-										(+01) 789 456 23
+										+91 9818234884
 									</p>
 								</div>
 							</div>
@@ -187,7 +183,6 @@ export default function PageContact3() {
 									<p className="text-500">
 										Contact us to open our branches globally. <br />
 										(+01) 234 567 89 <br />
-										(+01) 456 789 23
 									</p>
 								</div>
 							</div>
