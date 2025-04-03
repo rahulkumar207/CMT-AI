@@ -15,7 +15,7 @@ import Head from 'next/head';
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "CMT AI | India's Best App Development &amp; Website Development Company.",
+  title: "CMT AI | India's Best App Development & Website Development Company.",
   description:
     "CMT AI delivers cutting-edge software solutions with a focus on results-driven digital growth. Our expert team combines innovative development approaches with AI technologies to transform business challenges into opportunities. From custom application development to enterprise software integration, we partner with clients to build scalable, future-proof digital products that drive measurable success",
 };

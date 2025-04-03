@@ -8,30 +8,7 @@ export default function PageContact3() {
 
 			<Layout >
 
-				<section className="section-page-header py-10 fix position-relative">
-					<div className="container position-relative z-1">
-						<div className="text-start">
-							<h3>Get in touch</h3>
-							<div className="d-flex">
-								<Link href="#">
-									<p className="mb-0 text-900">Home</p>
-								</Link>
-								<svg className="mx-3 mt-1" xmlns="http://www.w3.org/2000/svg" width={8} height={13} viewBox="0 0 8 13" fill="none">
-									<path className="stroke-dark" d="M1 1.5L6.5 6.75L1 12" stroke="#111827" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
-								</svg>
-								<p className="text-primary mb-0">Contact Us</p>
-							</div>
-						</div>
-					</div>
-					<img className="position-absolute bottom-0 start-0 end-0 top-0 z-0" src="/assets/imgs/page-header/bg-line.png" alt="cmtai" />
-					<div className="bouncing-blobs-container">
-						<div className="bouncing-blobs-glass" />
-						<div className="bouncing-blobs">
-							<div className="position-absolute top-0 start-0 translate-middle-y bouncing-blob--green" />
-							<div className="position-absolute top-0 end-0 bouncing-blob--primary" />
-						</div>
-					</div>
-				</section>
+				
 				{/* Contact 2*/}
 				<section className="section-contact-2 position-relative section-padding bg-5">
 					<div className="container position-relative z-1">
@@ -123,14 +100,7 @@ export default function PageContact3() {
 												<img src="/assets/imgs/contact-2/icon-1.svg" alt="cmtai" />
 												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Whatsapp</Link>
 											</div>
-											<div className="d-flex mb-2">
-												<img src="/assets/imgs/contact-2/icon-2.svg" alt="cmtai" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Viber</Link>
-											</div>
-											<div className="d-flex mb-2 mb-5">
-												<img src="/assets/imgs/contact-2/icon-3.svg" alt="cmtai" />
-												<Link className="ms-2 text-decoration-underline text-900 fs-7" href="#">Chat via Messager</Link>
-											</div>
+											
 											<h6>Send us an email</h6>
 											<p className="text-500">Our team will respond promptly to your inquiries</p>
 											<div className="d-flex mb-2">
@@ -222,7 +192,7 @@ export default function PageContact3() {
 				</section>
 				<div className="container pb-120">
 					<div className="contact-map w-100">
-						<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3152.332792000835!2d144.96011341744386!3d-37.805673299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad65d4c2b349649%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sbd!4v1685027435635!5m2!1sen!2sbd" allowFullScreen loading="lazy" />
+					<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14014.401174993189!2d77.318452!3d28.581763!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce53708916071%3A0x432816975a2fe899!2sCMT%20AI!5e0!3m2!1sen!2sin!4v1743657914449!5m2!1sen!2sin" allowFullScreen loading="lazy" />
 					</div>
 				</div>
 
