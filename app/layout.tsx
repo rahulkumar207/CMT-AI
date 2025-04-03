@@ -10,9 +10,11 @@ import "/public/assets/fonts/satoshi/satoshi.css";
 import "/public/assets/css/main.css";
 
 import "@/node_modules/react-modal-video/css/modal-video.css";
-
+import {Inter} from "next/font/google";
 import Head from 'next/head'; 
 import type { Metadata } from "next";
+
+const inter = Inter({subsets: ["latin"]});
 
 export const metadata: Metadata = {
   title: {
