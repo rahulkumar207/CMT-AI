@@ -4,9 +4,9 @@ function seo() {
   return (
     <>
     <div className='container'>
-    <h2 className='seo' style={{ fontSize: "0.1px" }}>
+    <h1 className='seo' style={{ fontSize: "0.1px" }}>
   hello
-   </h2>
+   </h1>
 
     </div>
     </>

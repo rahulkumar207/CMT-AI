@@ -1,5 +1,5 @@
 
-import Features from "@/components/sections/crm-features"
+import Features from "@/components/sections/erp-features"
 import ERPHero from "@/components/sections/erp-hero"
 import HowItWork from "@/components/sections/erp-work"
 import LogoCloud2 from "@/components/sections/LogoCloud2"
