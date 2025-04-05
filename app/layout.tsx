@@ -19,11 +19,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: {
-    default: "CMT AI | India's Best App Development & Website Development Company",
-    template: "%s - CMT AI | India's Best App Development & Website Development Company",
+    default: "Best App & Website Development Company in India",
+    template: "%s - India's Best App Development & Website Development Company",
   },
   description:
-    "CMT AI delivers cutting-edge software solutions with a focus on results-driven digital growth...",
+    "India’s top app and website development company offering innovative, scalable, and results-driven digital solutions tailored to your business growth..",
   twitter: {
     card: "summary_large_image",
   },
