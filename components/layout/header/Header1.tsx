@@ -33,7 +33,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 								</svg>
 							</div>
 							<Link href="https://calendly.com/completrix/project-discussion-session?month=2025-04" className="btn btn-gradient d-none d-md-block">
-								Book a call
+								Book a meeting
 							</Link>
 							<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
 								<span className="burger-icon-top" />
