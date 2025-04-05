@@ -23,14 +23,13 @@ export const metadata: Metadata = {
     template: "%s - CMT AI | India's Best App Development & Website Development Company",
   },
   description:
-    "CMT AI delivers cutting-edge software solutions with a focus on results-driven digital growth. Our expert team combines innovative development approaches with AI technologies to transform business challenges into opportunities. From custom application development to enterprise software integration, we partner with clients to build scalable, future-proof digital products that drive measurable success",
+    "CMT AI delivers cutting-edge software solutions with a focus on results-driven digital growth...",
   twitter: {
     card: "summary_large_image",
   },
   openGraph: {
     title: "CMT AI | India's Top App Development & Website Development Company.",
-    description:
-      "CMT AI is a full-service technology solutions provider specializing in website development, app development, and digital marketing services. Whether you need a dynamic website, a custom mobile app, or powerful SEO strategies to enhance your online visibility, CMT AI has the expertise to deliver tailored solutions. We help businesses of all sizes harness the power of modern technology with user-friendly designs, scalable software, and innovative digital marketing tactics.",
+    description: "CMT AI is a full-service technology solutions provider...",
     url: "https://www.cmtai.in/",
     siteName: "CMT AI",
     type: "website",
@@ -54,11 +53,10 @@ export default function RootLayout({
         {children}
 
         {/* Google Analytics */}
-       
         <Script
           async
           src="https://www.googletagmanager.com/gtag/js?id=G-GDCMNQC07W"
-        ></Script>
+        />
         <Script id="google-analytics">
           {`
             window.dataLayer = window.dataLayer || [];
@@ -68,8 +66,32 @@ export default function RootLayout({
           `}
         </Script>
 
+        {/* Meta Pixel (Facebook Pixel) */}
+        <Script id="facebook-pixel" strategy="afterInteractive">
+          {`
+            !function(f,b,e,v,n,t,s)
+            {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+            if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+            n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t,s)}(window, document,'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+            fbq('init', '980745824124415');
+            fbq('track', 'PageView');
+          `}
+        </Script>
+
+        {/* Fallback for no-JS users */}
+        <noscript>
+          <img
+            height="1"
+            width="1"
+            style={{ display: "none" }}
+            src="https://www.facebook.com/tr?id=980745824124415&ev=PageView&noscript=1"
+          />
+        </noscript>
       </body>
     </html>
   )
 }
-
