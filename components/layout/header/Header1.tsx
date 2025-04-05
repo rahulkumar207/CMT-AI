@@ -32,8 +32,8 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSear
 									<path className="stroke-dark" d="M19.25 19.25L15.5 15.5M4.75 11C4.75 7.54822 7.54822 4.75 11 4.75C14.4518 4.75 17.25 7.54822 17.25 11C17.25 14.4518 14.4518 17.25 11 17.25C7.54822 17.25 4.75 14.4518 4.75 11Z" stroke="black" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
 								</svg>
 							</div>
-							<Link href="/contact" className="btn btn-gradient d-none d-md-block">
-								Join For Free Trial
+							<Link href="https://calendly.com/completrix/project-discussion-session?month=2025-04" className="btn btn-gradient d-none d-md-block">
+								Book a call
 							</Link>
 							<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
 								<span className="burger-icon-top" />

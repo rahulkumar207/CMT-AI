@@ -99,7 +99,7 @@ export default function PageContact3() {
   }
 
   return (
-    <Layout>
+   
       <section className="section-contact-2 position-relative section-padding bg-5">
         <div className="container position-relative z-1">
           <div className="text-center">
@@ -242,78 +242,6 @@ export default function PageContact3() {
           </div>
         </div>
       </section>
-      <section className="section-contact-5 section-padding">
-        <div className="container">
-          <div className="row">
-            <div className="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-              <div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
-                <div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
-                  <div className="icon">
-                    <img src="/assets/imgs/contact-5/icon-1.svg" alt="cmtai" />
-                  </div>
-                </div>
-                <h6>Help support</h6>
-                <p className="text-500">
-                  Email <span className="text-900">info@cmtai.in</span> For <br />
-                  help with a current product or <br />
-                  service or refer to FAQs and developer tools
-                </p>
-              </div>
-            </div>
-            <div className="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-              <div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
-                <div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
-                  <div className="icon">
-                    <img src="/assets/imgs/contact-5/icon-2.svg" alt="cmtai" />
-                  </div>
-                </div>
-                <h6>Call Us</h6>
-                <p className="text-500">
-                  Call us to speak to a member of our team. <br />
-                  +91 9818234884 <br />
-                </p>
-              </div>
-            </div>
-            <div className="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-              <div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
-                <div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
-                  <div className="icon">
-                    <img src="/assets/imgs/contact-5/icon-3.svg" alt="cmtai" />
-                  </div>
-                </div>
-                <h6>Business Department</h6>
-                <p className="text-500">
-                  Contact the sales department about cooperation projects <br />
-                  +91 9818234884
-                </p>
-              </div>
-            </div>
-            <div className="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
-              <div className="feature-item mb-5 mb-lg-0 pe-5 hover-up">
-                <div className="bg-primary-soft icon-flip position-relative icon-shape icon-xxl rounded-3 mb-4">
-                  <div className="icon">
-                    <img src="/assets/imgs/contact-5/icon-4.svg" alt="cmtai" />
-                  </div>
-                </div>
-                <h6>Global branch</h6>
-                <p className="text-500">
-                  Contact us to open our branches globally. <br />
-                  +91 9818234884 <br />
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <div className="container pb-120">
-        <div className="contact-map w-100">
-          <iframe
-            src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14014.401174993189!2d77.318452!3d28.581763!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce53708916071%3A0x432816975a2fe899!2sCMT%20AI!5e0!3m2!1sen!2sin!4v1743657914449!5m2!1sen!2sin"
-            allowFullScreen
-            loading="lazy"
-          />
-        </div>
-      </div>
-    </Layout>
-  )
-}
+          
+        )
+      }
