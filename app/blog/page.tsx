@@ -95,7 +95,7 @@ export default function BlogPage() {
                 blogs.map((blog, index) => (
                   <div key={blog?.id || index} className="col-lg-4 col-md-6 text-start">
                     <div className="card border-0 rounded-3 mt-4 position-relative d-inline-flex">
-                      <Link href={`/page-blog-details?id=${blog?.id}`}>
+                      <Link href={`/blog-details?id=${blog?.id}`}>
                         <img
                           className="rounded-top-3"
                           src={blog?.blogImage || "/assets/imgs/blog-6/default.jpg"}
@@ -108,7 +108,7 @@ export default function BlogPage() {
                       </Link>
                       <div className="card-body bg-white p-0">
                         <Link
-                          href={`/page-blog-details?id=${blog?.id}`}
+                          href={`/blog-details?id=${blog?.id}`}
                           className="bg-primary-soft position-relative z-1 d-inline-flex rounded-pill px-3 py-2 mt-3"
                         >
                           <span className="tag-spacing fs-7 fw-bold text-linear-2 text-uppercase">
@@ -116,7 +116,7 @@ export default function BlogPage() {
                           </span>
                         </Link>
                         <h6 className="my-3">
-                          <Link href={`/page-blog-details?id=${blog?.id}`}>{blog?.title || "Untitled"}</Link>
+                          <Link href={`/blog-details?id=${blog?.id}`}>{blog?.title || "Untitled"}</Link>
                         </h6>
                       </div>
                     </div>

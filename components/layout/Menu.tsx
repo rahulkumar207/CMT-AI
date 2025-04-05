@@ -14,7 +14,7 @@ export default function Menu() {
 
 					</li>
 					<li className="nav-item">
-						<Link className="nav-link fw-bold d-flex align-items-center" href="/page-about-2">About</Link>
+						<Link className="nav-link fw-bold d-flex align-items-center" href="/about">About</Link>
 					</li>
 					<li className="nav-item dropdown menu-item-has-children">
 						<Link className="nav-link fw-bold d-flex align-items-center" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">

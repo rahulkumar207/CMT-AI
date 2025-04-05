@@ -36,7 +36,7 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 											</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link fw-bold d-flex align-items-center" href="/page-about-2">About</Link>
+											<Link className="nav-link fw-bold d-flex align-items-center" href="/about">About</Link>
 										</li>
 										<li className={`nav-item dropdown ${activeDropdown === 'product' ? 'show' : ''}`}>
 											<Link
