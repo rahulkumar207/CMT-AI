@@ -72,7 +72,7 @@ export default function Hero1() {
 									With Our Experts
 								</p>
 								
-								<Link href="https://myaibot.in/" className="d-flex align-items-center bg-linear-1 d-inline-flex rounded-pill px-2 py-1">
+								<Link href="https://calendly.com/completrix/project-discussion-session?month=2025-04" className="d-flex align-items-center bg-linear-1 d-inline-flex rounded-pill px-2 py-1">
 									<span className="bg-primary fs-9 fw-bold rounded-pill px-2 py-1 text-white">Book</span>
 									<span className="fs-7 fw-medium text-primary mx-2">Free Session</span>
 									<svg xmlns="http://www.w3.org/2000/svg" width={18} height={19} viewBox="0 0 18 19" fill="none">

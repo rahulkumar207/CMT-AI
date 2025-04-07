@@ -240,6 +240,9 @@ export default function Menu() {
 							<div className="ellipse-rotate-primary-sm position-absolute top-0 end-0 translate-middle-y z-0" />
 						</div>
 					</li> */}
+					<li className="nav-item">
+						<Link className="nav-link fw-bold d-flex align-items-center" href="/contact">Contact</Link>
+					</li>
 				</ul>
 			</div>
 		</>

@@ -139,6 +139,9 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 												</ul>
 											</div>
 										</li>
+										<li className="nav-item">
+											<Link className="nav-link fw-bold d-flex align-items-center" href="/contact">Contact</Link>
+										</li>
 										
 									</ul>
 								</nav>

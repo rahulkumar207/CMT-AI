@@ -5,6 +5,7 @@ import Link from "next/link"
 import { useState } from "react"
 import { db } from "@/util/firebase" // Import centralized Firebase configuration
 import { collection, addDoc } from "firebase/firestore"
+import ContactSection from "@/components/sections/contact-info"
 
 export default function PageContact3() {
   const [formData, setFormData] = useState({
@@ -186,6 +187,7 @@ export default function PageContact3() {
                             name="message"
                             placeholder="Describe Your Project in Short"
                             value={formData.message}
+                            rows={3}
                             onChange={handleChange}
                             onBlur={handleBlur}
                             required
@@ -242,7 +244,7 @@ export default function PageContact3() {
           </div>
         </div>
       </section>
-      <section className="section-contact-5 section-padding">
+      {/* <section className="section-contact-5 section-padding">
         <div className="container">
           <div className="row">
             <div className="col-12 col-md-6 col-lg-3 mb-5 mb-md-0">
@@ -304,8 +306,11 @@ export default function PageContact3() {
             </div>
           </div>
         </div>
-      </section>
-      <div className="container pb-120">
+      </section> */}
+
+<ContactSection />
+
+      {/* <div className="container pb-120">
         <div className="contact-map w-100">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14014.401174993189!2d77.318452!3d28.581763!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce53708916071%3A0x432816975a2fe899!2sCMT%20AI!5e0!3m2!1sen!2sin!4v1743657914449!5m2!1sen!2sin"
@@ -313,7 +318,7 @@ export default function PageContact3() {
             loading="lazy"
           />
         </div>
-      </div>
+      </div> */}
     </Layout>
   )
 }
