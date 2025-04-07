@@ -42,77 +42,77 @@ export default function Testimonial4() {
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-1.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-2.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-3.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-4.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-5.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-6.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-7.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-8.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-9.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-10.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-11.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
         </div>
@@ -121,70 +121,70 @@ export default function Testimonial4() {
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-12.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-13.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-14.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-15.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-16.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-17.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-18.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-19.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-20.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
           <div className="avatar-xxl rounded-circle">
             <img
               className="assessor rounded-circle border border-5 border-primary-soft"
               src="/assets/imgs/testimonial-4/avatar-21.png"
-              alt=""
+              alt="#Website Development #App Development #Digital Marketing #SEO Services"
             />
           </div>
         </div>

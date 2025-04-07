@@ -1,4 +1,5 @@
 import type React from "react";
+import Head from "next/head";
 import "/public/assets/css/vendors/bootstrap.min.css";
 import "/public/assets/css/vendors/swiper-bundle.min.css";
 import "/public/assets/css/vendors/aos.css";
@@ -52,6 +53,7 @@ export default function RootLayout({
 
   return (
     <html lang="en" data-bs-theme="dark">
+
       <body className={inter.className}>
         {children}
 
