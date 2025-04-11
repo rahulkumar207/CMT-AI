@@ -141,7 +141,7 @@ export default function PageAbout2() {
         <section className="section-team-6 section-padding position-relative">
           <div className="container">
             <div className="row position-relative z-1">
-              <div className="text-center">
+               <div className="text-start">
                 <div className="d-flex align-items-center justify-content-center bg-primary-soft border border-2 border-white d-inline-flex rounded-pill px-4 py-2" data-aos="zoom-in" data-aos-delay={100}>
                   <img src="/assets/imgs/features-1/dots.png" alt="cmtai" />
                   <span className="tag-spacing fs-7 fw-bold text-linear-2 ms-2 text-uppercase">OUR TEAM MEMBERS</span>
@@ -158,7 +158,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Anurag Singh</Link>
                       </h6>
@@ -179,9 +179,9 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
-                        <Link href="#" className="text-900">Gourav Kumar</Link>
+                        <Link href="#" className="text-900">Gourav Balyan</Link>
                       </h6>
                       <p className="mb-0">Chief Marketing Officer (CMO)</p>
                     </div>
@@ -200,7 +200,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Dharmendra Kumar</Link>
                       </h6>
@@ -221,7 +221,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Hemant kumar</Link>
                       </h6>
@@ -242,7 +242,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Nikita Sharma</Link>
                       </h6>
@@ -263,7 +263,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Manish Kumar</Link>
                       </h6>
@@ -284,7 +284,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Sakshi Rajput</Link>
                       </h6>
@@ -305,7 +305,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                    <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Prashant Sharma</Link>
                       </h6>
@@ -326,7 +326,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Rahul Rajput</Link>
                       </h6>
@@ -347,7 +347,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Nikhil Choudhary</Link>
                       </h6>
@@ -368,7 +368,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Mohit Kumar</Link>
                       </h6>
@@ -389,7 +389,7 @@ export default function PageAbout2() {
               <div className="col-lg-3 col-md-6 mb-lg-4 mb-8 text-center">
                 <div className="card-team position-relative d-inline-block hover-up">
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
-                    <div>
+                  <div className="text-start">
                       <h6>
                         <Link href="#" className="text-900">Aayush Kumar</Link>
                       </h6>
