@@ -354,25 +354,14 @@ export default function PageServicesDetails2() {
 										<img src="/assets/imgs/services-details/icon-1.svg" alt="cmtai" />
 										<p className="text-900 fs-7 mb-0 ms-3">PDF. Download (25 Mb)</p>
 									</Link>
-									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-2.svg" alt="cmtai" />
-										<p className="text-900 fs-7 mb-0 ms-3">DOC. Download (28 Mb)</p>
-									</Link>
-									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
-										<img src="/assets/imgs/services-details/icon-3.svg" alt="cmtai" />
-										<p className="text-900 fs-7 mb-0 ms-3">Open on Google Driver</p>
-									</Link>
-									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center">
-										<img src="/assets/imgs/services-details/icon-4.svg" alt="cmtai" />
-										<p className="text-900 fs-7 mb-0 ms-3">Open on Google Driver</p>
-									</Link>
+								
 								</div>
 								<div className="bg-primary rounded-4 mt-7 position-relative">
 									<div className="p-7">
 										<h4 className="text-white">
 											Providing the <br />
 											Ultimate Experience <br />
-											in Financial Services
+											in App Services
 										</h4>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
 											<img src="/assets/imgs/services-details/icon-contact.svg" alt="cmtai" />
@@ -381,12 +370,12 @@ export default function PageServicesDetails2() {
 												<h5 className="text-white d-block">+91 9818234884</h5>
 											</div>
 										</Link>
-										<Link href="#" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">
+										{/* <Link href="#" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">
 											<span>Get 15 Days Free Trial</span>
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
 												<path d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#6D4DF2" />
 											</svg>
-										</Link>
+										</Link> */}
 									</div>
 									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="Digital Marketing, Google Analytics, Google Ads, Google My Business, Affiliate Marketing, Search Engine Optimization, SEO, Analytics, Data Analytics, Branding, UX Design, Web Design, Facebook Ads, Social Media Management, Social Media Marketing, CRM Software, Value Proposition, User Testing, Online Marketing, Internet Marketing, Online Advertising, Internet Marketing Agency, Internet Marketing Service, Online Marketing Strategy, Website Advertising" />
 								</div>
@@ -396,7 +385,7 @@ export default function PageServicesDetails2() {
 									</div>
 									<div className="position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2 text-900 text-nowrap">
-											Loved by over 4k <br />
+											Loved by over 1k <br />
 											happy clients
 										</p>
 										<div className="d-flex align-items-center justify-content-center py-4">

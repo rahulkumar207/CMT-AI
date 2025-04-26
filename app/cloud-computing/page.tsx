@@ -485,7 +485,7 @@ export default function PageServicesDetails2() {
 										<h4 className="text-white">
 											Providing the <br />
 											Ultimate Experience <br />
-											in Financial Services
+											in Cloud Services
 										</h4>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
 											<img src="/assets/imgs/services-details/icon-contact.svg" alt="cmtai" />
@@ -494,12 +494,7 @@ export default function PageServicesDetails2() {
 												<h5 className="text-white d-block">+91 9818234884</h5>
 											</div>
 										</Link>
-										<Link href="#" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">
-											<span>Get 15 Days Free Trial</span>
-											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
-												<path d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#6D4DF2" />
-											</svg>
-										</Link>
+										
 									</div>
 									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="Cloud Computing, Best Cloud Services, Cloud Solutions, Cloud-Based Software, Cloud Infrastructure, Best Cloud Computing Services for Small Businesses, Best Cloud-Based Software Development Solutions, Best Cloud Infrastructure for Enterprise Applications, Best Cloud Services for Data Storage and Security, Best Cloud Solutions for Scalability and Flexibility, Best Cloud Computing Services, Best Cloud Migration Solutions, Top Cloud Hosting Providers, Best Cloud Computing Services for Data Security and Scalability, Top Hybrid Cloud Migration Companies in 2025, Affordable and Best Cloud Hosting Providers for Startups, Best Cloud Infrastructure Management Service" />
 								</div>
@@ -509,7 +504,7 @@ export default function PageServicesDetails2() {
 									</div>
 									<div className="position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2 text-900 text-nowrap">
-											Loved by over 4k <br />
+											Loved by over 1k <br />
 											happy clients
 										</p>
 										<div className="d-flex align-items-center justify-content-center py-4">

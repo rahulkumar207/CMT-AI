@@ -382,7 +382,7 @@ export default function PageServicesDetails2() {
 									</div>
 									<div className="position-absolute bottom-0 start-50 translate-middle-x mb-8 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
 										<p className="pt-2 text-900 text-nowrap">
-											Loved by over 4k <br />
+											Loved by over 1k <br />
 											happy clients
 										</p>
 										<div className="d-flex align-items-center justify-content-center py-4">
