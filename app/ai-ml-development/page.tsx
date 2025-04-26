@@ -461,10 +461,10 @@ export default function PageServicesDetails2() {
 											<img src="/assets/imgs/services-details/icon-contact.svg" alt="cmtai" />
 											<div className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
-												<h5 className="text-white d-block">+01 (24) 568 900</h5>
+												<h5 className="text-white d-block">+91 9818234884</h5>
 											</div>
 										</Link>
-										<Link href="#" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">
+										<Link href="/contact" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">
 											<span>Get 15 Days Free Trial</span>
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
 												<path d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#6D4DF2" />

@@ -491,7 +491,7 @@ export default function PageServicesDetails2() {
 											<img src="/assets/imgs/services-details/icon-contact.svg" alt="cmtai" />
 											<div className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
-												<h5 className="text-white d-block">+01 (24) 568 900</h5>
+												<h5 className="text-white d-block">+91 9818234884</h5>
 											</div>
 										</Link>
 										<Link href="#" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">

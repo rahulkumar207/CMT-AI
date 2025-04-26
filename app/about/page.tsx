@@ -74,7 +74,7 @@ export default function PageAbout2() {
                     <img src="/assets/imgs/cta-13/img-1.png" alt="software development, Software Development Company, custom software development, Software Development Services, software outsourcing, Best Custom Software Development Company, top software development services for startups, Cloud-Based Software Development Solutions, AI-Powered Software Development Services, best software development company for e-commerce, Software Development for Healthcare Industry, software development outsourcing services, Best Software Development Company for Enterprise Solutions, mobile app development services, Web Application Development Company, best AI software development company, Top Blockchain Development Services, best fintech software development solutions, Cloud Migration Services for Software Development, best cybersecurity solutions for software development, Software Development with Agile Methodologies, Best DevOps Services for Software Development" />
                   </div>
                   <div className="position-absolute alltuchtopdown bottom-0 start-0 m-md-5 backdrop-filter rounded-4 px-7 py-4 text-center z-1">
-                    <p className="pt-2">Loved by over 4k <br /> happy clients</p>
+                    <p className="pt-2">Loved by over 1k <br /> happy clients</p>
                     <div className="d-flex align-items-center justify-content-center py-4">
                       <img src="/assets/imgs/features-3/avatar-1.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
                       <img className="avt-hero z-1" src="/assets/imgs/features-3/avatar-2.png" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
@@ -106,15 +106,15 @@ export default function PageAbout2() {
                     <div className="backdrop-filter bg-linear-2 rounded-4 px-6 py-4 z-1">
                       <div className="d-flex align-items-center justify-content-between">
                         <div className="my-lg-3 text-center">
-                          <span className="h2 count fw-black mb-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={23} enableScrollSpy={true} />k</span>
+                          <span className="h2 count fw-black mb-0 lh-1 text-white text-nowrap">+<span className="odometer" />1.2k</span>
                           <p className="text-white text-nowrap border-opacity-50 border-white pb-3 mb-3">Projects Completed</p>
-                          <span className="h2 count fw-black my-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={98} enableScrollSpy={true} />k</span>
+                          <span className="h2 count fw-black my-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={1} enableScrollSpy={true} />k</span>
                           <p className="text-white text-nowrap mb-0">Happy Clients</p>
                         </div>
                         <div className="my-lg-3 text-center">
-                          <span className="h2 count fw-black mb-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={38} enableScrollSpy={true} />k</span>
+                          <span className="h2 count fw-black mb-0 lh-1 text-white text-nowrap">+<span className="odometer" /><CountUp end={1} enableScrollSpy={true} />k</span>
                           <p className="text-white text-nowrap border-opacity-50 border-white pb-3 mb-3">Users Actived</p>
-                          <span className="h2 count fw-black my-0 lh-1 text-white text-nowrap"><span className="odometer" /><CountUp end={150} enableScrollSpy={true} /></span>
+                          <span className="h2 count fw-black my-0 lh-1 text-white text-nowrap"><span className="odometer" /><CountUp end={10} enableScrollSpy={true} /></span>
                           <p className="text-white text-nowrap mb-0">Operating countries</p>
                         </div>
                       </div>
@@ -181,7 +181,7 @@ export default function PageAbout2() {
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
                   <div className="text-start">
                       <h6>
-                        <Link href="#" className="text-900">Gourav Balyan</Link>
+                        <Link href="#" className="text-900">Gourav Baliyan</Link>
                       </h6>
                       <p className="mb-0">Chief Marketing Officer (CMO)</p>
                     </div>
@@ -202,7 +202,7 @@ export default function PageAbout2() {
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
                   <div className="text-start">
                       <h6>
-                        <Link href="#" className="text-900">Dharmendra Kumar</Link>
+                        <Link href="#" className="text-900">Dharmendra Singh</Link>
                       </h6>
                       <p className="mb-0">Co-Founder & COO</p>
                     </div>
@@ -223,7 +223,7 @@ export default function PageAbout2() {
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
                   <div className="text-start">
                       <h6>
-                        <Link href="#" className="text-900">Hemant kumar</Link>
+                        <Link href="#" className="text-900">Hemant </Link>
                       </h6>
                       <p className="mb-0">Software Engineer</p>
                     </div>
@@ -265,7 +265,7 @@ export default function PageAbout2() {
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
                   <div className="text-start">
                       <h6>
-                        <Link href="#" className="text-900">Manish Kumar</Link>
+                        <Link href="#" className="text-900">Manish Chaudhary</Link>
                       </h6>
                       <p className="mb-0">Software Engineer</p>
                     </div>
@@ -370,7 +370,7 @@ export default function PageAbout2() {
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
                   <div className="text-start">
                       <h6>
-                        <Link href="#" className="text-900">Mohit Kumar</Link>
+                        <Link href="#" className="text-900">Mohit Sarswat</Link>
                       </h6>
                       <p className="mb-0">Senior Business Executive</p>
                     </div>
@@ -391,7 +391,7 @@ export default function PageAbout2() {
                   <div className="d-flex bg-primary-soft rounded-top-3 p-3">
                   <div className="text-start">
                       <h6>
-                        <Link href="#" className="text-900">Aayush Kumar</Link>
+                        <Link href="#" className="text-900">Aayush </Link>
                       </h6>
                       <p className="mb-0">Senior Business Executive</p>
                     </div>

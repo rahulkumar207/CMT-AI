@@ -42,7 +42,7 @@ export default function Hero1() {
 											<img className="avt-hero" src="/assets/imgs/hero-1/avatar-2.png" alt="cmtai" />
 											<img className="avt-hero" src=" assets/imgs/hero-1/avatar-3.png" alt="cmtai" />
 										</div>
-										<span className="fs-6 fw-bold">4.8/5 <span className="text-secondary fw-medium">(26k Reviews)</span></span>
+										<span className="fs-6 fw-bold">4.8/5 <span className="text-secondary fw-medium">(1.1k+ Reviews)</span></span>
 									</div>
 									<div className="ms-3" data-aos="fade-zoom-in" data-aos-delay={300}>
 										<img src="/assets/imgs/hero-1/brand-1.svg" alt="CMT AI | CMT AI NOIDA | We Create Android App | IOS App | Website | Cloud Technology | Digital Marketing , SEO , SMO. Web application development, Mobile app development, Software engineering, Software solutions provider, Software development lifecycle, Software architecture, Software coding, Software testing, Software deployment, Software maintenance, Front-end development, Back-end development, Full-stack development, Cloud-based software development, Enterprise software development, Open-source software development, Rapid application development, Prototype development, Application programming interface (API) development, Software integration, Database development, UI/UX design and development, Software,completrix,completrix microtechnologies pvt ltd" />

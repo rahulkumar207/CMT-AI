@@ -340,7 +340,7 @@ export default function PageServicesDetails2() {
 										<img src="/assets/imgs/services-details/icon-1.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										<p className="text-900 fs-7 mb-0 ms-3">PDF. Download (25 Mb)</p>
 									</Link>
-									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
+									{/* <Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center mb-3">
 										<img src="/assets/imgs/services-details/icon-2.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										<p className="text-900 fs-7 mb-0 ms-3">DOC. Download (28 Mb)</p>
 									</Link>
@@ -351,28 +351,28 @@ export default function PageServicesDetails2() {
 									<Link href="#" className="bg-white rounded-3 p-3 border d-flex align-items-center">
 										<img src="/assets/imgs/services-details/icon-4.svg" alt="#Website Development #App Development #Digital Marketing #SEO Services" />
 										<p className="text-900 fs-7 mb-0 ms-3">Open on Google Driver</p>
-									</Link>
+									</Link> */}
 								</div>
 								<div className="bg-primary rounded-4 mt-7 position-relative">
 									<div className="p-7">
 										<h4 className="text-white">
 											Providing the <br />
 											Ultimate Experience <br />
-											in Financial Services
+											in Web Services
 										</h4>
 										<Link href="/page-contact-1" className="d-flex align-items-center mt-8 mb-9">
 											<img src="/assets/imgs/services-details/icon-contact.svg" alt="Get High DA (Domain Authority) Backlinks, Collect Google My Business Reviews & Ratings, List Business on Local Directories (Justdial, Sulekha, Clutch, GoodFirms), Write Guest Posts & Answer Questions on LinkedIn, Quora, Medium, Reddit, Publish Press Releases on PR Websites" />
 											<div className="ms-3">
 												<span className="text-white mb-0 fs-4">Contact Us</span>
-												<h5 className="text-white d-block">+01 (24) 568 900</h5>
+												<h5 className="text-white d-block">+91 9818234884</h5>
 											</div>
 										</Link>
-										<Link href="#" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">
-											<span>Get 15 Days Free Trial</span>
+										{/* <Link href="#" className="fw-bold btn text-start bg-white fs-6 d-flex align-items-center justify-content-between text-primary hover-up w-100">
+											<span>Get Free Trial</span>
 											<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
 												<path d="M17.4177 5.41772L16.3487 6.48681L21.1059 11.244H0V12.756H21.1059L16.3487 17.5132L17.4177 18.5822L24 12L17.4177 5.41772Z" fill="#6D4DF2" />
 											</svg>
-										</Link>
+										</Link> */}
 									</div>
 									<img className="position-absolute top-0 end-0" src="/assets/imgs/services-details/bg-line-3.png" alt="Get High DA (Domain Authority) Backlinks, Collect Google My Business Reviews & Ratings, List Business on Local Directories (Justdial, Sulekha, Clutch, GoodFirms), Write Guest Posts & Answer Questions on LinkedIn, Quora, Medium, Reddit, Publish Press Releases on PR Websites" />
 								</div>
