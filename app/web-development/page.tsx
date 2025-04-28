@@ -24,6 +24,9 @@ export default function PageServicesDetails2() {
 			<Layout>
 
 				{/* Other sections */}
+				<div>
+					<h1>CMT AI</h1>
+				</div>
 				<section className="section-services-details pt-80px pb-120">
 					<div className="container">
 						<div className="row pt-8">
