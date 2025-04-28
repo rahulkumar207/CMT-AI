@@ -205,7 +205,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <h1>cmt ai</h1>
+    <h3>cmt ai blog details</h3>
   )
 }
 
